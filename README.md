@@ -21,7 +21,7 @@ I design and build **LLM-powered systems that move from research to production.*
 ## 💻 Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,typescript,sql,go" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,SQL,go" />
 </p>
 
 ---
@@ -46,7 +46,7 @@ I design and build **LLM-powered systems that move from research to production.*
 ## 🤖 AI / ML
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow, langraph" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,langraph" />
 </p>
 
 Additional Focus:
