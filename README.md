@@ -11,10 +11,10 @@ I build AI systems that are:
 -  💰 SaaS
 -  🧠 Intelligent Multi-Agent Systems
 -  🔍 LLM Evaluation & Observability
--  📚 AI Research Copilots
+-  📚 AI Research
 -  ⚙️ Scalable AI Backend Architecture
 
-#### 🚀 Production Grade Systems I Have Built
+#### 🚀 Production Grade Systems I am Building
 
 | Project | Description | Tech | Link |
 |---------|-------------|------|------|
@@ -49,7 +49,7 @@ I build AI systems that are:
 
 
 ---
-## Stats
+## Dev Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdul-WriteCodes&theme=radical)
 
