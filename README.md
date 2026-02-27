@@ -70,7 +70,7 @@ I build AI systems that are:
   </a>
 
   <a href="https://x.com/abdulgit_07" target="_blank">
-  <img src="https://skillicons.dev/icons?i=twitter" alt="X (Twitter)" width="30" />
+  <img src="https://skillicons.dev/icons?i=x" alt="X (Twitter)" width="30" />
 </a>
 </p>
 
