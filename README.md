@@ -36,11 +36,11 @@ I design and build scalable and efficient **machine learning model and LLM-power
 </p>
 
 <p align="left">
-  - AI/ML Frameworks: <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn,tensorflow,opik" />
+  - AI/ML Frameworks: <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn,tensorflow" />
 </p>
 
 <p align="left">
- - Deployment and Cloud: <img src="https://skillicons.dev/icons?i=docker,vercel,aws" />
+ - Deployment and Cloud: <img src="https://skillicons.dev/icons?i=docker,vercel,huggingface,aws" />
 </p>
 
 ---
