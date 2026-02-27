@@ -8,6 +8,15 @@ I build AI systems that are:
 - 💡 **Practical** – Tools that solve everyday problems
 ---
 
+
+## 🧠 Current Focus
+
+[![SaaS](https://img.shields.io/badge/SaaS-%F0%9F%92%B0-blue?style=for-the-badge)](https://github.com/)
+[![Multi-Agent Systems](https://img.shields.io/badge/Intelligent-Multi--Agent%20Systems-%F0%9F%A7%A0-green?style=for-the-badge)](https://github.com/)
+[![LLM Evaluation](https://img.shields.io/badge/LLM-Evaluation-%F0%9F%94%8D-orange?style=for-the-badge)](https://github.com/)
+[![AI Research Copilots](https://img.shields.io/badge/AI-Research%20Copilots-%F0%9F%93%9A-red?style=for-the-badge)](https://github.com/)
+[![Backend Architecture](https://img.shields.io/badge/Backend-Architecture-%E2%9A%99%EF%B8%8F-purple?style=for-the-badge)](https://github.com/)
+
 ## 🧠 Current Focus
 -  💰 SaaS
 -  🧠 Intelligent Multi-Agent Systems
@@ -19,7 +28,7 @@ I build AI systems that are:
 
 | Project | Description | Tech | Link |
 |---------|-------------|------|------|
-| 🎯 **ACHIEVIT** | Adaptive LLM Academic Planning System | Python, FastAPI, LLM | [View App](https://achievit.streamlit.app/) |
+| 🎯 **ACHIEVIT** | Adaptive LLM Academic Planning System | Python, Streamlit, LLM | [View App](https://achievit.streamlit.app/) |
 | 🎭 **CaptAI** | ML-powered sentiment analysis | Python, PyTorch, NLP | [View App](https://captai.streamlit.app/) |
 | 💳 **FinRisk-ML** | Transaction risk analysis system | Python, scikit-learn, ML | [View App](https://finrisk-ml.streamlit.app/) |
 | 🩺 **Chron-GPT** | LLM system for diabetes risk analysis | Python, LLM, Healthcare AI | [View App](https://github.com/Abdul-WriteCodes/Chron-GPT) |
