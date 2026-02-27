@@ -28,7 +28,7 @@ I design and build **LLM-powered systems that move from research to production.*
   <img src="https://skillicons.dev/icons?i=streamlit" />
 </p>
 
-🎨 Frontend
+-  🎨 Frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" />
 </p>
@@ -47,7 +47,7 @@ Additional Focus:
 - ☁️ Deployment & Cloud
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,vercel,railway,aws" />
+  <img src="https://skillicons.dev/icons?i=docker,vercel,aws" />
 </p>
 
 ---
