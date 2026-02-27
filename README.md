@@ -39,20 +39,12 @@ I design and build scalable and efficient **machine learning model and LLM-power
   AI/ML Frameworks: <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn,tensorflow" />
 </p>
 Additional Focus:
-<div style="display: flex; flex-wrap: wrap; gap: 16px; margin-top: 16px;">
-  <div style="background-color: #f0f0f0; padding: 20px; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); flex: 1 1 200px; text-align: center;">
-    <strong>RAG Systems</strong>
-  </div>
-  <div style="background-color: #f0f0f0; padding: 20px; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); flex: 1 1 200px; text-align: center;">
-    <strong>LLM-as-a-Judge Evaluation</strong>
-  </div>
-  <div style="background-color: #f0f0f0; padding: 20px; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); flex: 1 1 200px; text-align: center;">
-    <strong>Semantic Search (FAISS / Pinecone)</strong>
-  </div>
-  <div style="background-color: #f0f0f0; padding: 20px; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); flex: 1 1 200px; text-align: center;">
-    <strong>AI Observability</strong>
-  </div>
-</div>
+### Additional Focus
+
+[![RAG Systems](https://img.shields.io/badge/RAG-Systems-blue?style=for-the-badge)](https://github.com/)
+[![LLM-as-a-Judge](https://img.shields.io/badge/LLM-as-a-Judge-green?style=for-the-badge)](https://github.com/)
+[![Semantic Search](https://img.shields.io/badge/Semantic-Search-orange?style=for-the-badge)](https://github.com/)
+[![AI Observability](https://img.shields.io/badge/AI-Observability-red?style=for-the-badge)](https://github.com/)
 
 
 * RAG Systems
