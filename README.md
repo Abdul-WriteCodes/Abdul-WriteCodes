@@ -63,10 +63,9 @@ Additional Focus:
   <a href="mailto:Abdulwrite77@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-<p align="left">
+
   <a href="https://wa.me/2348096506034" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="30" />
   </a>
-</p>
 </p>
 
