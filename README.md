@@ -1,18 +1,24 @@
 
-# 🚀 Anafi Abdul-Azeez Olohunjuwon (BSc ICH; MSc I.T)
+# 🚀About Me
+AI Systems Engineer
 
-AI Systems Engineer | LLM Architect | Research-Driven Builder
-
-I design and build **LLM-powered systems that move from research to production.**
+I design and build scalable and efficient **machine learning model and LLM-powered systems** for everyday use and application
 
 --
 
 ## 🧠 Current Focus
-
 🧠 Intelligent Multi-Agent Systems
 🔍 LLM Evaluation & Observability
 📚 AI Research Copilots
 ⚙️ Scalable AI Backend Architecture
+
+---
+# 🎯 Projects I have Built
+🚀 **ACHIEVIT** – An Adaptive LLM Academic Planning System
+🧠 **CaptAI** – A supervised machine learning models powered system for sentiment analysis
+📊 **FinRisk-ML**- A supervised machine learning model-powered system for analysing transaction risk
+⚙️ **Chron-GPT**- A modular LLM-powered intelligent system that analyse diabetes risk and provide realtime support
+
 
 ---
 
@@ -52,14 +58,6 @@ Additional Focus:
 
 ---
 
-# 🎯 Current Projects
-
-🚀 **ACHIEVIT** – Adaptive LLM Academic Planning System
-🧠 **Reasoner** – Document-Driven AI Research Copilot
-📊 LLM Observability Pipelines
-⚙️ Production AI Architectures
-
----
 
 # 📫 Connect With Me
 
