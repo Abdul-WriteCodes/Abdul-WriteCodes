@@ -1,11 +1,11 @@
 
 # 🚀 Abdul-Azeez Olohunjuwon
 
-### AI Systems Engineer | LLM Architect | Research-Driven Builder
+AI Systems Engineer | LLM Architect | Research-Driven Builder
 
 I design and build **LLM-powered systems that move from research to production.**
 
----
+--
 
 ## 🧠 Current Focus
 
@@ -17,7 +17,6 @@ I design and build **LLM-powered systems that move from research to production.*
 ---
 
 # 🛠️ Tech Stack
-
 ## 💻 Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,typescript,postgres,go" />
@@ -31,7 +30,7 @@ I design and build **LLM-powered systems that move from research to production.*
 
 ## 🎨 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,HTML,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" />
 </p>
 
 ## 🤖 AI / ML
@@ -53,17 +52,6 @@ Additional Focus:
   <img src="https://skillicons.dev/icons?i=docker,vercel,railway,aws" />
 </p>
 
----
-
-# 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdul-WriteCodes&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-WriteCodes&layout=compact&theme=tokyonight&hide_border=true)
-
-## 📈 Contribution Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdul-WriteCodes&theme=react-dark)
 ---
 
 # 🎯 Current Projects
