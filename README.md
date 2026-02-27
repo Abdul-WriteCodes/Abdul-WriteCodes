@@ -31,17 +31,14 @@ I design and build scalable and efficient **machine learning model and LLM-power
  Backend: <img src="https://skillicons.dev/icons?i=fastapi,nodejs,docker" />
 </p>
 
-## 🎨 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" />
+  Frontend: <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" />
 </p>
 
-## 🤖 AI / ML
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn,keras,tensorflow" />
+  AI/ML Frameworks: <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn,keras,tensorflow" />
 </p>
 Additional Focus:
-
 * RAG Systems
 * LLM-as-a-Judge Evaluation
 * Semantic Search (FAISS / Pinecone)
