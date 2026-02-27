@@ -71,7 +71,7 @@ I build AI systems that are:
   </a>
   &nbsp;
   <a href="https://x.com/abdulgit_07" target="_blank">
-    <img src="https://skillicons.dev/icons?i=x" alt="X" width="30" />
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/X_logo_2023.svg" alt="X" width="30" />
+</a>
 </p>
 
