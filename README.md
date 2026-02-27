@@ -29,12 +29,7 @@ I build AI systems that are:
 ## 🛠️ Tech Stack
 
 **Languages:**  
-<img src="https://skillicons.dev/icons?i=python" width="30" /> Python  
-<img src="https://skillicons.dev/icons?i=typescript" width="30" /> TypeScript  
-<img src="https://skillicons.dev/icons?i=mysql" width="30" /> MySQL  
-<img src="https://skillicons.dev/icons?i=mongodb" width="30" /> MongoDB  
-<img src="https://skillicons.dev/icons?i=postgres" width="30" /> PostgreSQL  
-<img src="https://skillicons.dev/icons?i=go" width="30" /> Go  
+<img src="https://skillicons.dev/icons?i=python" width="30" /> Python  <img src="https://skillicons.dev/icons?i=typescript" width="30" /> TypeScript  <img src="https://skillicons.dev/icons?i=mysql" width="30" /> MySQL  <img src="https://skillicons.dev/icons?i=mongodb" width="30" /> MongoDB  <img src="https://skillicons.dev/icons?i=postgres" width="30" /> PostgreSQL  <img src="https://skillicons.dev/icons?i=go" width="30" /> Go  
 
 **Backend:**  
 <img src="https://skillicons.dev/icons?i=fastapi" width="30" /> FastAPI  
