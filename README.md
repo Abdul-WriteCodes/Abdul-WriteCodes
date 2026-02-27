@@ -68,5 +68,9 @@ I build AI systems that are:
   <a href="https://wa.me/2348096506034" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="30" />
   </a>
+
+  <a href="https://x.com/abdulgit_07" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" alt="X (Twitter)" width="30" />
+</a>
 </p>
 
