@@ -1,3 +1,13 @@
+<!-- Add this in the <head> -->
+<link href="https://fonts.googleapis.com/css2?family=Pacifico&family=Roboto+Slab:wght@400;700&display=swap" rel="stylesheet">
+
+<!-- About Me Section -->
+<h2 style="font-family: 'Pacifico', cursive; font-size: 36px; color: #2c3e50;">
+  About Me
+</h2>
+<p style="font-family: 'Roboto Slab', serif; font-size: 18px; color: #34495e;">
+  I am Abdul-Azeez, an AI Systems Engineer and LLM Architect passionate about building research-driven AI solutions.
+</p>
 
 # 🚀 About Me
 👋 Hi! I'm **Abdul🤓**, an **AI Systems Engineer**.  
