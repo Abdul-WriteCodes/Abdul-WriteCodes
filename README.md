@@ -36,9 +36,10 @@ I design and build scalable and efficient **machine learning model and LLM-power
 </p>
 
 <p align="left">
-  AI/ML Frameworks: <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn,xgboost,tensorflow" />
+  AI/ML Frameworks: <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn,tensorflow" />
 </p>
 Additional Focus:
+
 * RAG Systems
 * LLM-as-a-Judge Evaluation
 * Semantic Search (FAISS / Pinecone)
@@ -61,6 +62,9 @@ Additional Focus:
   </a>
   <a href="mailto:Abdulwrite77@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+ <a href="https://wa.me/2348096506034" target="_blank">
+    <img src="https://skillicons.dev/icons?i=whatsapp" alt="WhatsApp" />
   </a>
 </p>
 
