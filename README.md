@@ -27,7 +27,6 @@ I build AI systems that are:
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
 <img src="https://skillicons.dev/icons?i=python" width="30" /> Python &nbsp; 
 <img src="https://skillicons.dev/icons?i=typescript" width="30" /> TypeScript &nbsp; 
 <img src="https://skillicons.dev/icons?i=mysql" width="30" /> MySQL &nbsp; 
@@ -35,22 +34,19 @@ I build AI systems that are:
 <img src="https://skillicons.dev/icons?i=postgres" width="30" /> PostgreSQL &nbsp; 
 <img src="https://skillicons.dev/icons?i=go" width="30" /> Go  
 
-**Backend:**  
 <img src="https://skillicons.dev/icons?i=fastapi" width="30" /> FastAPI &nbsp; 
 <img src="https://skillicons.dev/icons?i=nodejs" width="30" /> Node.js &nbsp; 
 <img src="https://skillicons.dev/icons?i=docker" width="30" /> Docker  
 
-**Frontend:**  
+ 
 <img src="https://skillicons.dev/icons?i=nextjs" width="30" /> Next.js &nbsp; 
 <img src="https://skillicons.dev/icons?i=react" width="30" /> React &nbsp; 
 <img src="https://skillicons.dev/icons?i=tailwind" width="30" /> Tailwind CSS  
 
-**AI/ML Frameworks:**  
 <img src="https://skillicons.dev/icons?i=pytorch" width="30" /> PyTorch &nbsp; 
 <img src="https://skillicons.dev/icons?i=scikitlearn" width="30" /> Scikit-Learn &nbsp; 
 <img src="https://skillicons.dev/icons?i=tensorflow" width="30" /> TensorFlow  
-
-**Deployment & Cloud:**  
+ 
 <img src="https://skillicons.dev/icons?i=docker" width="30" /> Docker &nbsp; 
 <img src="https://skillicons.dev/icons?i=vercel" width="30" /> Vercel &nbsp; 
 <img src="https://skillicons.dev/icons?i=aws" width="30" /> AWS  
