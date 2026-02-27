@@ -29,27 +29,22 @@ I build AI systems that are:
 ## 🛠️ Tech Stack
 
 **Languages:**  
+
 <img src="https://skillicons.dev/icons?i=python" width="30" /> Python  <img src="https://skillicons.dev/icons?i=typescript" width="30" /> TypeScript  <img src="https://skillicons.dev/icons?i=mysql" width="30" /> MySQL  <img src="https://skillicons.dev/icons?i=mongodb" width="30" /> MongoDB  <img src="https://skillicons.dev/icons?i=postgres" width="30" /> PostgreSQL  <img src="https://skillicons.dev/icons?i=go" width="30" /> Go  
 
 **Backend:**  
-<img src="https://skillicons.dev/icons?i=fastapi" width="30" /> FastAPI  
-<img src="https://skillicons.dev/icons?i=nodejs" width="30" /> Node.js  
-<img src="https://skillicons.dev/icons?i=docker" width="30" /> Docker  
+<img src="https://skillicons.dev/icons?i=fastapi" width="30" /> FastAPI  <img src="https://skillicons.dev/icons?i=nodejs" width="30" /> Node.js  <img src="https://skillicons.dev/icons?i=docker" width="30" /> Docker  
 
 **Frontend:**  
-<img src="https://skillicons.dev/icons?i=nextjs" width="30" /> Next.js  
-<img src="https://skillicons.dev/icons?i=react" width="30" /> React  
-<img src="https://skillicons.dev/icons?i=tailwind" width="30" /> Tailwind CSS  
+<img src="https://skillicons.dev/icons?i=nextjs" width="30" /> Next.js  <img src="https://skillicons.dev/icons?i=react" width="30" /> React  <img src="https://skillicons.dev/icons?i=tailwind" width="30" /> Tailwind CSS  
 
-**AI/ML Frameworks:**  
-<img src="https://skillicons.dev/icons?i=pytorch" width="30" /> PyTorch  
-<img src="https://skillicons.dev/icons?i=scikitlearn" width="30" /> Scikit-Learn  
-<img src="https://skillicons.dev/icons?i=tensorflow" width="30" /> TensorFlow  
+**AI/ML Frameworks:** 
+
+<img src="https://skillicons.dev/icons?i=pytorch" width="30" /> PyTorch  <img src="https://skillicons.dev/icons?i=scikitlearn" width="30" /> Scikit-Learn  <img src="https://skillicons.dev/icons?i=tensorflow" width="30" /> TensorFlow  
 
 **Deployment & Cloud:**  
-<img src="https://skillicons.dev/icons?i=docker" width="30" /> Docker  
-<img src="https://skillicons.dev/icons?i=vercel" width="30" /> Vercel  
-<img src="https://skillicons.dev/icons?i=aws" width="30" /> AWS
+
+<img src="https://skillicons.dev/icons?i=docker" width="30" /> Docker  <img src="https://skillicons.dev/icons?i=vercel" width="30" /> Vercel  <img src="https://skillicons.dev/icons?i=aws" width="30" /> AWS
 
 ---
 ## Stats
