@@ -52,7 +52,8 @@ Additional Focus:
 </p>
 
 ---
-##Stats
+## Stats
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdul-WriteCodes&theme=radical)
 
 
