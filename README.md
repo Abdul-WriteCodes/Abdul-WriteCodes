@@ -1,6 +1,6 @@
 
 # 🚀 About Me
-👋 Hi! I'm **Abdul**, an **AI Systems Engineer**.  
+👋 Hi! I'm **Abdul🤓**, an **AI Systems Engineer**.  
 
 I build AI systems that are:  
 - ⚡ **Scalable & Efficient** – Optimized ML models for real-world use  
