@@ -1,8 +1,3 @@
-Good catch — I explained the steps but didn’t paste the **final customized README** cleanly for you.
-
-Here is a complete, ready-to-copy GitHub Profile README tailored to you (AI systems, LLM architecture, research-driven builder).
-
-Just replace `YOURUSERNAME` with your actual GitHub username.
 
 ---
 
@@ -69,11 +64,11 @@ My focus:
 ## 📊 GitHub Stats
 
 ```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdul-WriteCodes&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-WriteCodes&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOURUSERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Abdul-WriteCodes&theme=tokyonight)
 ```
 
 ---
@@ -81,7 +76,7 @@ My focus:
 ## 📈 Contribution Activity
 
 ```md
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdul-WriteCodes&theme=react-dark)
 ```
 
 ---
