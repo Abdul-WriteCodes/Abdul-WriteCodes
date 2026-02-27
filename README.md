@@ -24,6 +24,7 @@ I build AI systems that are:
 | 💳 **FinRisk-ML** | Transaction risk analysis system | Python, scikit-learn, ML | [View App](https://finrisk-ml.streamlit.app/) |
 | 🩺 **Chron-GPT** | LLM system for diabetes risk analysis | Python, LLM, Healthcare AI | [View App](https://github.com/Abdul-WriteCodes/Chron-GPT) |
 
+---
 
 ## 🛠️ Tech Stack
 
@@ -47,28 +48,6 @@ I build AI systems that are:
   <img src="https://skillicons.dev/icons?i=aws" width="30" /> AWS
 </span>
 
-
----
-## Tech Stack
-<p align="left">
-  - Languages: <img src="https://skillicons.dev/icons?i=python,typescript,mysql,mongodb,postgres,go" />
-</p>
-
-<p align="left">
- - Backend: <img src="https://skillicons.dev/icons?i=fastapi,nodejs,docker" />
-</p>
-
-<p align="left">
-  - Frontend: <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" />
-</p>
-
-<p align="left">
-  - AI/ML Frameworks: <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn,tensorflow" />
-</p>
-
-<p align="left">
- - Deployment and Cloud: <img src="https://skillicons.dev/icons?i=docker,vercel,aws" />
-</p>
 
 ---
 ## Stats
