@@ -21,7 +21,7 @@ I build AI systems that are:
 |---------|-------------|------|------|
 | 🎯 **ACHIEVIT** | Adaptive LLM Academic Planning System | Python, FastAPI, LLM | [View App](https://achievit.streamlit.app/) |
 | 🎭 **CaptAI** | ML-powered sentiment analysis | Python, PyTorch, NLP | [View App](https://captai.streamlit.app/) |
-| 💳 **FinRisk-ML** | Transaction risk analysis system | Python, scikit-learn, ML | [View App](https://finrisk-ml.streamlit.app/)) |
+| 💳 **FinRisk-ML** | Transaction risk analysis system | Python, scikit-learn, ML | [View App](https://finrisk-ml.streamlit.app/) |
 | 🩺 **Chron-GPT** | LLM system for diabetes risk analysis | Python, LLM, Healthcare AI | [View App](https://github.com/Abdul-WriteCodes/Chron-GPT) |
 
 
