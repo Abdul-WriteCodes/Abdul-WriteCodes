@@ -37,8 +37,6 @@ I build AI systems that are:
 <img src="https://skillicons.dev/icons?i=fastapi" width="30" /> FastAPI &nbsp; 
 <img src="https://skillicons.dev/icons?i=nodejs" width="30" /> Node.js &nbsp; 
 <img src="https://skillicons.dev/icons?i=docker" width="30" /> Docker  
-
- 
 <img src="https://skillicons.dev/icons?i=nextjs" width="30" /> Next.js &nbsp; 
 <img src="https://skillicons.dev/icons?i=react" width="30" /> React &nbsp; 
 <img src="https://skillicons.dev/icons?i=tailwind" width="30" /> Tailwind CSS  
@@ -46,7 +44,6 @@ I build AI systems that are:
 <img src="https://skillicons.dev/icons?i=pytorch" width="30" /> PyTorch &nbsp; 
 <img src="https://skillicons.dev/icons?i=scikitlearn" width="30" /> Scikit-Learn &nbsp; 
 <img src="https://skillicons.dev/icons?i=tensorflow" width="30" /> TensorFlow  
- 
 <img src="https://skillicons.dev/icons?i=docker" width="30" /> Docker &nbsp; 
 <img src="https://skillicons.dev/icons?i=vercel" width="30" /> Vercel &nbsp; 
 <img src="https://skillicons.dev/icons?i=aws" width="30" /> AWS  
