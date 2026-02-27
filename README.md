@@ -13,11 +13,11 @@ I design and build scalable and efficient **machine learning model and LLM-power
 -  ⚙️ Scalable AI Backend Architecture
 
 ---
-# 🎯 Projects I have Built
--  🚀 **ACHIEVIT** – An Adaptive LLM Academic Planning System
--  🧠 **CaptAI** – A supervised machine learning models powered system for sentiment analysis
--  📊 **FinRisk-ML**- A supervised machine learning model-powered system for analysing transaction risk
--  ⚙️ **Chron-GPT**- A modular LLM-powered intelligent system that analyse diabetes risk and provide realtime support
+#  🚀Projects I have Built
+-  🎯 **ACHIEVIT** – An Adaptive LLM Academic Planning System
+-  🎭 **CaptAI** – A supervised machine learning models powered system for sentiment analysis
+-  💳 **FinRisk-ML**- A supervised machine learning model-powered system for analysing transaction risk
+-  🩺 **Chron-GPT**- A modular LLM-powered intelligent system that analyse diabetes risk and provide realtime support
 
 
 ---
