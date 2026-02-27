@@ -41,7 +41,7 @@ I design and build scalable and efficient **machine learning model and LLM-power
 
 ## 🤖 AI / ML
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn,tensorflow" />
 </p>
 Additional Focus:
 
