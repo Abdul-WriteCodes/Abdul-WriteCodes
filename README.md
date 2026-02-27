@@ -33,14 +33,12 @@ I build AI systems that are:
 <img src="https://skillicons.dev/icons?i=mongodb" width="30" /> MongoDB &nbsp; 
 <img src="https://skillicons.dev/icons?i=postgres" width="30" /> PostgreSQL &nbsp; 
 <img src="https://skillicons.dev/icons?i=go" width="30" /> Go  
-
 <img src="https://skillicons.dev/icons?i=fastapi" width="30" /> FastAPI &nbsp; 
 <img src="https://skillicons.dev/icons?i=nodejs" width="30" /> Node.js &nbsp; 
 <img src="https://skillicons.dev/icons?i=docker" width="30" /> Docker  
 <img src="https://skillicons.dev/icons?i=nextjs" width="30" /> Next.js &nbsp; 
 <img src="https://skillicons.dev/icons?i=react" width="30" /> React &nbsp; 
 <img src="https://skillicons.dev/icons?i=tailwind" width="30" /> Tailwind CSS  
-
 <img src="https://skillicons.dev/icons?i=pytorch" width="30" /> PyTorch &nbsp; 
 <img src="https://skillicons.dev/icons?i=scikitlearn" width="30" /> Scikit-Learn &nbsp; 
 <img src="https://skillicons.dev/icons?i=tensorflow" width="30" /> TensorFlow  
