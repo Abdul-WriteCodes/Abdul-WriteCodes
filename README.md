@@ -22,7 +22,7 @@ I design and build **LLM-powered systems that move from research to production.*
   <img src="https://skillicons.dev/icons?i=python,typescript,postgres,go" />
 </p>
 
-⚙️ Backend
+- ⚙️ Backend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=fastapi,nodejs,docker" />
   <img src="https://skillicons.dev/icons?i=streamlit" />
@@ -33,7 +33,7 @@ I design and build **LLM-powered systems that move from research to production.*
   <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" />
 </p>
 
-🤖 AI / ML
+- 🤖 AI / ML
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 </p>
@@ -44,7 +44,7 @@ Additional Focus:
 * Semantic Search (FAISS / Pinecone)
 * AI Observability
 
-☁️ Deployment & Cloud
+- ☁️ Deployment & Cloud
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,vercel,railway,aws" />
