@@ -9,7 +9,7 @@ I build AI systems that are:
 ---
 
 ## 🧠 Current Focus
-- SaaS
+-  💰 SaaS
 -  🧠 Intelligent Multi-Agent Systems
 -  🔍 LLM Evaluation & Observability
 -  📚 AI Research Copilots
