@@ -57,7 +57,7 @@ Additional Focus:
 # 📫 Connect With Me
 
 <p align="left">
-  <a href="YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/abdul-azeez-olohunjuwon-anafi-baa64a199/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:Abdulwrite77@gmail.com">
