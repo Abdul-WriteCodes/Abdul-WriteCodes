@@ -39,13 +39,6 @@ I design and build scalable and efficient **machine learning model and LLM-power
   AI/ML Frameworks: <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn,tensorflow" />
 </p>
 Additional Focus:
-### Additional Focus
-
-[![RAG Systems](https://img.shields.io/badge/RAG-Systems-blue?style=for-the-badge)](https://github.com/)
-[![LLM-as-a-Judge](https://img.shields.io/badge/LLM-as-a-Judge-green?style=for-the-badge)](https://github.com/)
-[![Semantic Search](https://img.shields.io/badge/Semantic-Search-orange?style=for-the-badge)](https://github.com/)
-[![AI Observability](https://img.shields.io/badge/AI-Observability-red?style=for-the-badge)](https://github.com/)
-
 
 * RAG Systems
 * LLM-as-a-Judge Evaluation
