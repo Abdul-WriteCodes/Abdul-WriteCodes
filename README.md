@@ -24,19 +24,19 @@ I design and build scalable and efficient **machine learning model and LLM-power
 
 # 🛠️ Tech Stack
 <p align="left">
-  Languages: <img src="https://skillicons.dev/icons?i=python,typescript,mysql,mongodb,postgres,go" />
+  - Languages: <img src="https://skillicons.dev/icons?i=python,typescript,mysql,mongodb,postgres,go" />
 </p>
 
 <p align="left">
- Backend: <img src="https://skillicons.dev/icons?i=fastapi,nodejs,docker" />
+ - Backend: <img src="https://skillicons.dev/icons?i=fastapi,nodejs,docker" />
 </p>
 
 <p align="left">
-  Frontend: <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" />
+  - Frontend: <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" />
 </p>
 
 <p align="left">
-  AI/ML Frameworks: <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn,tensorflow" />
+  - AI/ML Frameworks: <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn,tensorflow" />
 </p>
 Additional Focus:
 
@@ -48,7 +48,7 @@ Additional Focus:
 ## ☁️ Deployment & Cloud
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,vercel,aws" />
+ - Deployment and Cloud: <img src="https://skillicons.dev/icons?i=docker,vercel,aws" />
 </p>
 
 ---
