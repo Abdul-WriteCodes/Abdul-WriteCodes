@@ -36,16 +36,8 @@ I design and build scalable and efficient **machine learning model and LLM-power
 </p>
 
 <p align="left">
-  - AI/ML Frameworks: <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn,tensorflow" />
+  - AI/ML Frameworks: <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn,tensorflow,opik" />
 </p>
-Additional Focus:
-
-* RAG Systems
-* LLM-as-a-Judge Evaluation
-* Semantic Search (FAISS / Pinecone)
-* AI Observability
-
-## ☁️ Deployment & Cloud
 
 <p align="left">
  - Deployment and Cloud: <img src="https://skillicons.dev/icons?i=docker,vercel,aws" />
