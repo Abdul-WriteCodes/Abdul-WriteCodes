@@ -36,7 +36,7 @@ I design and build scalable and efficient **machine learning model and LLM-power
 </p>
 
 <p align="left">
-  AI/ML Frameworks: <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn,keras,tensorflow" />
+  AI/ML Frameworks: <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn,xgboost,tensorflow" />
 </p>
 Additional Focus:
 * RAG Systems
