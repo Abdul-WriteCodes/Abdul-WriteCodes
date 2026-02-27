@@ -19,36 +19,25 @@ I design and build **LLM-powered systems that move from research to production.*
 # 🛠️ Tech Stack
 
 ## 💻 Languages
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,typescript,SQL,go" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,postgres,go" />
 </p>
 
----
-
 ## ⚙️ Backend
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=fastapi,nodejs,docker" />
   <img src="https://skillicons.dev/icons?i=streamlit" />
 </p>
 
----
-
 ## 🎨 Frontend
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=nextjs,HTML,react,tailwind" />
 </p>
-
----
 
 ## 🤖 AI / ML
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,langraph" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 </p>
-
 Additional Focus:
 
 * RAG Systems
@@ -61,7 +50,7 @@ Additional Focus:
 ## ☁️ Deployment & Cloud
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,vercel,aws" />
+  <img src="https://skillicons.dev/icons?i=docker,vercel,railway,aws" />
 </p>
 
 ---
