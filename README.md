@@ -1,12 +1,15 @@
 
-# 🚀About Me
-AI Systems Engineer
+# 🚀 About Me
+👋 Hi! I'm **Abdul-Azeez**, an **AI Systems Engineer**.  
 
-I design and build scalable and efficient **machine learning model and LLM-powered systems** for everyday use and application
-
---
+I build AI systems that are:  
+- ⚡ **Scalable & Efficient** – Optimized ML models for real-world use  
+- 🤖 **LLM-Powered** – Intelligent systems that reason and learn  
+- 💡 **Practical** – Tools that solve everyday problems
+---
 
 ## 🧠 Current Focus
+- SaaS
 -  🧠 Intelligent Multi-Agent Systems
 -  🔍 LLM Evaluation & Observability
 -  📚 AI Research Copilots
