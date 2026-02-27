@@ -23,14 +23,13 @@ I design and build scalable and efficient **machine learning model and LLM-power
 ---
 
 # 🛠️ Tech Stack
-## 💻 Languages
 <p align="left">
   Languages: <img src="https://skillicons.dev/icons?i=python,typescript,mysql,mongodb,postgres,go" />
 </p>
 
 ## ⚙️ Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,docker" />
+ Backend: <img src="https://skillicons.dev/icons?i=fastapi,nodejs,docker" />
   <img src="https://skillicons.dev/icons?i=streamlit" />
 </p>
 
