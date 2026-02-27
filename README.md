@@ -70,8 +70,7 @@ I build AI systems that are:
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="30" />
   </a>
   &nbsp;
-  <a href="https://x.com/abdul_git07" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/X_logo_2023.svg" alt="X" width="30" />
-</a>
+
+
 </p>
 
