@@ -15,6 +15,17 @@ I build AI systems that are:
 -  📚 AI Research Copilots
 -  ⚙️ Scalable AI Backend Architecture
 
+## 🚀 Projects I Have Built
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🎯 **ACHIEVIT** | Adaptive LLM Academic Planning System | Python, FastAPI, LLM |
+| 🎭 **CaptAI** | ML-powered sentiment analysis | Python, PyTorch, NLP |
+| 💳 **FinRisk-ML** | Transaction risk analysis system | Python, scikit-learn, ML |
+| 🩺 **Chron-GPT** | LLM system for diabetes risk analysis | Python, LLM, Healthcare AI |
+
+
+
 ---
 #  🚀Projects I have Built
 -  🎯 **ACHIEVIT** – An Adaptive LLM Academic Planning System
