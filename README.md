@@ -59,18 +59,19 @@ I build AI systems that are:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/abdul-azeez-olohunjuwon-anafi-baa64a199/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="30" />
   </a>
+  &nbsp;
   <a href="mailto:Abdulwrite77@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="30" />
   </a>
-
+  &nbsp;
   <a href="https://wa.me/2348096506034" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="30" />
   </a>
-
+  &nbsp;
   <a href="https://x.com/abdulgit_07" target="_blank">
-  <img src="https://skillicons.dev/icons?i=x" alt="X (Twitter)" width="30" />
-</a>
+    <img src="https://skillicons.dev/icons?i=x" alt="X" width="30" />
+  </a>
 </p>
 
