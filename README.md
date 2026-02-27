@@ -25,7 +25,7 @@ I design and build scalable and efficient **machine learning model and LLM-power
 # 🛠️ Tech Stack
 ## 💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,typescript,mysql,postgres,go" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,mysql,mongodb,postgres,go" />
 </p>
 
 ## ⚙️ Backend
@@ -41,7 +41,7 @@ I design and build scalable and efficient **machine learning model and LLM-power
 
 ## 🤖 AI / ML
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn,keras,tensorflow" />
 </p>
 Additional Focus:
 
