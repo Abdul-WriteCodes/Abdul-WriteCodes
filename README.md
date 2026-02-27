@@ -52,9 +52,7 @@ Additional Focus:
 </p>
 
 ---
-## 📊 GitHub Stats
-
-![Abdul-WriteCodes GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdul-WriteCodes&show_icons=true&theme=radical)
+##Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdul-WriteCodes&theme=radical)
 
 
