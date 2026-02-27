@@ -68,19 +68,13 @@ Additional Focus:
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdul-WriteCodes&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-WriteCodes&layout=compact&theme=tokyonight" height="165"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdul-WriteCodes&show_icons=true&theme=tokyonight&hide_border=true)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-WriteCodes&layout=compact&theme=tokyonight&hide_border=true)
 
-# 📈 Contribution Activity
+## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdul-WriteCodes&theme=react-dark"/>
-</p>
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdul-WriteCodes&theme=react-dark)
 ---
 
 # 🎯 Current Projects
