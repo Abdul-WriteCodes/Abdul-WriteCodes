@@ -27,9 +27,10 @@ I build AI systems that are:
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
 
-<span>
+<div style="background:#f5f5f5; padding:10px; border-radius:10px;">
+
+  <span>
   <img src="https://skillicons.dev/icons?i=python" width="30" /> Python &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=typescript" width="30" /> TypeScript &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=mysql" width="30" /> MySQL &nbsp;&nbsp;
@@ -48,6 +49,7 @@ I build AI systems that are:
   <img src="https://skillicons.dev/icons?i=vercel" width="30" /> Vercel &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=aws" width="30" /> AWS
 </span>
+</div>
 
 ---
 ## Tech Stack
