@@ -6,8 +6,6 @@
   <b>AI Systems Engineer | Researcher| Writer</b>
 </p>
 
----
-
 ## 🧠 𝐖𝐡𝐚𝐭 𝐈 𝐁𝐮𝐢𝐥𝐝
 
 - ⚡ **Scalable & Efficient Systems**
@@ -28,7 +26,7 @@
 
 
 
-#### 🚀 Production Grade Systems I am Building
+#### 🚀 What I've been building:
 
 | Project | Description | Tech | Link |
 |---------|-------------|------|------|
