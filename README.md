@@ -53,6 +53,12 @@ I build AI systems that are:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdul-WriteCodes&theme=radical)
 
+---
+# 📝Written Work: Articles, Documentations & Publications
+Browse and Read👇](https://app.box.com/s/cz06kwa8m8dznlqi2tlah0ul5p7glx1c)
+
+
+
 
 # 📫 Connect With Me
 
