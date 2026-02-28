@@ -1,3 +1,50 @@
+
+<h1 align="center">🚀 About Me 🇳🇬</h1>
+
+<p align="center">
+  👋 Hi, I'm <b>Abdul-Azeez Olohunjuwon</b> <br/>
+  🤖 <b>AI Systems Engineer</b> | 🧠 LLM Architect | ⚙️ AI Builder
+</p>
+
+---
+
+## 💡 What I Build
+
+<table>
+<tr>
+<td width="33%">
+
+### ⚡ Scalable
+Optimized ML systems built for production & performance.
+
+</td>
+<td width="33%">
+
+### 🤖 LLM-Powered
+Reasoning-driven AI agents and intelligent pipelines.
+
+</td>
+<td width="33%">
+
+### 💡 Practical
+Real-world AI tools solving real problems.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 Current Focus
+
+- 💰 SaaS Systems
+- 🧠 Intelligent Multi-Agent Architectures
+- 🔍 LLM Evaluation & Observability
+- 📚 AI Research Systems
+- ⚙️ Scalable AI Backend Infrastructure
+
+
+
 # 🚀 About Me🇳🇬
 👋 Hi! I'm **Abdul🤓**, an **AI Systems Engineer**.  
 
