@@ -54,16 +54,9 @@ I build AI systems that are:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdul-WriteCodes&theme=radical)
 
 ---
-# 📝Written Work: Articles, Documentations & Publications
-
-<p style="font-family: 'Roboto Slab', serif; font-size: 18px; color: #333; text-align: center;">
-  📝 <strong>Written Work: Articles, Documentations & Publications</strong><br>
-  Browse and Read 👇<br>
-  <a href="https://app.box.com/s/cz06kwa8m8dznlqi2tlah0ul5p7glx1c" target="_blank" 
-     style="font-size: 20px; color: #1e90ff; text-decoration: none; font-weight: bold;">
-    🔗 View My Work
-  </a>
-</p>
+📝 **Written Work: Articles, Documentations & Publications**  
+Browse and Read 👇  
+🔗 [Click here to view my written work](https://app.box.com/s/cz06kwa8m8dznlqi2tlah0ul5p7glx1c)
 
 # 📫 Connect With Me
 
