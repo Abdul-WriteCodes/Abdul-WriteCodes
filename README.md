@@ -57,10 +57,9 @@ Check and explore production-grade AI systems i am building 👇
 ---
 ## 📟Dev Stats
 
+
 <p align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdul-WriteCodes&theme=radical)
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-WriteCodes&theme=radical" alt="GitHub Streak" />
 </p>
 
 
