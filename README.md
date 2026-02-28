@@ -31,7 +31,6 @@ I build AI systems that are:
   <img src="https://skillicons.dev/icons?i=python" width="30" /> Python &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=typescript" width="30" /> TypeScript &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=mysql" width="30" /> MySQL &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" width="30" /> HTML5 &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=mongodb" width="30" /> MongoDB &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=postgres" width="30" /> PostgreSQL &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=go" width="30" /> Go &nbsp;&nbsp;
@@ -39,6 +38,7 @@ I build AI systems that are:
   <img src="https://skillicons.dev/icons?i=nodejs" width="30" /> Node.js &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=docker" width="30" /> Docker &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=nextjs" width="30" /> Next.js &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" width="30" /> HTML &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=react" width="30" /> React &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=tailwind" width="30" /> Tailwind CSS &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=pytorch" width="30" /> PyTorch &nbsp;&nbsp;
