@@ -31,7 +31,7 @@ I build AI systems that are:
   <img src="https://skillicons.dev/icons?i=python" width="30" /> Python &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=typescript" width="30" /> TypeScript &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=mysql" width="30" /> MySQL &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=html5" width="30" /> HTML5 &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" width="30" /> HTML5 &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=mongodb" width="30" /> MongoDB &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=postgres" width="30" /> PostgreSQL &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=go" width="30" /> Go &nbsp;&nbsp;
