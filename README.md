@@ -3,7 +3,7 @@
 <p align="center">
   👋 𝐇𝐢! 𝐈'𝐦 <b>Abdul (BSc ICH; MSc I.T)</b> 
   <br/>
-  <b>AI Systems Engineer🧑🏾‍💻 | Researcher🧑🏾‍🚀| Writer📝</b>
+  <b>AI Systems Engineer🚀 | Researcher🧑🏾‍🚀| Writer📝</b>
 </p>
 
 ## 🧠 Expertise
