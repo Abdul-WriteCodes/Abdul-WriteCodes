@@ -21,6 +21,7 @@ My work sits at the intersection of:
 ---
 
 ## 🚀 What I've been building:
+Check and explore production-grade AI systems i am building 👇
 
 | Project | Description | Tech | Link |
 |---------|-------------|------|------|
