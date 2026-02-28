@@ -16,7 +16,7 @@ My work sits at the intersection of:
 🤖 **Machine Learning & LLM-Native Architectures** – Multi-agent systems that reason, adapt, and evaluate themselves  
 🔍 **Evaluation & Observability** – LLM-as-a-Judge pipelines, monitoring, and reliability engineering  
 💰 **AI SaaS Engineering** – Turning research-driven ideas into deployable products  
-🔬 **Research and Technical Writing** – Researching and solving challenging meaningful, everyday problems for individuals and businesses 
+🔬 **Research and Technical Writing** – Researching and solving challenging problems and providing everyday solutions for individuals and businesses 
 
 ---
 
