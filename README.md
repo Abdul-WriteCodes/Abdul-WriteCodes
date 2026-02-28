@@ -13,7 +13,7 @@ I design and engineer **scalable, production-grade AI systems** powered by moder
 My work sits at the intersection of:
 
 ⚡ **Scalable System Design** – Backend architectures optimized for performance and real-world deployment  
-🤖 **LLM-Native Architectures** – Multi-agent systems that reason, adapt, and evaluate themselves  
+🤖 **Machine Learning & LLM-Native Architectures** – Multi-agent systems that reason, adapt, and evaluate themselves  
 🔍 **Evaluation & Observability** – LLM-as-a-Judge pipelines, monitoring, and reliability engineering  
 💰 **AI SaaS Engineering** – Turning research-driven ideas into deployable products  
 💡 **Practical Intelligence** – Tools that solve meaningful, everyday problems
