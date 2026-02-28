@@ -12,8 +12,6 @@
 - 🤖 **LLM-Powered Architectures**
 - 💡 **Production-Ready AI Tools**
 
----
-
 ## 🎯 𝐂𝐮𝐫𝐫𝐞𝐧𝐭 𝐅𝐨𝐜𝐮𝐬
 
 <p>
@@ -24,7 +22,7 @@
 🔹 Scalable Backend Design
 </p>
 
-
+---
 
 #### 🚀 What I've been building:
 
