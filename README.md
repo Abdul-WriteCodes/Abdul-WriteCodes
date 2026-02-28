@@ -82,6 +82,10 @@ Browse and Read 👇
   </a>
   &nbsp;
 
+  <a href="https://x.com/Abdul_git07" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter/X" width="30" />
+  </a>
+
 
 </p>
 
