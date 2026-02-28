@@ -55,10 +55,15 @@ I build AI systems that are:
 
 ---
 # 📝Written Work: Articles, Documentations & Publications
-Browse and Read👇](https://app.box.com/s/cz06kwa8m8dznlqi2tlah0ul5p7glx1c)
 
-
-
+<p style="font-family: 'Roboto Slab', serif; font-size: 18px; color: #333; text-align: center;">
+  📝 <strong>Written Work: Articles, Documentations & Publications</strong><br>
+  Browse and Read 👇<br>
+  <a href="https://app.box.com/s/cz06kwa8m8dznlqi2tlah0ul5p7glx1c" target="_blank" 
+     style="font-size: 20px; color: #1e90ff; text-decoration: none; font-weight: bold;">
+    🔗 View My Work
+  </a>
+</p>
 
 # 📫 Connect With Me
 
