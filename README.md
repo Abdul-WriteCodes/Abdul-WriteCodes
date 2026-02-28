@@ -66,7 +66,7 @@ Browse and Read 👇
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me via
 
 <p align="left">
   <a href="https://www.linkedin.com/in/abdul-azeez-olohunjuwon-anafi-baa64a199/">
