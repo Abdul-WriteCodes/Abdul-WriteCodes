@@ -1,4 +1,4 @@
-<h1 align="center">🚀 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 🇳🇬</h1>
+<h1 align="center">🚀 About Me 🇳🇬</h1>
 
 <p align="center">
   👋 𝐇𝐢! 𝐈'𝐦 <b>Abdul</b> 🤓  
@@ -6,7 +6,7 @@
   <b>AI Systems Engineer | Researcher| Writer</b>
 </p>
 
-## 🧠 𝐖𝐡𝐚𝐭 𝐈 𝐁𝐮𝐢𝐥𝐝
+## 🧠 Expertise
 
 I design and engineer **scalable, production-grade AI systems** powered by modern large language models.
 
