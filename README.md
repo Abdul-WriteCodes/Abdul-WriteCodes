@@ -1,3 +1,37 @@
+<h1 align="center">🚀 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 🇳🇬</h1>
+
+<p align="center">
+  👋 𝐇𝐢! 𝐈'𝐦 <b>Abdul</b> 🤓  
+  <br/>
+  <b>AI Systems Engineer</b>
+</p>
+
+---
+
+## 🧠 𝐖𝐡𝐚𝐭 𝐈 𝐁𝐮𝐢𝐥𝐝
+
+- ⚡ **Scalable & Efficient Systems**
+- 🤖 **LLM-Powered Architectures**
+- 💡 **Production-Ready AI Tools**
+
+---
+
+## 🎯 𝐂𝐮𝐫𝐫𝐞𝐧𝐭 𝐅𝐨𝐜𝐮𝐬
+
+<p>
+🔹 SaaS Engineering <br/>
+🔹 Multi-Agent Systems <br/>
+🔹 LLM-as-a-Judge Evaluation <br/>
+🔹 AI Observability <br/>
+🔹 Scalable Backend Design
+</p>
+
+
+
+
+
+
+
 
 <h1 align="center">🚀 About Me 🇳🇬</h1>
 
