@@ -3,7 +3,7 @@
 <p align="center">
   👋 𝐇𝐢! 𝐈'𝐦 <b>Abdul</b> 🤓  
   <br/>
-  <b>AI Systems Engineer</b>
+  <b>AI Systems Engineer | Researcher| Writer</b>
 </p>
 
 ---
@@ -27,73 +27,6 @@
 </p>
 
 
-
-
-
-
-
-
-<h1 align="center">🚀 About Me 🇳🇬</h1>
-
-<p align="center">
-  👋 Hi, I'm <b>Abdul-Azeez Olohunjuwon</b> <br/>
-  🤖 <b>AI Systems Engineer</b> | 🧠 LLM Architect | ⚙️ AI Builder
-</p>
-
----
-
-## 💡 What I Build
-
-<table>
-<tr>
-<td width="33%">
-
-### ⚡ Scalable
-Optimized ML systems built for production & performance.
-
-</td>
-<td width="33%">
-
-### 🤖 LLM-Powered
-Reasoning-driven AI agents and intelligent pipelines.
-
-</td>
-<td width="33%">
-
-### 💡 Practical
-Real-world AI tools solving real problems.
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧠 Current Focus
-
-- 💰 SaaS Systems
-- 🧠 Intelligent Multi-Agent Architectures
-- 🔍 LLM Evaluation & Observability
-- 📚 AI Research Systems
-- ⚙️ Scalable AI Backend Infrastructure
-
-
-
-# 🚀 About Me🇳🇬
-👋 Hi! I'm **Abdul🤓**, an **AI Systems Engineer**.  
-
-I build AI systems that are:  
-- ⚡ **Scalable & Efficient** – Optimized ML models for real-world use  
-- 🤖 **LLM-Powered** – Intelligent systems that reason and learn  
-- 💡 **Practical** – Tools that solve everyday problems
----
-
-## 🧠 Current Focus
--  💰 SaaS
--  🧠 Intelligent Multi-Agent Systems
--  🔍 LLM Evaluation & Observability
--  📚 AI Research
--  ⚙️ Scalable AI Backend Architecture
 
 #### 🚀 Production Grade Systems I am Building
 
