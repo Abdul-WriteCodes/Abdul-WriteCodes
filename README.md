@@ -8,23 +8,19 @@
 
 ## 🧠 𝐖𝐡𝐚𝐭 𝐈 𝐁𝐮𝐢𝐥𝐝
 
-- ⚡ **Scalable & Efficient Systems**
-- 🤖 **LLM-Powered Architectures**
-- 💡 **Production-Ready AI Tools**
+I design and engineer **scalable, production-grade AI systems** powered by modern large language models.
 
-## 🎯 𝐂𝐮𝐫𝐫𝐞𝐧𝐭 𝐅𝐨𝐜𝐮𝐬
+My work sits at the intersection of:
 
-<p>
-🔹 SaaS Engineering <br/>
-🔹 Multi-Agent Systems <br/>
-🔹 LLM-as-a-Judge Evaluation <br/>
-🔹 AI Observability <br/>
-🔹 Scalable Backend Design
-</p>
+⚡ **Scalable System Design** – Backend architectures optimized for performance and real-world deployment  
+🤖 **LLM-Native Architectures** – Multi-agent systems that reason, adapt, and evaluate themselves  
+🔍 **Evaluation & Observability** – LLM-as-a-Judge pipelines, monitoring, and reliability engineering  
+💰 **AI SaaS Engineering** – Turning research-driven ideas into deployable products  
+💡 **Practical Intelligence** – Tools that solve meaningful, everyday problems
 
 ---
 
-#### 🚀 What I've been building:
+## 🚀 What I've been building:
 
 | Project | Description | Tech | Link |
 |---------|-------------|------|------|
