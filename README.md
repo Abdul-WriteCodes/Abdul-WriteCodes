@@ -7,9 +7,9 @@
   <b>AI Systems Engineer🚀 | Researcher🛸| Writer📝</b>
 </p>
 
-## 🧠 Expertise
+### 🧠 Expertise
 
-### I design and engineer **scalable, production-grade AI systems** powered by traditional machine learning models and modern large language models.
+I design and engineer **scalable, production-grade AI systems** powered by traditional machine learning models and modern large language models.
 
 My work sits at the intersection of:
 
@@ -19,7 +19,7 @@ My work sits at the intersection of:
 
 ---
 
-## 🚀 What I've been building:
+### 🚀 What I've been building:
 Check and explore production-grade AI systems i am building 👇
 
 | Project | Description | Tech | Link |
@@ -31,7 +31,7 @@ Check and explore production-grade AI systems i am building 👇
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
   <span>
   <img src="https://skillicons.dev/icons?i=python" width="30" /> Python &nbsp;&nbsp;
@@ -56,7 +56,7 @@ Check and explore production-grade AI systems i am building 👇
 
 
 ---
-## 📟Dev Stats
+### 📟Dev Stats
 
 
 <p align="center">
@@ -65,13 +65,13 @@ Check and explore production-grade AI systems i am building 👇
 
 
 ---
-## 📝Written Work: Articles, Documentations & Publications
+### 📝Written Work: Articles, Documentations & Publications
 Browse and Read 👇  
 🔗 [Click here to view my written work](https://app.box.com/s/cz06kwa8m8dznlqi2tlah0ul5p7glx1c)
 
 ---
 
-## 📫 Connect With Me via
+### 📫 Connect With Me via
 
 <p align="left">
   <a href="https://www.linkedin.com/in/abdul-azeez-olohunjuwon-anafi-baa64a199/">
