@@ -66,7 +66,7 @@ Adaptive LLM Academic Planning System
 ![Streamlit](https://img.shields.io/badge/Streamlit-red)
 ![LLM](https://img.shields.io/badge/AI-LLM-green)
 
-🔗 https://achievit.streamlit.app/
+[view app] https://achievit.streamlit.app/
 
 ---
 
