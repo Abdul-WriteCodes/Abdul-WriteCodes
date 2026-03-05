@@ -50,7 +50,7 @@ My work sits at the intersection of:
 ![Streamlit](https://img.shields.io/badge/Streamlit-red)
 ![LLM](https://img.shields.io/badge/AI-LLM-green)
 
-👉[view app](https://achievit.streamlit.app/)
+👉[Click to view app](https://achievit.streamlit.app/)
 
 🫟🎭CaptAI: A dual ML-powered sentiment analysis system
 
@@ -58,7 +58,7 @@ My work sits at the intersection of:
 ![PyTorch](https://img.shields.io/badge/PyTorch-orange)
 ![NLP](https://img.shields.io/badge/NLP-purple)
 
-👉[view app](https://captai.streamlit.app/)
+👉[Click to view app](https://captai.streamlit.app/)
 
 🫟💳FinRisk-ML: A ML-powered Transaction risk analysis system
 
@@ -66,7 +66,7 @@ My work sits at the intersection of:
 ![Scikit--Learn](https://img.shields.io/badge/ScikitLearn-yellow)
 ![MachineLearning](https://img.shields.io/badge/ML-green)
 
-👉[view app](https://finrisk-ml.streamlit.app/)
+👉[Click to view app](https://finrisk-ml.streamlit.app/)
 
 ---
 # 🫧Dev Stats
