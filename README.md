@@ -1,10 +1,10 @@
 ---
+<h1 align="center">🫧 About Me 🫧</h1>
+
 <p align="center">
   <img src="Assets/image.jpg" alt="Logo" width="800"/>
 </p>
 
-
-<h1 align="center">🫧 About Me 🫧</h1>
 ### 🧠 Expertise
 
 I design and engineer **scalable, production-grade AI systems** powered by traditional machine learning models and modern large language models.
