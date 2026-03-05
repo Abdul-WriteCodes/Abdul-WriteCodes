@@ -17,6 +17,41 @@ My work sits at the intersection of:
 
 ---
 
+# 🫧 What I've Been Building
+Explore some production-grade AI systems I've built 👇
+
+## 🎯 ACHIEVIT
+Adaptive LLM Academic Planning System.
+
+**Tech:** Python • Streamlit • LLM Systems  
+🔗 https://achievit.streamlit.app/
+
+---
+
+## 🎭 CaptAI
+ML-powered sentiment analysis platform.
+
+**Tech:** Python • PyTorch • NLP  
+🔗 https://captai.streamlit.app/
+
+---
+
+## 💳 FinRisk-ML
+Machine learning system for financial transaction risk detection.
+
+**Tech:** Python • Scikit-Learn • ML  
+🔗 https://finrisk-ml.streamlit.app/
+
+---
+
+## 🩺 Chron-GPT
+LLM-powered system for diabetes risk analysis.
+
+**Tech:** Python • LLM Systems • Healthcare AI  
+🔗 https://github.com/Abdul-WriteCodes/Chron-GPT
+
+
+
 # 🫧 What I've been Building
 Check and explore production-grade AI systems i am building 👇
 
