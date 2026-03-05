@@ -1,11 +1,11 @@
 ---
-<h1 align="center">🫧 About Me 🫧</h1>
+<h1 align="left">🫧 About Me 🫧</h1>
 
 <p align="center">
   <img src="Assets/image.jpg" alt="Logo" width="800"/>
 </p>
 
-### 🧠 Expertise
+### 🫧 Expertise
 
 I design and engineer **scalable, production-grade AI systems** powered by traditional machine learning models and modern large language models.
 
@@ -17,7 +17,7 @@ My work sits at the intersection of:
 
 ---
 
-### 🚀 What I've been building:
+### 🫧 What I've been building:
 Check and explore production-grade AI systems i am building 👇
 
 | Project | Description | Tech | Link |
@@ -29,7 +29,7 @@ Check and explore production-grade AI systems i am building 👇
 
 ---
 
-### 🛠️ Tech Stack
+### 🫧 Tech Stack
 
   <span>
   <img src="https://skillicons.dev/icons?i=python" width="30" /> Python &nbsp;&nbsp;
@@ -54,7 +54,7 @@ Check and explore production-grade AI systems i am building 👇
 
 
 ---
-### 📟Dev Stats
+### 🫧Dev Stats
 
 
 <p align="center">
