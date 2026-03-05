@@ -16,20 +16,6 @@ My work sits at the intersection of:
 - 🔬 **Research and Technical Writing** – Researching and solving challenging problems and providing everyday solutions for individuals and businesses 
 
 ---
-
-# 🫧 What I've been Building
-Check and explore production-grade AI systems i am building 👇
-
-| Project | Description | Tech | Link |
-|---------|-------------|------|------|
-| 🎯 **ACHIEVIT** | Adaptive LLM Academic Planning System | Python, Streamlit, LLM | [View App](https://achievit.streamlit.app/) |
-| 🎭 **CaptAI** | ML-powered sentiment analysis | Python, PyTorch, NLP | [View App](https://captai.streamlit.app/) |
-| 💳 **FinRisk-ML** | Transaction risk analysis system | Python, scikit-learn, ML | [View App](https://finrisk-ml.streamlit.app/) |
-| 🩺 **Chron-GPT** | LLM system for diabetes risk analysis | Python, LLM, Healthcare AI | [View App](https://github.com/Abdul-WriteCodes/Chron-GPT) |
-
----
-
-
 # 🫧 Tech Stack
 
   <span>
@@ -57,18 +43,13 @@ Check and explore production-grade AI systems i am building 👇
 
 # 🫧 What I've Been Building
 
----
-
 ## 🎯 ACHIEVIT
 Adaptive LLM Academic Planning System
-
 ![Python](https://img.shields.io/badge/Python-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-red)
 ![LLM](https://img.shields.io/badge/AI-LLM-green)
 
 [view app](https://achievit.streamlit.app/)
-
----
 
 ## 🎭 CaptAI
 ML-powered sentiment analysis
@@ -78,8 +59,6 @@ ML-powered sentiment analysis
 ![NLP](https://img.shields.io/badge/NLP-purple)
 
 🔗 https://captai.streamlit.app/
-
----
 
 ## 💳 FinRisk-ML
 Transaction risk analysis system
