@@ -17,7 +17,7 @@ My work sits at the intersection of:
 
 ---
 
-# 🫧 What I've been building:
+# 🫧 What I've been Building
 Check and explore production-grade AI systems i am building 👇
 
 | Project | Description | Tech | Link |
@@ -69,7 +69,7 @@ Browse and Read My Written Works 👇
 
 ---
 
-# 🫧 Connect With Me via
+# 🫧 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/abdul-azeez-olohunjuwon-anafi-baa64a199/">
