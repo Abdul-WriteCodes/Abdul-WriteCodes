@@ -1,6 +1,6 @@
 ---
 <h1 align="left">🫧 About Me </h1>
-Hello👋!
+H e l l o👋!
 <p align="center">
   <img src="Assets/image.jpg" alt="Logo" width="800"/>
 </p>
