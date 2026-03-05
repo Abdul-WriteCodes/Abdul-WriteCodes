@@ -7,7 +7,7 @@
 
 # 🫧 Expertise
 
-I design and engineer **scalable, production-grade AI systems** powered by traditional machine learning models and modern large language models.
+I design and develop **scalable, production-grade AI systems** powered by traditional machine learning models and modern large language models.
 
 My work sits at the intersection of:
 
