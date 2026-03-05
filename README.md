@@ -1,5 +1,5 @@
 ---
-<h1 align="left">🫧 About Me 🫧</h1>
+<h1 align="left">🫧 About Me </h1>
 
 <p align="center">
   <img src="Assets/image.jpg" alt="Logo" width="800"/>
@@ -63,13 +63,13 @@ Check and explore production-grade AI systems i am building 👇
 
 
 ---
-### 📝Written Work: Articles, Documentations & Publications
+### 🫧Written Work: Articles, Documentations & Publications
 Browse and Read 👇  
 🔗 [Click here to view my written work](https://app.box.com/s/cz06kwa8m8dznlqi2tlah0ul5p7glx1c)
 
 ---
 
-### 📫 Connect With Me via
+### 🫧 Connect With Me via
 
 <p align="left">
   <a href="https://www.linkedin.com/in/abdul-azeez-olohunjuwon-anafi-baa64a199/">
