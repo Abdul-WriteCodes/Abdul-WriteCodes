@@ -43,7 +43,7 @@ My work sits at the intersection of:
 
 # 🫧 What I've Been Building
 
--🎯 ACHIEVIT: Adaptive LLM Academic Planning System
+- 🎯ACHIEVIT: Adaptive LLM Academic Planning System
 
 ![Python](https://img.shields.io/badge/Python-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-red)
@@ -51,7 +51,7 @@ My work sits at the intersection of:
 
 [view app](https://achievit.streamlit.app/)
 
--🎭 CaptAI: ML-powered sentiment analysis
+- 🎭CaptAI: ML-powered sentiment analysis
 
 ![Python](https://img.shields.io/badge/Python-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-orange)
@@ -59,7 +59,7 @@ My work sits at the intersection of:
 
 [view app](https://captai.streamlit.app/)
 
--💳 FinRisk-ML: Transaction risk analysis system
+- 💳FinRisk-ML: Transaction risk analysis system
 
 ![Python](https://img.shields.io/badge/Python-blue)
 ![Scikit--Learn](https://img.shields.io/badge/ScikitLearn-yellow)
