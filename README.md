@@ -45,6 +45,7 @@ My work sits at the intersection of:
 
 ## 🎯 ACHIEVIT
 Adaptive LLM Academic Planning System
+
 ![Python](https://img.shields.io/badge/Python-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-red)
 ![LLM](https://img.shields.io/badge/AI-LLM-green)
@@ -58,7 +59,7 @@ ML-powered sentiment analysis
 ![PyTorch](https://img.shields.io/badge/PyTorch-orange)
 ![NLP](https://img.shields.io/badge/NLP-purple)
 
-🔗 https://captai.streamlit.app/
+[view app](https://captai.streamlit.app/)
 
 ## 💳 FinRisk-ML
 Transaction risk analysis system
@@ -67,7 +68,7 @@ Transaction risk analysis system
 ![Scikit--Learn](https://img.shields.io/badge/ScikitLearn-yellow)
 ![MachineLearning](https://img.shields.io/badge/ML-green)
 
-🔗 https://finrisk-ml.streamlit.app/
+[view app](https://finrisk-ml.streamlit.app/)
 ---
 # 🫧Dev Stats
 
