@@ -65,7 +65,7 @@ My work sits at the intersection of:
 ![Scikit--Learn](https://img.shields.io/badge/ScikitLearn-yellow)
 ![MachineLearning](https://img.shields.io/badge/ML-green)
 
-[view app](https://finrisk-ml.streamlit.app/)
+[🤌🏿view app](https://finrisk-ml.streamlit.app/)
 
 ---
 # 🫧Dev Stats
