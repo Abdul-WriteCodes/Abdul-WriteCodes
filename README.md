@@ -44,9 +44,7 @@ My work sits at the intersection of:
 # 🫧 What I've Been Building
 Explore the production-grade system I've been working on
 
-🫟🎯ACHIEVIT
-
-An Adaptive LLM Academic Planning System powered by Gemini-3
+🫟🎯ACHIEVIT: An Adaptive LLM Academic Planning System powered by Gemini-3
   
 ![Python](https://img.shields.io/badge/Python-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-red)
@@ -54,9 +52,7 @@ An Adaptive LLM Academic Planning System powered by Gemini-3
 
 👉[view app](https://achievit.streamlit.app/)
 
-🫟🎭CaptAI
-
-A dual ML-powered sentiment analysis system
+🫟🎭CaptAI: A dual ML-powered sentiment analysis system
 
 ![Python](https://img.shields.io/badge/Python-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-orange)
@@ -64,9 +60,7 @@ A dual ML-powered sentiment analysis system
 
 👉[view app](https://captai.streamlit.app/)
 
-🫟💳FinRisk-ML
-
-A ML-powered Transaction risk analysis system
+🫟💳FinRisk-ML: A ML-powered Transaction risk analysis system
 
 ![Python](https://img.shields.io/badge/Python-blue)
 ![Scikit--Learn](https://img.shields.io/badge/ScikitLearn-yellow)
