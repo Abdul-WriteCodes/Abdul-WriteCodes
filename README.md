@@ -63,8 +63,8 @@ Check and explore production-grade AI systems i am building 👇
 
 
 ---
-# 🫧Written Work: Articles, Documentations & Publications
-Browse and Read 👇  
+# 🫧Articles, Documentations & Publications
+Browse and Read My Written Works 👇  
 🔗 [Click here to view my written work](https://app.box.com/s/cz06kwa8m8dznlqi2tlah0ul5p7glx1c)
 
 ---
