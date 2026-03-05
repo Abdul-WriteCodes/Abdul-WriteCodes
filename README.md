@@ -53,7 +53,42 @@ Check and explore production-grade AI systems i am building 👇
   <img src="https://skillicons.dev/icons?i=aws" width="30" /> AWS
 </span>
 
+---
 
+# 🫧 What I've Been Building
+
+---
+
+## 🎯 ACHIEVIT
+Adaptive LLM Academic Planning System
+
+![Python](https://img.shields.io/badge/Python-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-red)
+![LLM](https://img.shields.io/badge/AI-LLM-green)
+
+🔗 https://achievit.streamlit.app/
+
+---
+
+## 🎭 CaptAI
+ML-powered sentiment analysis
+
+![Python](https://img.shields.io/badge/Python-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-orange)
+![NLP](https://img.shields.io/badge/NLP-purple)
+
+🔗 https://captai.streamlit.app/
+
+---
+
+## 💳 FinRisk-ML
+Transaction risk analysis system
+
+![Python](https://img.shields.io/badge/Python-blue)
+![Scikit--Learn](https://img.shields.io/badge/ScikitLearn-yellow)
+![MachineLearning](https://img.shields.io/badge/ML-green)
+
+🔗 https://finrisk-ml.streamlit.app/
 ---
 # 🫧Dev Stats
 
