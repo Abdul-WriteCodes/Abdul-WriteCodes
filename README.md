@@ -42,7 +42,7 @@ My work sits at the intersection of:
 ---
 
 # 🫧 What I've Been Building
-Explore the production-grade system I've been working on
+👇Explore the production-grade system I've been working on
 
 🫟🎯ACHIEVIT: An Adaptive LLM Academic Planning System powered by Gemini-3
   
