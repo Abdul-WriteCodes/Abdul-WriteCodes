@@ -5,7 +5,7 @@
   <img src="Assets/image.jpg" alt="Logo" width="800"/>
 </p>
 
-### 🫧 Expertise
+<h1 align="left">🫧 Expertise </h1>
 
 I design and engineer **scalable, production-grade AI systems** powered by traditional machine learning models and modern large language models.
 
