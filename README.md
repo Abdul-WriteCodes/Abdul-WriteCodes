@@ -1,4 +1,9 @@
 ---
+<p align="center">
+  <img src="Assets/image.jpg" alt="Logo" width="800"/>
+</p>
+
+
 <h1 align="center">🫧 About Me 🫧</h1>
 
 <p align="center">
