@@ -28,16 +28,6 @@ Check and explore production-grade AI systems i am building 👇
 | 🩺 **Chron-GPT** | LLM system for diabetes risk analysis | Python, LLM, Healthcare AI | [View App](https://github.com/Abdul-WriteCodes/Chron-GPT) |
 
 ---
-## 🎯 ACHIEVIT
-**Adaptive LLM Academic Planning System**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![LLM Systems](https://img.shields.io/badge/LLM-Systems-blue)
-![AI Agents](https://img.shields.io/badge/AI-Agent%20Architecture-purple)
-
-🔗 **Live App:** https://achievit.streamlit.app/
-
 
 
 # 🫧 Tech Stack
