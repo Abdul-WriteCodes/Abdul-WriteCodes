@@ -85,7 +85,7 @@ Browse and Read My Written Works 👇
 ---
 
 # 🫧 Connect With Me
-
+Let's share idea, collaborate, co-create value, or do business
 <p align="left">
   <a href="https://www.linkedin.com/in/abdul-azeez-olohunjuwon-anafi-baa64a199/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="30" />
