@@ -44,6 +44,20 @@ My work sits at the intersection of:
 # 🫧 What I've Been Building
 Explore the production-grade system I've been working on
 
+### 🎯 ACHIEVIT  
+**Adaptive LLM Academic Planning System powered by Gemini-3**
+
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-red)
+![LLM](https://img.shields.io/badge/AI-LLM-green)
+
+</p>
+
+🔗 **Live App:** https://achievit.streamlit.app/
+
+
 - 🎯ACHIEVIT: An Adaptive LLM Academic Planning System powered by Gemini-3
 
 <p align="center">
