@@ -6,14 +6,12 @@ H e l l o👋!
 </p>
 
 # 🫧 Expertise
-
-I design and develop **scalable, production-grade AI systems** powered by traditional machine learning models and modern large language models.
-
-My work sits at the intersection of:
-
-- ⚡ **Scalable and Reliable System Design** powered by Machine Learning & LLM-Native Architectures
-- 💰 **AI SaaS Engineering** – Turning research-driven ideas into deployable products and Startups
-- 🔬 **Research and Technical Writing** – Researching and solving challenging problems and providing everyday solutions for individuals and businesses 
+I am into:
+- 🚀AI system design and development
+- 📟SaaS product engineering
+- 📈Market Research and Data Analytics
+- 📝Academic and Technical Writing
+- 🧩Strategic and Business Consulting
 
 ---
 # 🫧 Tech Stack
