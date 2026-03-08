@@ -60,6 +60,8 @@ I am into:
 
 👉[Click to view app](https://captai.streamlit.app/)
 
+--
+
 🫟💳FinRisk-ML: A ML-powered Transaction risk analysis system
 
 ![Python](https://img.shields.io/badge/Python-blue)
