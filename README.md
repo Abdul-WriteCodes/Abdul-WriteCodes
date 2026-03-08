@@ -44,7 +44,7 @@ I am into:
 
 🫟🎯ACHIEVIT: An Adaptive LLM Academic Planning System powered by Gemini-3
   
-![Python](https://img.shields.io/badge/Python-blue)
+Stacks:![Python](https://img.shields.io/badge/Python-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-red)
 ![LLM](https://img.shields.io/badge/AI-LLM-green)
 
