@@ -42,8 +42,10 @@ I am into:
 # 🫧 What I've Been Building
 👇Explore the production-grade system I've been working on
 
-🫟🎯ACHIEVIT: An Adaptive LLM Academic Planning System powered by Gemini-3
-  
+🫟🎯ACHIEVIT: 
+
+An Adaptive LLM Academic Planning System powered by Gemini-3
+
 Stacks:![Python](https://img.shields.io/badge/Python-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-red)
 ![LLM](https://img.shields.io/badge/AI-LLM-green)
