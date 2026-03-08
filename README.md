@@ -77,7 +77,7 @@ I am into:
 
 ---
 # 🫧Articles, Documentations & Publications
-Browse and Read My Written Works 👇  
+Browse and Read My Reseaech and Technival Writing Works 👇  
 🔗 [Click here to view my written work](https://app.box.com/s/cz06kwa8m8dznlqi2tlah0ul5p7glx1c)
 
 ---
