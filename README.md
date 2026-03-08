@@ -77,9 +77,7 @@ I am into:
 Check more repository
 
 <p align="center">
-
-[🖥Click to See more projects](https://github.com/Abdul-WriteCodes?tab=repositories)
-
+  [🖥Click to See more projects](https://github.com/Abdul-WriteCodes?tab=repositories)
 </p>
 
 
@@ -88,7 +86,7 @@ Check more repository
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-WriteCodes&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-WriteCodes&theme=radical" alt="GitHub Streak" /
 </p>
 
 <p align="center">
