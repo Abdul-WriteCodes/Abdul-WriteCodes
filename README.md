@@ -78,9 +78,6 @@ I am into:
   <img src="https://komarev.com/ghpvc/?username=Abdul-WriteCodes&color=blue&style=flat" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdul-WriteCodes&theme=radical" />
-</p>
 
 
 ---
