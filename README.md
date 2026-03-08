@@ -79,11 +79,7 @@ I am into:
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdul-WriteCodes&show_icons=true&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdul-WriteCodes&theme=radical" />
 </p>
 
 
