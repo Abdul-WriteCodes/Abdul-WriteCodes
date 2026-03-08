@@ -72,6 +72,10 @@ I am into:
 
 👉[Click to view app](https://finrisk-ml.streamlit.app/)
 
+--
+Check more repository
+[🖥](https://github.com/Abdul-WriteCodes?tab=repositories)
+
 ---
 # 🫧Dev Stats
 
