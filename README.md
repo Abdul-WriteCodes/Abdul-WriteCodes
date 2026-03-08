@@ -74,11 +74,10 @@ I am into:
 
 --
 
-Check more repository
-
 <p align="center">
-  [🖥Click to See more projects](https://github.com/Abdul-WriteCodes?tab=repositories)
-  
+  <a href="https://github.com/Abdul-WriteCodes?tab=repositories">
+    🔎 Explore More Projects
+  </a>
 </p>
 
 
