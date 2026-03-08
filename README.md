@@ -57,7 +57,7 @@ I am into:
 🫟🎭CaptAI: A dual ML-powered sentiment analysis system
 
 ![Python](https://img.shields.io/badge/Python-blue)
-![PyTorch](https://img.shields.io/badge/PyTorch-orange)
+![Scikit--Learn](https://img.shields.io/badge/PyTorch-orange)
 ![NLP](https://img.shields.io/badge/NLP-purple)
 
 👉[Click to view app](https://captai.streamlit.app/)
