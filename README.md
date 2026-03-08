@@ -42,15 +42,15 @@ I am into:
 # 🫧 What I've Been Building
 👇Explore the production-grade system I've been working on
 
-🫟🎯ACHIEVIT: 
+🫟🎯ACHIEVIT: An Adaptive LLM Academic Planning System powered by Gemini-3
 
-An Adaptive LLM Academic Planning System powered by Gemini-3
-
-Stacks:![Python](https://img.shields.io/badge/Python-blue)
+![Python](https://img.shields.io/badge/Python-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-red)
 ![LLM](https://img.shields.io/badge/AI-LLM-green)
 
 👉[Click to view app](https://achievit.streamlit.app/)
+
+-
 
 🫟🎭CaptAI: A dual ML-powered sentiment analysis system
 
