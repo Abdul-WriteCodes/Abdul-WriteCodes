@@ -8,7 +8,7 @@ H e l l o👋!
 # 🫧 Expertise
 I am into:
 - 🚀AI system design and development
-- 📟SaaS product engineering
+- 💰SaaS product engineering
 - 📈Market Research and Data Analytics
 - 📝Academic and Technical Writing
 - 🧩Strategic and Business Consulting
