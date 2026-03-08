@@ -74,6 +74,9 @@ I am into:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-WriteCodes&theme=radical" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-WriteCodes&layout=compact&theme=radical" />
+</p>
 
 ---
 # 🫧Articles, Documentations & Publications
