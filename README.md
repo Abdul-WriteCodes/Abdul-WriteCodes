@@ -75,7 +75,7 @@ I am into:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdul-WriteCodes&theme=react-dark" />
+  <img src="https://komarev.com/ghpvc/?username=Abdul-WriteCodes&color=blue&style=flat" />
 </p>
 
 ---
