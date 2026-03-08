@@ -77,13 +77,13 @@ I am into:
 
 ---
 # 🫧Articles, Documentations & Publications
-📝Browse and Read My Reseaech and Technival Writing Works 👇  
+📝Browse and Read My Research and Technical Writing Works 👇  
 🔗 [Click here to view my written work](https://app.box.com/s/cz06kwa8m8dznlqi2tlah0ul5p7glx1c)
 
 ---
 
 # 🫧 Connect With Me
-Let's share idea, collaborate, co-create value, or do Bu$in£ss
+Let's share idea, collaborate, co-create value, or do Business
 <p align="left">
   <a href="https://www.linkedin.com/in/abdul-azeez-olohunjuwon-anafi-baa64a199/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="30" />
