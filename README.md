@@ -104,6 +104,13 @@ I am into:
 📝Browse and Read My Research and Technical Writing Works 👇  
 🔗 [Click here to view my written work](https://app.box.com/s/cz06kwa8m8dznlqi2tlah0ul5p7glx1c)
 
+
+<p align= "centre">
+  <a href="https://app.box.com/s/hogbrxaw7m5wd9zeshmob7dyalte0b91">
+    📝Work Samples
+  </a>
+</p>
+
 ---
 
 # 🫧 Connect With Me
