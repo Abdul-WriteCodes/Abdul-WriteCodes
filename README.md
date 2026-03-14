@@ -1,7 +1,4 @@
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdul-WriteCodes&label=Profile%20views&color=0e75b6&style=plastic" alt="profile views"/>
-</p>
 
 <h1 align="left">
   🫧Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
@@ -13,11 +10,13 @@
 </p>
 
 
-
 <p align="center">
   <img src="Assets/image.jpg" alt="Logo" width="800"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abdul-WriteCodes&label=Profile%20views&color=0e75b6&style=plastic" alt="profile views"/>
+</p>
 
 
 # 🫧 Expertise
