@@ -65,10 +65,10 @@
 
 ---
 
-# 🫧 What I've Been Building
+# 🫧 Explore What I've Been Building
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&width=650&height=50&lines=👇+Explore+what+I+have+been+working+on:">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&width=650&height=50&lines=🪄Design...+⚙️Build...+🚀Deploy...">
 </p>
 
 --
