@@ -21,7 +21,11 @@
 
 
 # 🫧 Expertise
-I am into:
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&width=650&height=50&lines=🧠+I+am+into:">
+</p>
+
 - 🚀AI system design and development
 - 💰SaaS product engineering
 - 📈Market Research and Data Analytics
