@@ -119,7 +119,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-WriteCodes&theme=dracula">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-WriteCodes&theme=nord">
 </p>
 
 
