@@ -102,13 +102,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdul-WriteCodes&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-WriteCodes&theme=radical"/>
-</p>
-
-
-
-<p align="center">
   <a href="https://github.com/Abdul-WriteCodes?tab=repositories">
     <img src="https://img.shields.io/badge/🤙%20Check%20Repositories-Click%20Here-blue?style=for-the-badge" />
   </a>
@@ -120,9 +113,9 @@
 ---
 # 🫧Dev Stats
 
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-WriteCodes&theme=radical" alt="GitHub Streak" /
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdul-WriteCodes&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-WriteCodes&theme=radical"/>
 </p>
 
 
