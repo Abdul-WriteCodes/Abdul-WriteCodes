@@ -35,17 +35,8 @@
 # 🫧 Tech Stack
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="100">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="220">
 </p>
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200">
-</p>
-
-
-
-
 
 
   <span>
@@ -136,10 +127,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-WriteCodes&theme=algolia">
 </p>
 
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="220">
-</p>
 
 
 ---
