@@ -5,6 +5,10 @@
 </h1>
 
 
+<p align="right">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250">
+</p>
+
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&width=650&height=50&lines=✨️+I+am+honoured+to+have+you+here+🤓;🌱+I+am+still+growing+while+building+projects;🧠I+find+passion+in+solving+problems+every+day;🔎+Here+are+things+you+should+know+about+me;🆔️I+am+Abdul">
 </p>
@@ -115,13 +119,6 @@
 
 ---
 # 🫧Dev Stats
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250">
-</p>
-
-
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-WriteCodes&theme=algolia">
