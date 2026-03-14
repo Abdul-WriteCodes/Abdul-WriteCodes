@@ -108,15 +108,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-WriteCodes&layout=compact&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdul-WriteCodes&theme=react-dark"/>
-</p>
-
-
 ---
 # 🫧Dev Stats
 
@@ -128,8 +119,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdul-WriteCodes&show_icons=true&theme=radical"/>
 </p>
-
-
 
 
 ---
