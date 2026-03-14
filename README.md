@@ -123,6 +123,11 @@
 
 ---
 # 🫧Articles, Documentations & Publications
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&width=650&height=50&lines=📚+Browse+my+Research+and+Technical+writing+works:">
+</p>
+
 📝Browse and Read My Research and Technical Writing Works 👇  
 📒[Techncal Docs](https://app.box.com/s/cz06kwa8m8dznlqi2tlah0ul5p7glx1c)
 
