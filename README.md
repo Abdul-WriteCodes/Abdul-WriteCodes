@@ -34,6 +34,11 @@
 ---
 # 🫧 Tech Stack
 
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="100">
+</p>
+
+
   <span>
   <img src="https://skillicons.dev/icons?i=python" width="30" /> Python &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=typescript" width="30" /> TypeScript &nbsp;&nbsp;
@@ -110,10 +115,6 @@
 
 ---
 # 🫧Dev Stats
-
-<p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="220">
-</p>
 
 
 <p align="center">
