@@ -6,9 +6,16 @@
 <h1 align="left">
   🫧Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+I+am+honoured+to+have you here🤓;I am+still+growing+while+working+on+project+and+solving+problems+everyday;Here+are+things+you+should+know+about+me&font=Fira%20Code&center=false&width=600&height=50">
+</p>
+
 <p align="center">
   <img src="Assets/image.jpg" alt="Logo" width="800"/>
 </p>
+
+
 
 # 🫧 Expertise
 I am into:
