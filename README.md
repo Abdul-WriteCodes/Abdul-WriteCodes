@@ -38,6 +38,13 @@
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="100">
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKz9bY3gN2Y3pZC/giphy.gif" width="200">
+</p>
+
+
+
+
 
   <span>
   <img src="https://skillicons.dev/icons?i=python" width="30" /> Python &nbsp;&nbsp;
