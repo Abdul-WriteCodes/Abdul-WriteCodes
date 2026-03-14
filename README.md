@@ -98,8 +98,10 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&width=650&height=50&lines=+🔎+Explore+More+Projects:">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&width=400&height=50&lines=+🔎+Explore+More+Projects:">
 </p>
+
+
 
 
 <p align="center">
