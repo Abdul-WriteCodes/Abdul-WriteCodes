@@ -68,7 +68,7 @@
 # 🫧 Explore What I've Been Building
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&width=650&height=50&lines=🪄Designing...+⚙️Building...+🚀Deploying and Scaling...">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&width=650&height=50&lines=🪄Designing...+⚙️Building...+🚀Deploying...">
 </p>
 
 --
