@@ -59,10 +59,9 @@
 ---
 
 # 🫧 What I've Been Building
-👇Explore the production-grade system I've been working on
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&width=650&height=50&lines=🧠+Explore+what+I+have+been+building:">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&width=650&height=50&lines=👇+Explore+what+I+have+been+working+on:">
 </p>
 
 --
