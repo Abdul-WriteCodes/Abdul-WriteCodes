@@ -101,6 +101,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&width=500&height=50&lines=+🔎+Explore+More+Projects:">
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdul-WriteCodes&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-WriteCodes&theme=radical"/>
+</p>
 
 
 
