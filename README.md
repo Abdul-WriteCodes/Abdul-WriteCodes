@@ -90,7 +90,7 @@ I am into:
 
 <p align="center">
   <a href="https://github.com/Abdul-WriteCodes?tab=repositories">
-    <img src="https://img.shields.io/badge/🔎%20Check%20Repositories-Click%20Here-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🤙%20Check%20Repositories-Click%20Here-blue?style=for-the-badge" />
   </a>
 </p>
 
