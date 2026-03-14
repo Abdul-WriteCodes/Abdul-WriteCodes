@@ -21,11 +21,16 @@ I am into:
 - 🧩Strategic and Business Consulting
 
 
-
 # 🫧 Expertise
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+AI+System+Design+and+Development;💰+SaaS+Product+Engineering;📈+Market+Research+and+Data+Analytics;📝+Academic+and+Technical+Writing;🧩+Strategic+and+Business+Consulting&font=Fira%20Code&center=false&width=600&height=50">
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&width=700&lines=
+🚀+AI+System+Design+and+Development;
+🚀+AI+System+Design+and+Development%0A💰+SaaS+Product+Engineering;
+🚀+AI+System+Design+and+Development%0A💰+SaaS+Product+Engineering%0A📈+Market+Research+and+Data+Analytics;
+🚀+AI+System+Design+and+Development%0A💰+SaaS+Product+Engineering%0A📈+Market+Research+and+Data+Analytics%0A📝+Academic+and+Technical+Writing;
+🚀+AI+System+Design+and+Development%0A💰+SaaS+Product+Engineering%0A📈+Market+Research+and+Data+Analytics%0A📝+Academic+and+Technical+Writing%0A🧩+Strategic+and+Business+Consulting
+&repeat=false" />
 </p>
 
 ---
