@@ -39,9 +39,8 @@
 # 🫧 Tech Stack
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="220">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="100">
 </p>
-
 
   <span>
   <img src="https://skillicons.dev/icons?i=python" width="30" /> Python &nbsp;&nbsp;
@@ -122,12 +121,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-WriteCodes&theme=algolia">
-</p>
-
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="220">
 </p>
 
 
