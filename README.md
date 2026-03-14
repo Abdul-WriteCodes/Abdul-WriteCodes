@@ -112,8 +112,16 @@
 # 🫧Dev Stats
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-WriteCodes&theme=tokyonight">
+</p>
+
+
+
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-WriteCodes&theme=radical"/>
 </p>
+
 
 
 ---
