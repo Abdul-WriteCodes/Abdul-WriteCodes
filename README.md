@@ -32,10 +32,22 @@
 - 📝Academic and Technical Writing
 - 🧩Strategic and Business Consulting
 
+### 🧠 Expertise
 
-<p align="left">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&width=720&height=120&duration=3500&pause=1000&lines=🧠+I+am+into:;🚀+AI+System+Design+and+Development;🚀+AI+System+Design+and+Development%0A💰+SaaS+Product+Engineering;🚀+AI+System+Design+and+Development%0A💰+SaaS+Product+Engineering%0A📈+Market+Research+and+Data+Analytics;🚀+AI+System+Design+and+Development%0A💰+SaaS+Product+Engineering%0A📈+Market+Research+and+Data+Analytics%0A📝+Academic+and+Technical+Writing;🚀+AI+System+Design+and+Development%0A💰+SaaS+Product+Engineering%0A📈+Market+Research+and+Data+Analytics%0A📝+Academic+and+Technical+Writing%0A🧩+Strategic+and+Business+Consulting&repeat=false">
-</p>
+AI Systems Design  
+![AI](https://img.shields.io/badge/AI%20Systems%20Engineering-90%25-00C4FF?style=for-the-badge)
+
+SaaS Product Engineering  
+![SaaS](https://img.shields.io/badge/SaaS%20Engineering-85%25-7A5CFF?style=for-the-badge)
+
+Market Research & Data Analytics  
+![Analytics](https://img.shields.io/badge/Data%20Analytics-80%25-00A86B?style=for-the-badge)
+
+Academic & Technical Writing  
+![Writing](https://img.shields.io/badge/Technical%20Writing-85%25-FF8C42?style=for-the-badge)
+
+Strategic & Business Consulting  
+![Strategy](https://img.shields.io/badge/Strategy%20Consulting-75%25-FF4C4C?style=for-the-badge)
 
 ---
 # 🫧 Tech Stack
