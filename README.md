@@ -37,10 +37,10 @@
 
 ---
 # 🫧 Tech Stack
-
-<p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="100">
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&width=650&height=50&lines=🚀+Build...+Build...+Build...:">
 </p>
+
 
   <span>
   <img src="https://skillicons.dev/icons?i=python" width="30" /> Python &nbsp;&nbsp;
