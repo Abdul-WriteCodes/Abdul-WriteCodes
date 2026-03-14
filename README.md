@@ -96,9 +96,11 @@
 --
 
 
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=400&lines=🔎+Explore+More+Projects;🔎+Explore+More+Projects;🔎+Explore+More+Projects"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&width=650&height=50&lines=+🔎+Explore+More+Projects:">
 </p>
+
 
 <p align="center">
   <a href="https://github.com/Abdul-WriteCodes?tab=repositories">
