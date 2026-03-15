@@ -70,6 +70,14 @@
 
 🫟🎯ACHIEVIT: An Adaptive LLM Academic Planning System powered by Gemini-3
 
+
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+</p>
+
+
+
+
 ![Python](https://img.shields.io/badge/Python-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-red)
 ![LLM](https://img.shields.io/badge/AI-LLM-green)
