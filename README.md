@@ -8,6 +8,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&width=650&height=50&lines=✨️+I+am+honoured+to+have+you+here+🤓;🌱+I+am+still+growing+while+building+projects;🧠I+find+passion+in+solving+problems+every+day;🔎+Here+are+things+you+should+know+about+me;🆔️I+am+Abdul">
 </p>
 
+<p align="center">
+  <img src="Assets/image.jpg" alt="Logo" width="800" style="border-radius:10px;">
+</p>
+
+
+
 
 <p align="center">
   <img src="Assets/image.jpg" alt="Logo" width="800"/>
