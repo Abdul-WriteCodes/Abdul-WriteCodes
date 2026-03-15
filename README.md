@@ -9,10 +9,8 @@
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250">
 </p>
 
-
-
-<p align="center">
-<img src="https://readme-time.vercel.app/api/timezone?tz=Africa/Lagos">
+<p align="right">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250">
 </p>
 
 
