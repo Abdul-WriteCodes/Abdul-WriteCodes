@@ -1,7 +1,7 @@
 ---
 
 <h1 align="left">
-  🫧Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  🚀Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
 <p align="left">
@@ -18,7 +18,7 @@
 </p>
 
 
-# 🫧 Expertise
+# 🧠 Expertise
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&width=650&height=50&lines=🧠+I+am+into:">
@@ -31,7 +31,7 @@
 - 🧩Strategic and Business Consulting
 
 ---
-# 🫧 Tech Stack
+# 📟 Tech Stack
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&width=650&height=50&lines=🚀+writing+and+coding+with:">
 </p>
@@ -60,7 +60,7 @@
 
 ---
 
-# 🫧 Explore What I've Been Building
+# 🖥 Explore What I've Been Building
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&width=650&height=50&lines=🪄Designing...+⚙️Building...+🚀Deploying...">
@@ -112,7 +112,7 @@
 
 
 ---
-# 🫧Dev Stats
+# 📊Dev Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-WriteCodes&theme=algolia">
@@ -120,7 +120,7 @@
 
 
 ---
-# 🫧Articles, Documentations & Publications
+# ✍️Articles, Documentations & Publications
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&width=650&height=50&lines=📚+Browse+my+Research+and+Technical+writing+works:">
@@ -132,7 +132,7 @@
 
 ---
 
-# 🫧 Connect With Me
+# 🤝Connect With Me
 
 I can help/collaborate with you on:
 
