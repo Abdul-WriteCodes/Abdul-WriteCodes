@@ -68,7 +68,7 @@
 
 --
 
-🫟🎯ACHIEVIT: An Adaptive LLM Academic Planning System powered by Gemini-3
+🚀🎯ACHIEVIT: An Adaptive LLM Academic Planning System powered by Gemini-3
 
 ![Python](https://img.shields.io/badge/Python-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-red)
@@ -78,7 +78,7 @@
 
 --
 
-🫟🎭CaptAI: A dual ML-powered sentiment analysis system
+🚀🎭CaptAI: A dual ML-powered sentiment analysis system
 
 ![Python](https://img.shields.io/badge/Python-blue)
 ![Scikit--Learn](https://img.shields.io/badge/ScikitLearn-yellow)
@@ -88,7 +88,7 @@
 
 --
 
-🫟💳FinRisk-ML: A ML-powered Transaction risk analysis system
+🚀💳FinRisk-ML: A ML-powered Transaction risk analysis system
 
 ![Python](https://img.shields.io/badge/Python-blue)
 ![Scikit--Learn](https://img.shields.io/badge/ScikitLearn-yellow)
