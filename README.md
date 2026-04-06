@@ -16,9 +16,6 @@
   <img src="https://komarev.com/ghpvc/?username=Abdul-WriteCodes&label=Profile%20views&color=0e75b6&style=plastic" alt="profile views"/>
 </p>
 
-
-# 🧠 Expertise
-
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&width=650&height=50&lines=🧠+I+am+into:">
 </p>
