@@ -55,6 +55,7 @@
 </span>
 
 ---
+⚙️What I have been building
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&width=650&height=50&lines=🪄Designing...+⚙️Building...+🚀Deploying...">
@@ -119,7 +120,7 @@
 
 
 ---
-✍️Articles, Documentation
+✍️Articles, and Technical Docs
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&width=650&height=50&lines=📚+Browse+my+Research+and+Technical+writing+works:">
@@ -131,7 +132,7 @@
 
 ---
 
-# 🤝Connect With Me
+🤝Connect With Me
 
 I can help/collaborate with you on:
 
