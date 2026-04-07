@@ -19,6 +19,12 @@ Hello
   <img src="https://img.shields.io/github/stars/Abdul-WriteCodes?label=Stars&style=for-the-badge" />
 </p>
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abdul-WriteCodes&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+</p>
+
+
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&width=650&height=50&lines=🧠+I+am+into:">
 </p>
