@@ -14,7 +14,9 @@ Hello
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdul-WriteCodes&label=Profile%20views&color=0e75b6&style=plastic" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Abdul-WriteCodes&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Abdul-WriteCodes?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Abdul-WriteCodes?label=Stars&style=for-the-badge" />
 </p>
 
 <p align="left">
