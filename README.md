@@ -16,30 +16,6 @@ Hello
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdul-WriteCodes&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Abdul-WriteCodes?label=Followers&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/Abdul-WriteCodes?label=Stars&style=for-the-badge" />
-</p>
-
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Systems-Builder-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SaaS-Engineer-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Econometrics%20%7C%20LLMs-black?style=for-the-badge" />
-</p>
-
-
-<!-- ───────────────── HEADER METRICS ───────────────── -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdul-WriteCodes&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6" />
-  <img src="https://img.shields.io/github/followers/Abdul-WriteCodes?label=FOLLOWERS&style=for-the-badge&color=0e75b6" />
-  <img src="https://img.shields.io/github/stars/Abdul-WriteCodes?affiliations=OWNER%2CCOLLABORATOR&label=TOTAL+STARS&style=for-the-badge&color=0e75b6" />
-</p>
-
-
-
-<p align="center">
   <img src="https://img.shields.io/badge/APPS%20SHIPPED-5-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/APPS%20MONETIZED-2-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/TOTAL%20USERS-1K+-informational?style=for-the-badge" />
