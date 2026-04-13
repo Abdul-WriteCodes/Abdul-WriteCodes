@@ -111,7 +111,7 @@ I build systems that solve problems✨️, ship fast🚀, convert users📈, and
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/              TECHNICAL%20DOCS-📚-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TECHNICAL%20DOCS-📚-blueviolet?style=for-the-badge" />
 </p>
 
 
@@ -132,7 +132,6 @@ I build systems that solve problems✨️, ship fast🚀, convert users📈, and
   <img src="https://img.shields.io/badge/COLLABORATE%20WITH%20ME-🤝-blueviolet?style=for-the-badge" />
 </p>
 
-🤝Connect With Me
 
 I can help/collaborate with you on:
 
