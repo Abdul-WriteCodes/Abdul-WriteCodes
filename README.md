@@ -50,7 +50,7 @@ I build systems that solve problems✨️, ship fast🚀, convert users📈, and
 </p>
  
 
-- 📈PanelStatX:An AI-powered system for panel regression analysis
+- 📈PanelStatX: An AI-powered system for panel regression analysis
   - Saas Product
   - 5 Users
   - 👉Launch: [PanelStatX📈](https://panelstatx.streamlit.app/)
