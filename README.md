@@ -37,8 +37,7 @@ Hello
   <img src="https://img.shields.io/github/stars/Abdul-WriteCodes?affiliations=OWNER%2CCOLLABORATOR&label=TOTAL+STARS&style=for-the-badge&color=0e75b6" />
 </p>
 
-<!-- ───────────────── FOUNDER METRICS ───────────────── -->
-<h2 align="center">📊 Founder Metrics</h2>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/APPS%20SHIPPED-5-blueviolet?style=for-the-badge" />
@@ -47,29 +46,18 @@ Hello
   <img src="https://img.shields.io/badge/REVENUE-$XXX-orange?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20SYSTEMS-LLM%20Powered-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/STACK-FastAPI%20%7C%20Next.js-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FOCUS-SaaS%20%7C%20Econometrics-black?style=for-the-badge" />
-</p>
+
 
 <!-- ───────────────── PRODUCT SHOWCASE ───────────────── -->
 <h2 align="center">🧠 Products Built</h2>
 
-<p align="center">
+<p align="left">
   🚀 <b>PanelStatX</b> — Panel Data Econometrics Platform <br/>
   🧬 <b>DataSynthX</b> — Synthetic Data Generation Engine <br/>
   🧠 <b>Reasoner</b> — AI Research Idea Generator <br/>
 </p>
 
-<!-- ───────────────── GROWTH SIGNALS ───────────────── -->
-<h2 align="center">📈 Growth Signals</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/EXPERIMENTS%20RUN-20+-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ITERATIONS-50+-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DEPLOYMENTS-100+-blue?style=for-the-badge" />
-</p>
 
 <!-- ───────────────── PHILOSOPHY ───────────────── -->
 <h2 align="center">⚡ Build Philosophy</h2>
