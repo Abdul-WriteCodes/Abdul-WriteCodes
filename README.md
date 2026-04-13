@@ -68,13 +68,6 @@ I build systems that solve problems✨️, ship fast🚀, convert users📈, and
 
 
 
-<p align="left">
-  <a href="https://github.com/Abdul-WriteCodes?tab=repositories">
-    <img src="https://img.shields.io/badge/🔍%20Check%20Repositories-Click%20Here-blue?style=for-the-badge" />
-  </a>
-</p>
-
-
 
 
 <p align="center">
@@ -108,7 +101,6 @@ I build systems that solve problems✨️, ship fast🚀, convert users📈, and
   <img src="https://skillicons.dev/icons?i=aws" width="30" /> AWS
 </span>
 
----
 
 
 <p align="center">
@@ -116,7 +108,12 @@ I build systems that solve problems✨️, ship fast🚀, convert users📈, and
 </p>
 
 
----
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TECHNICAL%DOCS-📚-blueviolet?style=for-the-badge" />
+</p>
+
+
 
 
 <p align="left">
@@ -127,7 +124,12 @@ I build systems that solve problems✨️, ship fast🚀, convert users📈, and
 
 📚[Writing Gig Samples](https://app.box.com/s/hogbrxaw7m5wd9zeshmob7dyalte0b91)
 
----
+
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/COLLABORATE%20WITH%20ME-🤝-blueviolet?style=for-the-badge" />
+</p>
 
 🤝Connect With Me
 
