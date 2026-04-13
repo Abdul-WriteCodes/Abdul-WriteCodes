@@ -48,10 +48,11 @@ Hello
 
 👉[Achievit🎯](https://achievit.streamlit.app/)
 
+
 👉[CaptAI🎭](https://captai.streamlit.app/)
 
-🚀💳FinRisk-ML: A ML-powered Transaction risk analysis system
-- 👉[FinRisk-ML💳](https://finrisk-ml.streamlit.app/)
+🚀FinRisk-ML: A ML-powered Transaction risk analysis system
+- 👉Launch app:[FinRisk-ML💳](https://finrisk-ml.streamlit.app/)
 
 --
 
