@@ -48,7 +48,7 @@ Hello
 ![Monetization](https://img.shields.io/badge/Monetization-red)
 ![SaaS](https://img.shields.io/badge/AI-SaaS-green)
 
-👉[Click to view app](https://panelstatx.streamlit.app/)
+👉[PanelStatX](https://panelstatx.streamlit.app/)
 
 --
 
