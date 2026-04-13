@@ -46,14 +46,14 @@ Hello
 - 🧬DataSynthX: An AI-powered system for generating quality synthetic dataset
   - 👉Launch and Test app:[DataSynthX🧬](https://datasynthx.streamlit.app/)
 
-🎯Achievit: A Large Language Model-powered system for planning and achieving goals
-- 👉Launch and Test app:[Achievit🎯](https://achievit.streamlit.app/)
+- 🎯Achievit: A Large Language Model-powered system for planning and achieving goals
+  - 👉Launch and Test app:[Achievit🎯](https://achievit.streamlit.app/)
 
-🎭CaptAI: A dual machine learning model-powered system for sentiment analysis 
-- 👉Launch and Test app:[CaptAI🎭](https://captai.streamlit.app/)
+- 🎭CaptAI: A dual machine learning model-powered system for sentiment analysis 
+  - 👉Launch and Test app:[CaptAI🎭](https://captai.streamlit.app/)
 
-💳FinRisk-ML: A machine learning-powered Transaction risk analysis system
-- 👉Launch and Test app:[FinRisk-ML💳](https://finrisk-ml.streamlit.app/)
+- 💳FinRisk-ML: A machine learning-powered Transaction risk analysis system
+  - 👉Launch and Test app:[FinRisk-ML💳](https://finrisk-ml.streamlit.app/)
 
 --
 
