@@ -11,7 +11,7 @@ Hello
 </p>
 
 <p align="center">
-  <img src="Assets/Chrome.jpg" alt="Logo" width="800"/>
+  <img src="Assets/x.jpg" alt="Logo" width="800"/>
 </p>
 
 
