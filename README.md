@@ -42,54 +42,16 @@ Hello
 
 --
 
-🚀📈PanelStatX: An AI-powered system for Panel Regression Analysis 
-
-![Python](https://img.shields.io/badge/Python-blue)
-![Monetization](https://img.shields.io/badge/Monetization-red)
-![SaaS](https://img.shields.io/badge/AI-SaaS-green)
-
 👉[PanelStatX](https://panelstatx.streamlit.app/)
 
---
+👉[DataSynthX🧬](https://datasynthx.streamlit.app/)
 
+👉[Achievit🎯](https://achievit.streamlit.app/)
 
-🚀🧬DataSynthX: An AI-powered system for generating synthetic dataset
-
-![Python](https://img.shields.io/badge/Python-blue)
-![Monetization](https://img.shields.io/badge/Monetization-red)
-![SaaS](https://img.shields.io/badge/AI-SaaS-green)
-
-👉[Click to view app](https://datasynthx.streamlit.app/)
-
---
-
-🚀🎯ACHIEVIT: An Adaptive LLM Academic Planning System powered by Gemini-3
-
-![Python](https://img.shields.io/badge/Python-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-red)
-![LLM](https://img.shields.io/badge/AI-LLM-green)
-
-👉[Click to view app](https://achievit.streamlit.app/)
-
---
-
-🚀🎭CaptAI: A dual ML-powered sentiment analysis system
-
-![Python](https://img.shields.io/badge/Python-blue)
-![Scikit--Learn](https://img.shields.io/badge/ScikitLearn-yellow)
-![NLP](https://img.shields.io/badge/NLP-purple)
-
-👉[Click to view app](https://captai.streamlit.app/)
-
---
+👉[CaptAI🎭](https://captai.streamlit.app/)
 
 🚀💳FinRisk-ML: A ML-powered Transaction risk analysis system
-
-![Python](https://img.shields.io/badge/Python-blue)
-![Scikit--Learn](https://img.shields.io/badge/ScikitLearn-yellow)
-![MachineLearning](https://img.shields.io/badge/ML-green)
-
-👉[Click to view app](https://finrisk-ml.streamlit.app/)
+- 👉[FinRisk-ML💳](https://finrisk-ml.streamlit.app/)
 
 --
 
