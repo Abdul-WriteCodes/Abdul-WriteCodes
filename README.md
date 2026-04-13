@@ -35,7 +35,7 @@ Hello
 <p align="left">
   <img src="https://img.shields.io/badge/APPS%20SHIPPED-5-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/APPS%20MONETIZED-2-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TOTAL%20USERS-1K+-informational?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TOTAL%20USERS-10-informational?style=for-the-badge" />
   <img src="https://img.shields.io/badge/REVENUE-$XXX-orange?style=for-the-badge" />
 </p>
 --
