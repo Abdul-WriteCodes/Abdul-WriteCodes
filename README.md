@@ -31,6 +31,7 @@ Hello
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&width=650&height=50&lines=🪄Designing...+⚙️Building...+🚀Deploying...">
 </p>
 
+I build systems that solve problems✨️, ship fast🚀, convert users📈, and scale revenue💰
 
 <p align="left">
   <img src="https://img.shields.io/badge/APPS%20SHIPPED-5-blueviolet?style=for-the-badge" />
@@ -41,19 +42,19 @@ Hello
  
 
 - 📈PanelStatX:An AI-powered system for panel regression analysis 
-  - 👉Launch and Test app:[PanelStatX📈](https://panelstatx.streamlit.app/)
+  - 👉Launch: [PanelStatX📈](https://panelstatx.streamlit.app/)
 
 - 🧬DataSynthX: An AI-powered system for generating quality synthetic dataset
-  - 👉Launch and Test app:[DataSynthX🧬](https://datasynthx.streamlit.app/)
+  - 👉Launch: [DataSynthX🧬](https://datasynthx.streamlit.app/)
 
 - 🎯Achievit: A Large Language Model-powered system for planning and achieving goals
-  - 👉Launch and Test app:[Achievit🎯](https://achievit.streamlit.app/)
+  - 👉Launch: [Achievit🎯](https://achievit.streamlit.app/)
 
 - 🎭CaptAI: A dual machine learning model-powered system for sentiment analysis 
-  - 👉Launch and Test app:[CaptAI🎭](https://captai.streamlit.app/)
+  - 👉Launch: [CaptAI🎭](https://captai.streamlit.app/)
 
 - 💳FinRisk-ML: A machine learning-powered Transaction risk analysis system
-  - 👉Launch and Test app:[FinRisk-ML💳](https://finrisk-ml.streamlit.app/)
+  - 👉Launch: [FinRisk-ML💳](https://finrisk-ml.streamlit.app/)
 
 --
 
