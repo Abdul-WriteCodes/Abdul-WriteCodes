@@ -105,9 +105,7 @@ Hello
   <img src="https://skillicons.dev/icons?i=fastapi" width="30" /> FastAPI &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=nodejs" width="30" /> Node.js &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=docker" width="30" /> Docker &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs" width="30" /> Next.js &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=html" width="30" /> HTML &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" width="30" /> React &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=tailwind" width="30" /> Tailwind CSS &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=pytorch" width="30" /> PyTorch &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=scikitlearn" width="30" /> Scikit-Learn &nbsp;&nbsp;
