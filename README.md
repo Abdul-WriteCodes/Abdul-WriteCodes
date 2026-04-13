@@ -40,13 +40,11 @@ Hello
 </p>
  
 
---
+- 📈PanelStatX:An AI-powered system for panel regression analysis 
+  - 👉Launch and Test app:[PanelStatX📈](https://panelstatx.streamlit.app/)
 
-📈PanelStatX:An AI-powered system for panel regression analysis 
-- 👉Launch and Test app:[PanelStatX📈](https://panelstatx.streamlit.app/)
-
-🧬DataSynthX: An AI-powered system for generating quality synthetic dataset
-- 👉Launch and Test app:[DataSynthX🧬](https://datasynthx.streamlit.app/)
+- 🧬DataSynthX: An AI-powered system for generating quality synthetic dataset
+  - 👉Launch and Test app:[DataSynthX🧬](https://datasynthx.streamlit.app/)
 
 🎯Achievit: A Large Language Model-powered system for planning and achieving goals
 - 👉Launch and Test app:[Achievit🎯](https://achievit.streamlit.app/)
