@@ -57,16 +57,19 @@ I build systems that solve problems✨️, ship fast🚀, convert users📈, and
 
 - 🧬DataSynthX: An AI-powered system for generating quality synthetic dataset
   - SaaS Product
+  - 3 Users
   - 👉Launch: [DataSynthX🧬](https://datasynthx.streamlit.app/)
 
 - 🎯Achievit: A Large Language Model-powered system for planning and achieving goals
   - Hackathon Project
   - 👉Launch: [Achievit🎯](https://achievit.streamlit.app/)
 
-- 🎭CaptAI: A dual machine learning model-powered system for sentiment analysis 
+- 🎭CaptAI: A dual machine learning model-powered system for sentiment analysis
+  - Machine Learning Project
   - 👉Launch: [CaptAI🎭](https://captai.streamlit.app/)
 
 - 💳FinRisk-ML: A machine learning-powered Transaction risk analysis system
+  - Machine Learning Project
   - 👉Launch: [FinRisk-ML💳](https://finrisk-ml.streamlit.app/)
 
 
