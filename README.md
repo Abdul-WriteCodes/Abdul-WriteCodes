@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ABOUT%20ME-☕️-blueteal?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ABOUT%20ME-☕️-blueviolet?style=for-the-badge" />
 </p>
 
 
@@ -31,7 +31,10 @@
 - 🧩Strategic and Business Consulting
 
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/PROJECTS🚀-blueviolet?style=for-the-badge" />
+</p>
+
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&width=650&height=50&lines=🪄Designing...+⚙️Building...+🚀Deploying...">
