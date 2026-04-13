@@ -23,6 +23,15 @@ Hello
 
 
 
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Systems-Builder-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SaaS-Engineer-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Econometrics%20%7C%20LLMs-black?style=for-the-badge" />
+</p>
+
+
+
+
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&width=650&height=50&lines=🧠+I+am+into:">
 </p>
