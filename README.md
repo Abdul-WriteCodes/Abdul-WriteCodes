@@ -38,7 +38,8 @@ Hello
 <h2 align="center">🧠 Products Built</h2>
 
 <p align="left">
-  🚀 <b>PanelStatX</b> — Panel Data Econometrics Platform <br/> 👉[Click to view app](https://achievit.streamlit.app/)
+  🚀 <b>PanelStatX</b> — Panel Data Econometrics Platform <br/> 
+👉[Click to view app](https://achievit.streamlit.app/)
   
   🧬 <b>DataSynthX</b> — Synthetic Data Generation Engine <br/>
   🧠 <b>Reasoner</b> — AI Research Idea Generator <br/>
