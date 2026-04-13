@@ -24,14 +24,7 @@ Hello
 - 📝Academic and Technical Writing
 - 🧩Strategic and Business Consulting
 
-
-
 ---
-
-
-
----
-
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&width=650&height=50&lines=🪄Designing...+⚙️Building...+🚀Deploying...">
@@ -124,6 +117,7 @@ Hello
   <img src="https://skillicons.dev/icons?i=vercel" width="30" /> Vercel &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=aws" width="30" /> AWS
 </span>
+
 
 
 
