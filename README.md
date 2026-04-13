@@ -38,23 +38,23 @@ Hello
 <h2 align="left">🧠 Products Built</h2>
 
 <p align="left">
-  🚀 <b>PanelStatX</b> — Panel Data Econometrics Platform <br/> 
+- 🚀 <b>PanelStatX</b> — Panel Data Econometrics Platform <br/> 
 
   👉[Click to view app](https://achievit.streamlit.app/)
   
-  🧬 <b>DataSynthX</b> — Synthetic Data Generation Engine <br/>
+- 🧬 <b>DataSynthX</b> — Synthetic Data Generation Engine <br/>
 
   👉[Click to view app](https://achievit.streamlit.app/)
 
-  🚀🎯ACHIEVIT: An Adaptive LLM Academic Planning System powered by Gemini-3
+- 🎯ACHIEVIT: An Adaptive LLM Academic Planning System powered by Gemini-3
   
   👉[Click to view app](https://achievit.streamlit.app/)
   
-  🚀🎭CaptAI: A dual ML-powered sentiment analysis system
+- 🎭CaptAI: A dual ML-powered sentiment analysis system
   
   👉[Click to view app](https://captai.streamlit.app/)
   
-  🚀💳FinRisk-ML: A ML-powered Transaction risk analysis system
+- 💳FinRisk-ML: A ML-powered Transaction risk analysis system
   
   👉[Click to view app](https://finrisk-ml.streamlit.app/)
 
