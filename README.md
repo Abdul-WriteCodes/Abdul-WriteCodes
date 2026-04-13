@@ -32,7 +32,7 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PROJECTS🚀-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PROJECTS-🚀-blueviolet?style=for-the-badge" />
 </p>
 
 
