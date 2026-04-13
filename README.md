@@ -95,8 +95,6 @@ Hello
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&width=650&height=50&lines=🚀+writing+and+coding+with:">
 </p>
-
-
   <span>
   <img src="https://skillicons.dev/icons?i=python" width="30" /> Python &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=typescript" width="30" /> TypeScript &nbsp;&nbsp;
@@ -118,7 +116,7 @@ Hello
   <img src="https://skillicons.dev/icons?i=aws" width="30" /> AWS
 </span>
 
-
+---
 
 
 <p align="center">
