@@ -14,6 +14,16 @@ Hello
   <img src="Assets/x.jpg" alt="Logo" width="800"/>
 </p>
 
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&width=650&height=50&lines=🧠+I+am+into:">
+</p>
+
+- 🚀AI system design and development
+- 💰SaaS product engineering
+- 📈Market Research and Data Analytics
+- 📝Academic and Technical Writing
+- 🧩Strategic and Business Consulting
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/APPS%20SHIPPED-5-blueviolet?style=for-the-badge" />
@@ -31,11 +41,8 @@ Hello
   🚀 <b>PanelStatX</b> — Panel Data Econometrics Platform <br/>
   🧬 <b>DataSynthX</b> — Synthetic Data Generation Engine <br/>
   🧠 <b>Reasoner</b> — AI Research Idea Generator <br/>
-</p>
 
 
-
-<!-- ───────────────── PHILOSOPHY ───────────────── -->
 <h2 align="center">⚡ Build Philosophy</h2>
 
 <p align="center">
@@ -44,16 +51,6 @@ Hello
 
 
 
-
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&width=650&height=50&lines=🧠+I+am+into:">
-</p>
-
-- 🚀AI system design and development
-- 💰SaaS product engineering
-- 📈Market Research and Data Analytics
-- 📝Academic and Technical Writing
-- 🧩Strategic and Business Consulting
 
 ---
 
