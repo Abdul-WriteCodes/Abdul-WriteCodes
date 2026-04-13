@@ -25,24 +25,6 @@ Hello
 - 🧩Strategic and Business Consulting
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/APPS%20SHIPPED-5-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/APPS%20MONETIZED-2-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TOTAL%20USERS-1K+-informational?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REVENUE-$XXX-orange?style=for-the-badge" />
-</p>
-
-
-
-
-<h2 align="center">⚡ Build Philosophy</h2>
-
-<p align="center">
-  Building systems that think, ship, convert, and scale.
-</p>
-
-
-
 
 ---
 
@@ -116,6 +98,18 @@ Hello
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&width=500&height=50&lines=+🔎+Explore+More+Projects:">
 </p>
+
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/APPS%20SHIPPED-5-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/APPS%20MONETIZED-2-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TOTAL%20USERS-1K+-informational?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REVENUE-$XXX-orange?style=for-the-badge" />
+</p>
+
+
+
 
 <p align="center">
   <a href="https://github.com/Abdul-WriteCodes?tab=repositories">
