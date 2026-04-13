@@ -28,31 +28,7 @@ Hello
 
 ---
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&width=650&height=50&lines=🚀+writing+and+coding+with:">
-</p>
 
-
-  <span>
-  <img src="https://skillicons.dev/icons?i=python" width="30" /> Python &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=typescript" width="30" /> TypeScript &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" width="30" /> MySQL &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" width="30" /> MongoDB &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres" width="30" /> PostgreSQL &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=go" width="30" /> Go &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=fastapi" width="30" /> FastAPI &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" width="30" /> Node.js &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" width="30" /> Docker &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs" width="30" /> Next.js &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" width="30" /> HTML &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" width="30" /> React &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" width="30" /> Tailwind CSS &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=pytorch" width="30" /> PyTorch &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=scikitlearn" width="30" /> Scikit-Learn &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tensorflow" width="30" /> TensorFlow &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vercel" width="30" /> Vercel &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=aws" width="30" /> AWS
-</span>
 
 ---
 
@@ -122,6 +98,32 @@ Hello
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&width=650&height=50&lines=📊+Dev+Stats:">
 </p>
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&width=650&height=50&lines=🚀+writing+and+coding+with:">
+</p>
+
+
+  <span>
+  <img src="https://skillicons.dev/icons?i=python" width="30" /> Python &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=typescript" width="30" /> TypeScript &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" width="30" /> MySQL &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" width="30" /> MongoDB &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" width="30" /> PostgreSQL &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=go" width="30" /> Go &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=fastapi" width="30" /> FastAPI &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" width="30" /> Node.js &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" width="30" /> Docker &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" width="30" /> Next.js &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" width="30" /> HTML &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" width="30" /> React &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" width="30" /> Tailwind CSS &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=pytorch" width="30" /> PyTorch &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=scikitlearn" width="30" /> Scikit-Learn &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="30" /> TensorFlow &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vercel" width="30" /> Vercel &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=aws" width="30" /> AWS
+</span>
 
 
 
