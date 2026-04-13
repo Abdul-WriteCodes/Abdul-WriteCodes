@@ -50,13 +50,17 @@ I build systems that solve problems✨️, ship fast🚀, convert users📈, and
 </p>
  
 
-- 📈PanelStatX:An AI-powered system for panel regression analysis 
+- 📈PanelStatX:An AI-powered system for panel regression analysis
+  - Saas Product
+  - 5 Users
   - 👉Launch: [PanelStatX📈](https://panelstatx.streamlit.app/)
 
 - 🧬DataSynthX: An AI-powered system for generating quality synthetic dataset
+  - SaaS Product
   - 👉Launch: [DataSynthX🧬](https://datasynthx.streamlit.app/)
 
 - 🎯Achievit: A Large Language Model-powered system for planning and achieving goals
+  - Hackathon Project
   - 👉Launch: [Achievit🎯](https://achievit.streamlit.app/)
 
 - 🎭CaptAI: A dual machine learning model-powered system for sentiment analysis 
