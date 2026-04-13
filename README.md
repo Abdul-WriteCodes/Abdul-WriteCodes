@@ -1,7 +1,3 @@
-<a href="https://github.com/Abdul-WriteCodes">
-  <img src="./card.svg" alt="PanelStatX" width="680"/>
-</a>
-
 
 
 ---
@@ -15,7 +11,7 @@ Hello
 </p>
 
 <p align="center">
-  <img src="Assets/Logo3.jpeg" alt="Logo" width="800"/>
+  <img src="Assets/Chrome.jpg" alt="Logo" width="800"/>
 </p>
 
 
