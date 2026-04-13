@@ -56,7 +56,6 @@ I build systems that solve problems✨️, ship fast🚀, convert users📈, and
 - 💳FinRisk-ML: A machine learning-powered Transaction risk analysis system
   - 👉Launch: [FinRisk-ML💳](https://finrisk-ml.streamlit.app/)
 
---
 
 
 
