@@ -95,13 +95,12 @@ Hello
 
 
 
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&width=500&height=50&lines=+🔎+Explore+More+Projects:">
 </p>
 
 
-
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/APPS%20SHIPPED-5-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/APPS%20MONETIZED-2-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/TOTAL%20USERS-1K+-informational?style=for-the-badge" />
