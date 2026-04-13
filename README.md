@@ -42,6 +42,27 @@ Hello
 
 --
 
+🚀📈PanelStatX: An AI-powered system for Panel Regression Analysis 
+
+![Python](https://img.shields.io/badge/Python-blue)
+![Monetization](https://img.shields.io/badge/Streamlit-red)
+![SaaS](https://img.shields.io/badge/AI-LLM-green)
+
+👉[Click to view app](https://panelstatx.streamlit.app/)
+
+--
+
+
+🚀🧬DataSynthX: An AI-powered system for generating synthetic dataset
+
+![Python](https://img.shields.io/badge/Python-blue)
+![Monetization](https://img.shields.io/badge/Streamlit-red)
+![SaaS](https://img.shields.io/badge/AI-SaaS-green)
+
+👉[Click to view app](https://datasynthx.streamlit.app/)
+
+---
+
 🚀🎯ACHIEVIT: An Adaptive LLM Academic Planning System powered by Gemini-3
 
 ![Python](https://img.shields.io/badge/Python-blue)
