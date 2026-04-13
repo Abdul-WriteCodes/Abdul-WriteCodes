@@ -1,7 +1,13 @@
 
 
 ---
-Hello
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/APPS%20SHIPPED-5-blueviolet?style=for-the-badge" />
+</p>
+
+
 <h1 align="left">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
