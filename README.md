@@ -92,15 +92,11 @@ I build systems that solve problems✨️, ship fast🚀, convert users📈, and
   <img src="https://skillicons.dev/icons?i=postgres" width="30" /> PostgreSQL &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=go" width="30" /> Go &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=fastapi" width="30" /> FastAPI &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" width="30" /> Node.js &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" width="30" /> Docker &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=html" width="30" /> HTML &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=tailwind" width="30" /> Tailwind CSS &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=pytorch" width="30" /> PyTorch &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=scikitlearn" width="30" /> Scikit-Learn &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=tensorflow" width="30" /> TensorFlow &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vercel" width="30" /> Vercel &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=aws" width="30" /> AWS
 </span>
 
 
