@@ -20,10 +20,6 @@
 </p>
 
 
-
-
-
-
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&width=650&height=50&lines=🧠+I+am+into:">
 </p>
@@ -52,6 +48,23 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Abdul-WriteCodes&show_icons=true&theme=algolia" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-WriteCodes&theme=algolia" height="165"/>
 </p>
+
+
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://panelstatx.streamlit.app/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdul-WriteCodes&repo=PanelStatX" />
+  </a>
+
+  <a href="https://datasynthx.streamlit.app/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdul-WriteCodes&repo=DataSynthX" />
+  </a>
+</p>
+
+
+
 
 
 
