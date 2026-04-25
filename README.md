@@ -126,6 +126,16 @@
 
 
 
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdul-WriteCodes&show_icons=true&theme=algolia" width="32%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-WriteCodes&layout=compact&theme=algolia" width="32%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-WriteCodes&theme=algolia" width="32%"/>
+</p>
+
+
+
 
 ---
 
