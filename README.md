@@ -86,7 +86,7 @@
 
 <p align="center">
   <a href="https://panelstatx.streamlit.app/">
-    <img src="https://img.shields.io/badge/🌐%20Launch%20App-DataSynthX-success?style=flat-square" />
+    <img src="https://img.shields.io/badge/🌐%20Launch%20App-PanelStatX-success?style=flat-square" />
   </a>
 </p>
 
@@ -102,7 +102,7 @@
 
 <p align="center">
   <a href="https://datasynthx.streamlit.app/">
-    <img src="https://img.shields.io/badge/🌐%20Launch%20App-PanelStatX-success?style=flat-square" />
+    <img src="https://img.shields.io/badge/🌐%20Launch%20App-DataSynthX-success?style=flat-square" />
   </a>
 </p>
 
