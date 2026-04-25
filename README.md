@@ -2,6 +2,10 @@
   <img src="Assets/x.jpg" alt="Logo" width="800"/>
 </p>
 
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&width=650&height=50&lines=✨️+I+am+honoured+to+have+you+here+🤓;🌱+I+am+still+growing+while+building+projects;🧠I+find+passion+in+solving+problems+everyday;🔎+Here+are+the+things+you+should+know+about+me;🆔️I+am+Abdul+;📟Welcome+to+my+CodeVault!">
+</p>
 ---
 
 
@@ -14,9 +18,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&width=650&height=50&lines=✨️+I+am+honoured+to+have+you+here+🤓;🌱+I+am+still+growing+while+building+projects;🧠I+find+passion+in+solving+problems+everyday;🔎+Here+are+the+things+you+should+know+about+me;🆔️I+am+Abdul+;📟Welcome+to+my+CodeVault!">
-</p>
 
 
 
