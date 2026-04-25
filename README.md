@@ -113,15 +113,12 @@ I build systems that solve problems✨️, ship fast🚀, convert users📈, and
 
 
 --
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdul-WriteCodes&show_icons=true&theme=algolia"/>
-</p>
+<h2 align="center">⚡ Abdul-WriteCodes</h2>
+<p align="center">AI Systems • Data Platforms • SaaS Builder</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-WriteCodes&theme=algolia"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdul-WriteCodes&show_icons=true&theme=algolia" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-WriteCodes&theme=algolia" height="160"/>
 </p>
 
 <p align="center">
