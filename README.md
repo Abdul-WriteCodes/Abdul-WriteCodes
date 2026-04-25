@@ -107,7 +107,20 @@ I build systems that solve problems✨️, ship fast🚀, convert users📈, and
 </p>
 
 
+--
+<h3 align="center">🚀 Builder Metrics</h3>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Products_Built-5-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Products_Shipped-3-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI_Systems-4-purple?style=for-the-badge"/>
+</p>
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdul-WriteCodes&show_icons=true&theme=algolia"/>
+</p>
 
 
 
