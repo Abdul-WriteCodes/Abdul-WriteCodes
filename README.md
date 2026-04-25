@@ -109,6 +109,10 @@ I build systems that solve problems✨️, ship fast🚀, convert users📈, and
   <img src="https://github-readme-stats.vercel.app/api?username=Abdul-WriteCodes&show_icons=true&theme=algolia" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-WriteCodes&theme=algolia" height="165"/>
 </p>
+--
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdul-WriteCodes&show_icons=true&hide=issues&count_private=true&theme=default"/>
+</p>
 
 
 
