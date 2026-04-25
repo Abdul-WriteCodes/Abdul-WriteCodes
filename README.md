@@ -98,7 +98,7 @@
 - 📄 Research Intelligence
 <p align="center">
   <a href="https://empiricx.streamlit.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdul-WriteCodes&repo=EmpiricX&theme=solarized-light&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdul-WriteCodes&repo=EmpiricX&theme=calm&hide_border=true" />
   </a>
 </p>
 
