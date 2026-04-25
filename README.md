@@ -30,53 +30,6 @@
 
 
 
-
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PROJECTS-🚀-blueviolet?style=for-the-badge" />
-</p>
-
-
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&width=650&height=50&lines=🪄Designing...+⚙️Building...+🚀Deploying...">
-</p>
-
-I build systems that solve problems✨️, ship fast🚀, convert users📈, and scale revenue💰
-
-<p align="left">
-  <img src="https://img.shields.io/badge/APPS%20SHIPPED-5-gold?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/APPS%20MONETIZED-2-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TOTAL%20USERS-10-informational?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REVENUE-$XXX-orange?style=for-the-badge" />
-</p>
- 
-
-- 📈PanelStatX: An AI-powered system for panel regression analysis
-  - Saas Product
-  - 👉Launch: [PanelStatX📈](https://panelstatx.streamlit.app/)
-
-- 🧬DataSynthX: An AI-powered system for generating quality synthetic dataset
-  - SaaS Product
-  - 👉Launch: [DataSynthX🧬](https://datasynthx.streamlit.app/)
-
-- 🎯Achievit: A Large Language Model-powered system for planning and achieving goals
-  - Hackathon Project
-  - 👉Launch: [Achievit🎯](https://achievit.streamlit.app/)
-
-- 🎭CaptAI: A dual machine learning model-powered system for sentiment analysis
-  - Machine Learning Project
-  - 👉Launch: [CaptAI🎭](https://captai.streamlit.app/)
-
-- 💳FinRisk-ML: A machine learning-powered Transaction risk analysis system
-  - Machine Learning Project
-  - 👉Launch: [FinRisk-ML💳](https://finrisk-ml.streamlit.app/)
-
-
-
-
-
-
 <p align="center">
   <img src="https://img.shields.io/badge/STACKS%20AND%20STATS-📊-blueviolet?style=for-the-badge" />
 </p>
