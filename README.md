@@ -80,7 +80,7 @@
 
 <p align="center">
   <a href="https://panelstatx.streamlit.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdul-WriteCodes&repo=PanelStatX&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdul-WriteCodes&repo=PanelStatX&theme=marko&hide_border=true" />
   </a>
 </p>
 
@@ -96,7 +96,7 @@
 - 🧬 Synthetic Data Generator
 <p align="center">
   <a href="https://datasynthx.streamlit.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdul-WriteCodes&repo=DataSynthX&theme=dracula&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdul-WriteCodes&repo=DataSynthX&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
