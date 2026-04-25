@@ -2,7 +2,7 @@
   <img src="Assets/x.jpg" alt="Logo" width="1000"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/ABOUT%20ME-☕️-blueviolet?style=for-the-badge" />
 </p>
 
@@ -15,7 +15,7 @@
 
 
 
-<p align="center">
+<p align="right">
   <img src="https://img.shields.io/badge/EXPERTISE-☕️-blueviolet?style=for-the-badge" />
 </p>
 
@@ -28,8 +28,9 @@
 </p>
 
 
+---
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/STACKS%20AND%20STATS-📊-blueviolet?style=for-the-badge" />
 </p>
 
@@ -50,9 +51,9 @@
 </p>
 
 
+---
 
-
-<p align="center">
+<p align="right">
   <img src="https://img.shields.io/badge/PROJECTS-🚀-blueviolet?style=for-the-badge" />
 </p>
 
