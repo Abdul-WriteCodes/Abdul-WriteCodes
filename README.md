@@ -70,7 +70,7 @@
 
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I+build+systems+that+solve+problems;Ship+fast+🚀+products;Convert+users+📈+and+grow+impact;Scale+revenue+💰+and+systems&font=Fira%20Code&center=false&width=650&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=✨️I+build+systems+that+solve+problems;Ship+fast+🚀+products;Convert+users+📈+and+grow+impact;Scale+revenue+💰&font=Fira%20Code&center=false&width=650&height=50">
 </p>
 
 
