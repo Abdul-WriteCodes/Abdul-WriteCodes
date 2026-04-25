@@ -80,7 +80,7 @@
 
 <p align="center">
   <a href="https://panelstatx.streamlit.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdul-WriteCodes&repo=PanelStatX&theme=marko&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdul-WriteCodes&repo=PanelStatX&theme=merko&hide_border=true" />
   </a>
 </p>
 
