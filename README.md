@@ -31,7 +31,7 @@
 ---
 
 <p align="left">
-  <img src="https://img.shields.io/badge/STACKS%20AND%20STATS-📊-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STACKS%20AND%20PROJECTS-🚀-blueviolet?style=for-the-badge" />
 </p>
 
 <p align="left">
@@ -44,11 +44,6 @@
   <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,scikitlearn,streamlit,html,tailwind,pytorch,docker,tensorflow" />
 </p>
 
-
-
-<p align="right">
-  <img src="https://img.shields.io/badge/PROJECTS-🚀-blueviolet?style=for-the-badge" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/APPS%20SHIPPED-5-gold?style=for-the-badge" />
