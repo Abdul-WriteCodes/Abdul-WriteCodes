@@ -67,6 +67,21 @@
 
 
 
+## 🚀 Featured Projects
+
+### 📈 AI Analytics SaaS
+<p align="center">
+  <a href="https://panelstatx.streamlit.app/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdul-WriteCodes&repo=PanelStatX" />
+  </a>
+</p>
+
+### 🧬 Synthetic Data Generator
+<p align="center">
+  <a href="https://datasynthx.streamlit.app/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdul-WriteCodes&repo=DataSynthX" />
+  </a>
+</p>
 
 
 
