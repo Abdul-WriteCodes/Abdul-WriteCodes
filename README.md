@@ -43,7 +43,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,scikitlearn,streamlit,html,tailwind,pytorch,docker,tensorflow" />
 </p>
---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdul-WriteCodes&show_icons=true&theme=algolia" height="165"/>
@@ -64,9 +63,6 @@
   
 </p>
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&width=650&height=50&lines=🪄Designing...+⚙️Building...+🚀Deploying...">
-</p>
 
 
 <p align="left">
@@ -94,8 +90,7 @@
   </a>
 </p>
 
-
-
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/TECHNICAL%20DOCS-📚-blueviolet?style=for-the-badge" />
