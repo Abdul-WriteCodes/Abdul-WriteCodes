@@ -96,13 +96,13 @@
 
 
 - 📄 Research Intelligence
-<p align="right">
+<p align="center">
   <a href="https://empiricx.streamlit.app/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdul-WriteCodes&repo=EmpiricX&theme=radical&hide_border=true" />
   </a>
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://empiricx.streamlit.app/">
     <img src="https://img.shields.io/badge/🌐%20Launch%20App-EmpiricX📄-success?style=flat-square" />
   </a>
