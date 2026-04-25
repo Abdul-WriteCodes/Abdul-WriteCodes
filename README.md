@@ -96,7 +96,7 @@
 - 🧬 Synthetic Data Generator
 <p align="left">
   <a href="https://datasynthx.streamlit.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdul-WriteCodes&repo=DataSynthX&theme=gruvbox&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdul-WriteCodes&repo=DataSynthX&theme=radical&hide_border=true" />
   </a>
 </p>
 
