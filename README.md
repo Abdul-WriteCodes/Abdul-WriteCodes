@@ -81,18 +81,19 @@
 
 - 🧬 Synthetic Data Generator
   
-<p align="left">
+<p align="center">
   <a href="https://datasynthx.streamlit.app/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdul-WriteCodes&repo=DataSynthX&theme=radical&hide_border=true" />
   </a>
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://datasynthx.streamlit.app/">
     <img src="https://img.shields.io/badge/🌐%20Launch%20App-DataSynthx-success?style=flat-square" />
   </a>
 </p>
 
+--
 
 
 - 📄 Research Intelligence
@@ -110,6 +111,11 @@
 
 
 ---
+
+
+<p align="right">
+  <img src="https://img.shields.io/badge/STATS-📐-blueviolet?style=for-the-badge" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdul-WriteCodes&show_icons=true&theme=algolia" height="165"/>
