@@ -44,13 +44,7 @@
   <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,scikitlearn,streamlit,html,tailwind,pytorch,docker,tensorflow" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdul-WriteCodes&show_icons=true&theme=algolia" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-WriteCodes&theme=algolia" height="165"/>
-</p>
 
-
----
 
 <p align="right">
   <img src="https://img.shields.io/badge/PROJECTS-🚀-blueviolet?style=for-the-badge" />
@@ -72,9 +66,6 @@
 
 
 
-
-
- 
 
 - 📈 AI Analytics SaaS
 
@@ -112,7 +103,12 @@
 
 
 
+---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdul-WriteCodes&show_icons=true&theme=algolia" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-WriteCodes&theme=algolia" height="165"/>
+</p>
 
 
 
