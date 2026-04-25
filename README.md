@@ -56,6 +56,12 @@
   <img src="https://img.shields.io/badge/PROJECTS-🚀-blueviolet?style=for-the-badge" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/APPS%20SHIPPED-5-gold?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/APPS%20MONETIZED-3-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TOTAL%20USERS-10-informational?style=for-the-badge" />
+  
+</p>
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&width=650&height=50&lines=🪄Designing...+⚙️Building...+🚀Deploying...">
@@ -63,12 +69,6 @@
 
 I build systems that solve problems✨️, ship fast🚀, convert users📈, and scale revenue💰
 
-<p align="left">
-  <img src="https://img.shields.io/badge/APPS%20SHIPPED-5-gold?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/APPS%20MONETIZED-3-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TOTAL%20USERS-10-informational?style=for-the-badge" />
-  
-</p>
  
 
 - 📈 AI Analytics SaaS
