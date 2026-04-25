@@ -94,13 +94,14 @@
 
 
 - 🧬 Synthetic Data Generator
+  
 <p align="left">
   <a href="https://datasynthx.streamlit.app/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdul-WriteCodes&repo=DataSynthX&theme=radical&hide_border=true" />
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://datasynthx.streamlit.app/">
     <img src="https://img.shields.io/badge/🌐%20Launch%20App-DataSynthx-success?style=flat-square" />
   </a>
@@ -108,20 +109,6 @@
 
 
 
-
-
-- 🧬 Synthetic Data Generator
-<p align="center">
-  <a href="https://datasynthx.streamlit.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdul-WriteCodes&repo=DataSynthX&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://datasynthx.streamlit.app/">
-    <img src="https://img.shields.io/badge/🌐%20Launch%20App-DataSynthX-success?style=flat-square" />
-  </a>
-</p>
 
 
 
