@@ -90,6 +90,25 @@
   </a>
 </p>
 
+
+
+
+<p align="center">
+  <a href="https://panelstatx.streamlit.app/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdul-WriteCodes&repo=PanelStatX&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://panelstatx.streamlit.app/">
+    <img src="https://img.shields.io/badge/🌐%20Launch%20App-PanelStatX-success?style=flat-square" />
+  </a>
+</p>
+
+
+
+
+
 ---
 
 <p align="left">
