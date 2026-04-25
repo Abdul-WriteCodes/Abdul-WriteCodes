@@ -32,6 +32,14 @@
 - 🧩Strategic and Business Consulting
 
 
+
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+AI+System+Design+and+Development;💰+SaaS+Product+Engineering;📈+Market+Research+and+Data+Analytics;📝+Academic+and+Technical+Writing;🧩+Strategic+and+Business+Consulting&font=Fira%20Code&center=false&width=600&height=50">
+</p>
+
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/PROJECTS-🚀-blueviolet?style=for-the-badge" />
 </p>
