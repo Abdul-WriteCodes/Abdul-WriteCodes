@@ -30,6 +30,14 @@
 
 
 
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,nextjs,streamlit,pandas,git,github,docker,vscode" />
+</p>
+
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/PROJECTS-🚀-blueviolet?style=for-the-badge" />
 </p>
