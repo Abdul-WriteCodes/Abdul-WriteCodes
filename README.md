@@ -70,13 +70,13 @@
 
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I+build+system+that+solve+problem🤢;+Ship fast🚀+Product;+Convert+users📈+and;+Scale+revenue💰&font=Fira%20Code&center=false&width=600&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I+build+systems+that+solve+problems;Ship+fast+🚀+products;Convert+users+📈+and+grow+impact;Scale+revenue+💰+and+systems&font=Fira%20Code&center=false&width=650&height=50">
 </p>
 
 
 
 
-I build systems that solve problems✨️, ship fast🚀, convert users📈, and scale revenue💰
+
 
  
 
