@@ -25,15 +25,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&width=650&height=50&lines=🧠+I+am+into:">
 </p>
 
-- 🚀AI system design and development
-- 💰SaaS product engineering
-- 📈Market Research and Data Analytics
-- 📝Academic and Technical Writing
-- 🧩Strategic and Business Consulting
-
-
-
-
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+AI+System+Design+and+Development;💰+SaaS+Product+Engineering;📈+Market+Research+and+Data+Analytics;📝+Academic+and+Technical+Writing;🧩+Strategic+and+Business+Consulting&font=Fira%20Code&center=false&width=600&height=50">
 </p>
