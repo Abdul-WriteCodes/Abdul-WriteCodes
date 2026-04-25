@@ -77,21 +77,6 @@
  
 
 - 📈 AI Analytics SaaS
-<p align="center">
-  <a href="https://panelstatx.streamlit.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdul-WriteCodes&repo=PanelStatX" />
-  </a>
-</p>
-
-- 🧬 Synthetic Data Generator
-<p align="center">
-  <a href="https://datasynthx.streamlit.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdul-WriteCodes&repo=DataSynthX&theme=dracula&hide_border=true" />
-  </a>
-</p>
-
-
-
 
 <p align="center">
   <a href="https://panelstatx.streamlit.app/">
@@ -101,9 +86,30 @@
 
 <p align="center">
   <a href="https://panelstatx.streamlit.app/">
+    <img src="https://img.shields.io/badge/🌐%20Launch%20App-DataSynthX-success?style=flat-square" />
+  </a>
+</p>
+
+--
+
+
+- 🧬 Synthetic Data Generator
+<p align="center">
+  <a href="https://datasynthx.streamlit.app/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdul-WriteCodes&repo=DataSynthX&theme=dracula&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://datasynthx.streamlit.app/">
     <img src="https://img.shields.io/badge/🌐%20Launch%20App-PanelStatX-success?style=flat-square" />
   </a>
 </p>
+
+
+
+
+
 
 
 
