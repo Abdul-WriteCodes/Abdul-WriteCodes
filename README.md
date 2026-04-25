@@ -109,17 +109,25 @@ I build systems that solve problems✨️, ship fast🚀, convert users📈, and
   <img src="https://github-readme-stats.vercel.app/api?username=Abdul-WriteCodes&show_icons=true&theme=algolia" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-WriteCodes&theme=algolia" height="165"/>
 </p>
+
+
+
 --
-<h2 align="center">🚀 Building AI-Powered Data Systems</h2>
+
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <a href="https://panelstatx.streamlit.app">
-    <img src="https://img.shields.io/badge/PanelStatX-Live-brightgreen?style=for-the-badge"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Bayantx360-Platform-blue?style=for-the-badge"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdul-WriteCodes&show_icons=true&theme=algolia"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-WriteCodes&theme=algolia"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-WriteCodes&layout=compact&theme=algolia"/>
+</p>
+
 
 
 
