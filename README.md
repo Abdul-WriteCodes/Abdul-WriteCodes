@@ -91,7 +91,7 @@ Efactor
   
 <p align="center">
   <a href="https://datasynthx.streamlit.app/">
-    <img src="https://gh-card.dev/repos/Abdul-WriteCodes/DataSynthX.svg?theme=radical" />
+    <img src="https://gh-card.dev/repos/Abdul-WriteCodes/DataSynthX.svg?theme=cyan" />
   </a>
 </p>
 
