@@ -92,11 +92,11 @@
   </a>
 </p>
 
-
-
-
-
-
+---
+<p align= "center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abdul-WriteCodes" />
+</p>
+---
 
 - 🧬 Synthetic Data Generator
   
