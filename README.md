@@ -46,9 +46,9 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/APPS%20SHIPPED-5-gold?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/APPS%20MONETIZED-3-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TOTAL%20USERS-10-informational?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/APPS%20SHIPPED-10-gold?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/APPS%20MONETIZED-4-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BUILD%20IDEAS-☆-informational?style=for-the-badge" />
   
 </p>
 
@@ -76,7 +76,7 @@
   </a>
 </p>
 
---
+
 
 - 🔬 Data Quality Copilot
 
