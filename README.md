@@ -132,14 +132,11 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abdul-WriteCodes&theme=algolia" hright="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-WriteCodes&theme=algolia" height="165"/>
   
 </p>
 
-<p align= "center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abdul-WriteCodes&theme=algolia" hright="165" />
-</p>
----
 
 ---
 
