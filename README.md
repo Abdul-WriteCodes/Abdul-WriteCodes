@@ -192,6 +192,13 @@ I can help/collaborate with you on:
 
 </p>
 
+---
+
+<p align="center">
+  <a href="https://github.com/Abdul-WriteCodes/DataSynthX">
+    <img src="https://img.shields.io/badge/DataSynthX-View%20Project-blue?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdul-WriteCodes&repo=DataSynthX)](https://github.com/Abdul-WriteCodes/DataSynthX)
+
