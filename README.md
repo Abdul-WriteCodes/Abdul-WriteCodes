@@ -192,7 +192,6 @@ I can help/collaborate with you on:
 
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abdul-WriteCodes&show_icons=true&theme=radical" />
-<img src="https://streak-stats.demolab.com/?user=Abdul-WriteCodes&theme=radical" />
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdul-WriteCodes&repo=DataSynthX)](https://github.com/Abdul-WriteCodes/DataSynthX)
