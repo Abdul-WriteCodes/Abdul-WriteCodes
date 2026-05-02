@@ -137,7 +137,7 @@
 </p>
 
 <p align= "center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abdul-WriteCodes&theme=algolia" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abdul-WriteCodes&theme=algolia" hright="165" />
 </p>
 ---
 
