@@ -78,11 +78,11 @@
 
 --
 
-- 🔬 Efactor
+- 🔬 Data Quality Copilot
 
 <p align="center">
   <a href="https://efactor.streamlit.app/">
-    <img src="https://gh-card.dev/repos/Abdul-WriteCodes/efactor.svg?theme=dark" />
+    <img src="https://gh-card.dev/repos/Abdul-WriteCodes/EFActor.svg?theme=dark" />
   </a>
 </p>
 
@@ -109,10 +109,10 @@
 
 
 
-- 📄 Research Intelligence
+- 📄 Research Copilot
 <p align="center">
   <a href="https://empiricx.streamlit.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdul-WriteCodes&repo=EmpiricX&theme=rose_pine&hide_border=true" />
+    <img src="https://gh-card.dev/repos/Abdul-WriteCodes/EmpiricX.svg?theme=dark" />
   </a>
 </p>
 
