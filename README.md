@@ -78,13 +78,7 @@
 
 --
 
-
-
-<p align="center">
-  <a href="https://efactor.streamlit.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdul-WriteCodes&repo=EFActor&theme=rose_pine&hide_border=true" />
-  </a>
-</p>
+Efactor
 
 <p align="center">
   <a href="https://efactor.streamlit.app/">
@@ -97,7 +91,7 @@
   
 <p align="center">
   <a href="https://datasynthx.streamlit.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdul-WriteCodes&repo=DataSynthX&theme=radical&hide_border=true" />
+    <img src="https://gh-card.dev/repos/Abdul-WriteCodes/DataSynthX.svg?theme=radical" />
   </a>
 </p>
 
@@ -107,15 +101,6 @@
   </a>
 </p>
 
---
-
-<p align="center">
-  <a href="https://datasynthx.streamlit.app/">
-    <img src="https://gh-card.dev/repos/Abdul-WriteCodes/DataSynthX.svg" />
-  </a>
-</p>
-
----
 
 
 - 📄 Research Intelligence
