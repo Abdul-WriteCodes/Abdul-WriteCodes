@@ -82,7 +82,7 @@
 
 <p align="center">
   <a href="https://efactor.streamlit.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdul-WriteCodes&repo=EFActor&theme=merko&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdul-WriteCodes&repo=EFActor&theme=rose_pine&hide_border=true" />
   </a>
 </p>
 
