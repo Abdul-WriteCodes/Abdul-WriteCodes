@@ -81,7 +81,7 @@
 
 - 🧬 Synthetic Data Generator
   
-<p align="center">
+<p align="left">
   <a href="https://datasynthx.streamlit.app/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdul-WriteCodes&repo=DataSynthX&theme=radical&hide_border=true" />
   </a>
