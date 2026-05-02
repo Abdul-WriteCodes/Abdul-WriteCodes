@@ -81,14 +81,14 @@
 
 
 <p align="center">
-  <a href="https://datasynthx.streamlit.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdul-WriteCodes&repo=DatasynthX&theme=merko&hide_border=true" />
+  <a href="https://efactor.streamlit.app/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdul-WriteCodes&repo=EFActor&theme=merko&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://datasynthx.streamlit.app/">
-    <img src="https://img.shields.io/badge/🌐%20Launch%20App-DatasynthX-success?style=flat-square" />
+  <a href="https://efactor.streamlit.app/">
+    <img src="https://img.shields.io/badge/🌐%20Launch%20App-EFActor-success?style=flat-square" />
   </a>
 </p>
 
