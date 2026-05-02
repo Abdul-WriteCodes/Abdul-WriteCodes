@@ -66,7 +66,7 @@
 
 <p align="center">
   <a href="https://panelstatx.streamlit.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdul-WriteCodes&repo=PanelStatX&theme=merko&hide_border=true" />
+     <img src="https://gh-card.dev/repos/Abdul-WriteCodes/PanelStatX.svg?theme=dark" />
   </a>
 </p>
 
@@ -78,7 +78,13 @@
 
 --
 
-Efactor
+- 🔬 Efactor
+
+<p align="center">
+  <a href="https://efactor.streamlit.app/">
+    <img src="https://gh-card.dev/repos/Abdul-WriteCodes/efactor.svg?theme=dark" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://efactor.streamlit.app/">
@@ -91,7 +97,7 @@ Efactor
   
 <p align="center">
   <a href="https://datasynthx.streamlit.app/">
-    <img src="https://gh-card.dev/repos/Abdul-WriteCodes/DataSynthX.svg?theme=cyan" />
+    <img src="https://gh-card.dev/repos/Abdul-WriteCodes/DataSynthX.svg?theme=dark" />
   </a>
 </p>
 
