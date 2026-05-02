@@ -35,7 +35,7 @@
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&width=650&height=50&lines=🚀+writing+and+coding+with:">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&width=650&height=50&lines=🚀+writing+coding+and+shipping+with:">
 </p>
   
 
@@ -51,13 +51,6 @@
   <img src="https://img.shields.io/badge/BUILD%20IDEAS-☆-informational?style=for-the-badge" />
   
 </p>
-
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=✨️I+build+systems+that+solve+problems;Ship+fast+🚀+products;Convert+users+📈+and+grow+impact;Scale+revenue+💰&font=Fira%20Code&center=false&width=650&height=50">
-</p>
-
 
 
 
