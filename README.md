@@ -66,7 +66,7 @@
 
 <p align="center">
   <a href="https://panelstatx.streamlit.app/">
-     <img src="https://gh-card.dev/repos/Abdul-WriteCodes/PanelStatX.svg?theme=dark" />
+     <img src="https://gh-card.dev/repos/Abdul-WriteCodes/PanelStatX.svg?theme=dark" width=250/>
   </a>
 </p>
 
@@ -82,7 +82,7 @@
 
 <p align="center">
   <a href="https://efactor.streamlit.app/">
-    <img src="https://gh-card.dev/repos/Abdul-WriteCodes/EFActor.svg?theme=dark" />
+    <img src="https://gh-card.dev/repos/Abdul-WriteCodes/EFActor.svg?theme=dark" width=250/>
   </a>
 </p>
 
@@ -97,7 +97,7 @@
   
 <p align="center">
   <a href="https://datasynthx.streamlit.app/">
-    <img src="https://gh-card.dev/repos/Abdul-WriteCodes/DataSynthX.svg?theme=dark" />
+    <img src="https://gh-card.dev/repos/Abdul-WriteCodes/DataSynthX.svg?theme=dark" width=250/>
   </a>
 </p>
 
@@ -112,7 +112,7 @@
 - 📄 Research Copilot
 <p align="center">
   <a href="https://empiricx.streamlit.app/">
-    <img src="https://gh-card.dev/repos/Abdul-WriteCodes/EmpiricX.svg?theme=dark" />
+    <img src="https://gh-card.dev/repos/Abdul-WriteCodes/EmpiricX.svg?theme=dark" width=250/>
   </a>
 </p>
 
@@ -190,7 +190,5 @@ I can help/collaborate with you on:
 
 
 </p>
-
-
 
 
