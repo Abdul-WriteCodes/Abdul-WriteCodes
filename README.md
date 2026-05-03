@@ -146,8 +146,6 @@
 
 📒[Techncal Docs](https://app.box.com/s/cz06kwa8m8dznlqi2tlah0ul5p7glx1c)
 
-📚[Writing Gig Samples](https://app.box.com/s/hogbrxaw7m5wd9zeshmob7dyalte0b91)
-
 
 ---
 
