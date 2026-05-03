@@ -14,17 +14,16 @@
 ---
 
 
-
 <p align="right">
-  <img src="https://img.shields.io/badge/EXPERTISE-☕️-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/EXPERTISE-🧠-blueviolet?style=for-the-badge" />
 </p>
 
-
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&width=650&height=50&lines=🧠+I+am+into:">
-</p>
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+AI+System+Design+and+Development;💰+SaaS+Product+Engineering;📈+Market+Research+and+Data+Analytics;📝+Academic+and+Technical+Writing;🧩+Strategic+and+Business+Consulting&font=Fira%20Code&center=false&width=600&height=50">
+My Expertise and works revolve around:
+- 🚀 AI System Design and Development
+- 💰 SaaS Product Engineering
+- 📈 Market Research and Data Analytics
+- 📝 Academic and Technical Writing
+- 🧩 Strategic and Business 
 </p>
 
 
@@ -34,29 +33,30 @@
   <img src="https://img.shields.io/badge/STACKS%20AND%20PROJECTS-🚀-blueviolet?style=for-the-badge" />
 </p>
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&width=650&height=50&lines=🚀+writing+coding+and+shipping+with:">
-</p>
-  
-
-
+I have proficiency in coding, building and shipping with traditional stacks and modern frameworks
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,scikitlearn,streamlit,html,tailwind,pytorch,docker,tensorflow" />
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude-AI-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GPT-OpenAI-black?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/Gemini-Google-blue?style=for-the-badge&logo=google" />
+  <img src="https://img.shields.io/badge/Llama-Meta-0467DF?style=for-the-badge&logo=meta" />
+  <img src="https://img.shields.io/badge/Mistral-AI-orange?style=for-the-badge" />
+</p>
+
+> Over 10 production grade apps and systems have been shipped
 
 <p align="center">
-  <img src="https://img.shields.io/badge/APPS%20SHIPPED-10-gold?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/APPS%20MONETIZED-4-success?style=for-the-badge" /> <br><br><br>
   <img src="https://img.shields.io/badge/TOP%20PROJECTS-☆-informational?style=for-the-badge" />
-  
 </p>
 
 
 
 
-- 📈 AI Analytics SaaS
-
+- 📈 AI-powered Advanced Data Analytics SaaS
+> Researchers and students struggle with Panel Regression (accessibility and deep technical learning curve are top influencing barriers in using tools like R and Stata). I built and shipped PanelStatX as a no code, low cost and user friendly SaaS product to solve that.
 <p align="center">
   <a href="https://panelstatx.streamlit.app/">
      <img src="https://gh-card.dev/repos/Abdul-WriteCodes/PanelStatX.svg?theme=dark" width=250/>
@@ -72,7 +72,7 @@
 
 
 - 🔬 Data Quality Copilot
-
+>Researchers and students often struggle with unreliable factor models caused by weak and cross-loading variables in Exploratory Factor Analysis (EFA) and Confirmatory Factor Analysis (CFA). I built and shipped EFActor as a low-cost, no-code diagnostic SaaS that identifies and eliminates these issues, helping users produce cleaner, more reliable factor structures and accelerate their analysis.
 <p align="center">
   <a href="https://efactor.streamlit.app/">
     <img src="https://gh-card.dev/repos/Abdul-WriteCodes/EFActor.svg?theme=dark" width=250/>
