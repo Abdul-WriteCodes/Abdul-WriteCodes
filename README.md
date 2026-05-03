@@ -71,8 +71,8 @@ I have proficiency in coding, building and shipping with traditional stacks and 
 
 
 
-- 🔬 Data Quality Copilot
->Researchers and students often struggle with unreliable factor models caused by weak and cross-loading variables in Exploratory Factor Analysis (EFA) and Confirmatory Factor Analysis (CFA). I built and shipped EFActor as a low-cost, no-code diagnostic SaaS that identifies and eliminates these issues, helping users produce cleaner, more reliable factor structures and accelerate their analysis.
+- 🔬 EFA/CFA Diagnostic & Refinement Tool
+>Researchers, students, data analysts & data scientists often struggle with unreliable factor models caused by weak and cross-loading variables in Exploratory Factor Analysis (EFA) and Confirmatory Factor Analysis (CFA). I built and shipped EFActor as a low-cost, no-code diagnostic SaaS that identifies and eliminates these issues, helping users produce cleaner, more reliable factor structures and accelerate their analysis.
 <p align="center">
   <a href="https://efactor.streamlit.app/">
     <img src="https://gh-card.dev/repos/Abdul-WriteCodes/EFActor.svg?theme=dark" width=250/>
@@ -87,7 +87,7 @@ I have proficiency in coding, building and shipping with traditional stacks and 
 
 
 - 🧬 Synthetic Data Generator
-  
+> Researchers, students, and data professionals often face insufficient data — from low survey response rates to limited training samples. I built DataSynthX — an AI-powered SaaS that generates high-quality synthetic datasets which preserve the statistical structure of the original data, enabling more reliable analysis and model development.
 <p align="center">
   <a href="https://datasynthx.streamlit.app/">
     <img src="https://gh-card.dev/repos/Abdul-WriteCodes/DataSynthX.svg?theme=dark" width=250/>
@@ -102,7 +102,8 @@ I have proficiency in coding, building and shipping with traditional stacks and 
 
 
 
-- 📄 Research Copilot
+- 📄 A Research Synthesis & Intelligence Platform
+> Literature reviews across dozens of papers are slow, manual, and difficult to synthesize effectively. To solve this, I built EmpiricX— an AI-powered research assistant that analyzes multiple papers, surfaces key insights, highlights gaps, and identifies patterns of convergence and divergence across studies. 
 <p align="center">
   <a href="https://empiricx.streamlit.app/">
     <img src="https://gh-card.dev/repos/Abdul-WriteCodes/EmpiricX.svg?theme=dark" width=250/>
