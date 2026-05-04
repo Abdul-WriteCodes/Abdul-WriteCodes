@@ -38,7 +38,7 @@ I have proficiency in coding, building and shipping with traditional stacks and 
   <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,scikitlearn,streamlit,html,tailwind,pytorch,docker,tensorflow" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Claude-AI-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/GPT-OpenAI-black?style=for-the-badge&logo=openai" />
   <img src="https://img.shields.io/badge/Gemini-Google-blue?style=for-the-badge&logo=google" />
