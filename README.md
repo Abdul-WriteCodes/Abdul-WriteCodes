@@ -62,6 +62,7 @@ I have proficiency in coding, building and shipping with traditional stacks and 
 </p>
 
 > I am building 360-Suite as a modular no-code statistical analysis platform that let researchers, students and data analysts turbocharge research, boost productivity, reducce analysis time by ~80% without installing complex software, paying huge license fee, or writing a single line  of code.
+> 
 > Within 360-Suite currently, user can :
 > - Generate custom dataset via DataSynthX🧬
 > - Automatically clean messy data via DataCleanX🧹
