@@ -53,7 +53,7 @@ I have proficiency in coding, building and shipping with traditional stacks and 
 </p>
 
 <p align="center">
-- 📈 Bayantx360-Suite: A modular no-code advanced statistical analysis platform
+- 🌐 Bayantx360-Suite: A modular no-code advanced statistical analysis platform
 </p>
 <p align="center">
   <a href="https://bayantx360-suite.streamlit.app/">
