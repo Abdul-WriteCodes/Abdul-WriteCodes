@@ -104,7 +104,7 @@ I have proficiency in coding, building and shipping with traditional stacks and 
 
 ---
 
-<p align="left">
+<p align="centre">
   <img src="https://img.shields.io/badge/Blogs%20Docs-📚-blueviolet?style=for-the-badge" />
 </p>
 
@@ -113,7 +113,7 @@ I have proficiency in coding, building and shipping with traditional stacks and 
 </p>
 
 
-<p align="left">
+<p align="center">
 <a href="https://abdulbuilds.blogspot.com/" target="_blank">
   <img 
     src="https://upload.wikimedia.org/wikipedia/commons/3/31/Blogger.svg"
@@ -121,7 +121,7 @@ I have proficiency in coding, building and shipping with traditional stacks and 
     width="60">
 </a>
 </p>
-<p align="left">
+<p align="center">
 <a href="https://app.box.com/s/cz06kwa8m8dznlqi2tlah0ul5p7glx1c" target="_blank">
   <img 
     src="https://cdn.simpleicons.org/box/0061D5"
