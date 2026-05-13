@@ -146,8 +146,8 @@ I can help/collaborate with you on:
 </p>
 
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/abdul-azeez-olohunjuwon-anafi-baa64a199/">
+<p align="center">
+  <a href="https://www.linkedin.com/in/anafiabdul">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="30" />
   </a>
   &nbsp;
