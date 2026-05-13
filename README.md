@@ -105,7 +105,7 @@ I have proficiency in coding, building and shipping with traditional stacks and 
 ---
 
 <p align="left">
-  <img src="https://img.shields.io/badge/TECHNICAL%20DOCS-📚-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Blogs%20Docs-📚-blueviolet?style=for-the-badge" />
 </p>
 
 
@@ -117,6 +117,15 @@ I have proficiency in coding, building and shipping with traditional stacks and 
 </p>
 
 📒[Techncal Docs](https://app.box.com/s/cz06kwa8m8dznlqi2tlah0ul5p7glx1c)
+
+
+<a href="https://abdulbuilds.blogspot.com/" target="_blank">
+  <img 
+    src="https://upload.wikimedia.org/wikipedia/commons/3/31/Blogger.svg"
+    alt="Blogger"
+    width="32">
+</a>
+
 
 
 ---
