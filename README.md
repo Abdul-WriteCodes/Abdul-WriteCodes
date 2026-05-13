@@ -55,8 +55,13 @@ I have proficiency in coding, building and shipping with traditional stacks and 
 
 
 
-- 📈 AI-powered Advanced Data Analytics SaaS
-> A modular no-code statistical analysis platform for data generation, cleaning, psychometric diagnostics, and advanced regression modeling.
+- 📈 Bayantx360-Suite: A modular no-code advanced statistical analysis platform
+> As a modular no-code statistical analysis platform, 360-Suite let users turbocharge research, boost productivity, reducce analysis time by ~80% without installing complex software, paying huge license fee, or writing a single line  of code. With 360-Suite, users can
+> - Generate custom dataset via DataSynthX🧬
+> - Automatically clean messy data via DataCleanX🧹
+> - Diagnose and Fix EFA/CFA issues via EFActor🔍
+> - Run advanced panel regression model via PanelStatX📈
+
 <p align="center">
   <a href="https://bayantx360-suite.streamlit.app/">
      <img src="https://gh-card.dev/repos/Abdul-WriteCodes/Bayantx360-Suite.svg?theme=dark" width=250/>
@@ -69,11 +74,7 @@ I have proficiency in coding, building and shipping with traditional stacks and 
   </a>
 </p>
 
-> As a modular no-code statistical analysis platform, 360-Suite let users turbocharge research, boost productivity, reducce analysis time by ~80% without installing complex software, paying huge license fee, or writing a single line  of code. With 360-Suite, users can
-> - Generate custom dataset via DataSynthX🧬
-> - Automatically clean messy data via DataCleanX🧹
-> - Diagnose and Fix EFA/CFA issues via EFActor🔍
-> - Run advanced panel regression model via PanelStatX📈
+
 
 
 
