@@ -76,6 +76,7 @@ I have proficiency in coding, building and shipping with traditional stacks and 
   </a>
 </p>
 
+---
 <p align="center">
   👇Check Repo for more projects
 </p>
