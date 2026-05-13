@@ -108,23 +108,27 @@ I have proficiency in coding, building and shipping with traditional stacks and 
   <img src="https://img.shields.io/badge/Blogs%20Docs-📚-blueviolet?style=for-the-badge" />
 </p>
 
-
-
-
-
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&width=650&height=50&lines=📚+Browse+my+Research+and+Technical+writing+works:">
 </p>
 
-📒[Techncal Docs](https://app.box.com/s/cz06kwa8m8dznlqi2tlah0ul5p7glx1c)
 
-
+<p align="left">
 <a href="https://abdulbuilds.blogspot.com/" target="_blank">
   <img 
     src="https://upload.wikimedia.org/wikipedia/commons/3/31/Blogger.svg"
     alt="Blogger"
-    width="32">
+    width="60">
 </a>
+</p>
+<p align="left">
+<a href="https://app.box.com/s/cz06kwa8m8dznlqi2tlah0ul5p7glx1c" target="_blank">
+  <img 
+    src="https://cdn.simpleicons.org/box/0061D5"
+    alt="Box"
+    width="60">
+</a>
+</p>
 
 
 
