@@ -30,7 +30,7 @@ My Expertise and works revolve around:
 ---
 
 <p align="left">
-  <img src="https://img.shields.io/badge/STACKS%20AND%20PROJECTS-🚀-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STACKS%20AND%20PROJECT-🚀-blueviolet?style=for-the-badge" />
 </p>
 
 I have proficiency in coding, building and shipping with traditional stacks and modern frameworks
@@ -52,38 +52,35 @@ I have proficiency in coding, building and shipping with traditional stacks and 
   <img src="https://img.shields.io/badge/TOP%20PROJECTS-☆-informational?style=for-the-badge" />
 </p>
 
-
-
-
+<p align="center">
 - 📈 Bayantx360-Suite: A modular no-code advanced statistical analysis platform
-> As a modular no-code statistical analysis platform, 360-Suite let users turbocharge research, boost productivity, reducce analysis time by ~80% without installing complex software, paying huge license fee, or writing a single line  of code. With 360-Suite, users can
-> - Generate custom dataset via DataSynthX🧬
-> - Automatically clean messy data via DataCleanX🧹
-> - Diagnose and Fix EFA/CFA issues via EFActor🔍
-> - Run advanced panel regression model via PanelStatX📈
-
+</p>
 <p align="center">
   <a href="https://bayantx360-suite.streamlit.app/">
      <img src="https://gh-card.dev/repos/Abdul-WriteCodes/Bayantx360-Suite.svg?theme=dark" width=250/>
   </a>
 </p>
 
+> As a modular no-code statistical analysis platform, 360-Suite let users turbocharge research, boost productivity, reducce analysis time by ~80% without installing complex software, paying huge license fee, or writing a single line  of code. With 360-Suite, users can
+> - Generate custom dataset via DataSynthX🧬
+> - Automatically clean messy data via DataCleanX🧹
+> - Diagnose and Fix EFA/CFA issues via EFActor🔍
+> - Run advanced panel regression model via PanelStatX📈
+
+
 <p align="center">
-  <a href="https://bayantx360-suite.streamlit.app/">
+  <a href="https://bayanx360-suite.streamlit.app/">
     <img src="https://img.shields.io/badge/🌐%20Launch%20App-360Suite-success?style=flat-square" />
   </a>
 </p>
 
-
-
-
-
-
-
+<p align="center">
+  > Check Repo for more projects👇
+</p>
 
 <p align="center">
   <a href="https://github.com/Abdul-WriteCodes?tab=repositories">
-    <img src="https://img.shields.io/badge/🌐%20Launch%20App-REPO📄-success?style=flat-square" />
+    <img src="https://img.shields.io/badge/🌐%20👉%20PROJECT-REPO🚀-gold?style=flat-square" />
   </a>
 </p>
 
