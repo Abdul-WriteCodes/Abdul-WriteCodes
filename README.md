@@ -56,63 +56,33 @@ I have proficiency in coding, building and shipping with traditional stacks and 
 
 
 - 📈 AI-powered Advanced Data Analytics SaaS
-> Researchers and students struggle with Panel Regression (accessibility and deep technical learning curve are top influencing barriers in using tools like R and Stata). I built and shipped PanelStatX as a no code, low cost and user friendly SaaS product to solve that.
+> A modular no-code statistical analysis platform for data generation, cleaning, psychometric diagnostics, and advanced regression modeling.
 <p align="center">
-  <a href="https://panelstatx.streamlit.app/">
-     <img src="https://gh-card.dev/repos/Abdul-WriteCodes/PanelStatX.svg?theme=dark" width=250/>
+  <a href="https://bayantx360-suite.streamlit.app/">
+     <img src="https://gh-card.dev/repos/Abdul-WriteCodes/Bayantx360-Suite.svg?theme=dark" width=250/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://panelstatx.streamlit.app/">
-    <img src="https://img.shields.io/badge/🌐%20Launch%20App-PanelStatX-success?style=flat-square" />
+  <a href="https://bayantx360-suite.streamlit.app/">
+    <img src="https://img.shields.io/badge/🌐%20Launch%20App-360Suite-success?style=flat-square" />
   </a>
 </p>
 
+> As a modular no-code statistical analysis platform, 360-Suite let users turbocharge research, boost productivity, reducce analysis time by ~80% without installing complex software, paying huge license fee, or writing a single line  of code. With 360-Suite, users can
+> - Generate custom dataset via DataSynthX🧬
+> - Automatically clean messy data via DataCleanX🧹
+> - Diagnose and Fix EFA/CFA issues via EFActor🔍
+> - Run advanced panel regression model via PanelStatX📈
 
 
-- 🔬 EFA/CFA Diagnostic & Refinement Tool
->Researchers, students, data analysts & data scientists often struggle with unreliable factor models caused by weak and cross-loading variables in Exploratory Factor Analysis (EFA) and Confirmatory Factor Analysis (CFA). I built and shipped EFActor as a low-cost, no-code diagnostic SaaS that identifies and eliminates these issues, helping users produce cleaner, more reliable factor structures and accelerate their analysis.
-<p align="center">
-  <a href="https://efactor.streamlit.app/">
-    <img src="https://gh-card.dev/repos/Abdul-WriteCodes/EFActor.svg?theme=dark" width=250/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://efactor.streamlit.app/">
-    <img src="https://img.shields.io/badge/🌐%20Launch%20App-EFActor-success?style=flat-square" />
-  </a>
-</p>
 
 
-- 🧬 Synthetic Data Generator
-> Researchers, students, and data professionals often face insufficient data — from low survey response rates to limited training samples. I built DataSynthX — an AI-powered SaaS that generates high-quality synthetic datasets which preserve the statistical structure of the original data, enabling more reliable analysis and model development.
-<p align="center">
-  <a href="https://datasynthx.streamlit.app/">
-    <img src="https://gh-card.dev/repos/Abdul-WriteCodes/DataSynthX.svg?theme=dark" width=250/>
-  </a>
-</p>
+
 
 <p align="center">
-  <a href="https://datasynthx.streamlit.app/">
-    <img src="https://img.shields.io/badge/🌐%20Launch%20App-DataSynthx-success?style=flat-square" />
-  </a>
-</p>
-
-
-
-- 📄 A Research Synthesis & Intelligence Platform
-> Literature reviews across dozens of papers are slow, manual, and difficult to synthesize effectively. To solve this, I built EmpiricX— an AI-powered research assistant that analyzes multiple papers, surfaces key insights, highlights gaps, and identifies patterns of convergence and divergence across studies. 
-<p align="center">
-  <a href="https://empiricx.streamlit.app/">
-    <img src="https://gh-card.dev/repos/Abdul-WriteCodes/EmpiricX.svg?theme=dark" width=250/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://empiricx.streamlit.app/">
-    <img src="https://img.shields.io/badge/🌐%20Launch%20App-EmpiricX📄-success?style=flat-square" />
+  <a href="https://github.com/Abdul-WriteCodes?tab=repositories">
+    <img src="https://img.shields.io/badge/🌐%20Launch%20App-REPO📄-success?style=flat-square" />
   </a>
 </p>
 
