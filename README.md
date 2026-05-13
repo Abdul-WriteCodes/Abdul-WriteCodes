@@ -46,7 +46,7 @@ I have proficiency in coding, building and shipping with traditional stacks and 
   <img src="https://img.shields.io/badge/Mistral-AI-orange?style=for-the-badge" />
 </p>
 
-> Over 10 production grade apps and systems have been shipped
+<p align="center">🚀</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/TOP%20PROJECTS-☆-informational?style=for-the-badge" />
