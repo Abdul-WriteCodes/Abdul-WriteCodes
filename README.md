@@ -71,7 +71,7 @@ I have proficiency in coding, building and shipping with traditional stacks and 
 
 
 <p align="center">
-  <a href="https://bayanx360-suite.streamlit.app/">
+  <a href="https://bayantx360-suite.streamlit.app/">
     <img src="https://img.shields.io/badge/🌐%20Launch%20App-360Suite-success?style=flat-square" />
   </a>
 </p>
