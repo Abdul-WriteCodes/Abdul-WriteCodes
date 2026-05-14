@@ -46,7 +46,7 @@ I have proficiency in coding, building and shipping with traditional stacks and 
   <img src="https://img.shields.io/badge/Mistral-AI-orange?style=for-the-badge" />
 </p>
 
-> Over 10 production grade apps and systems have been shipped
+<p align="center">🚀</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/TOP%20PROJECTS-☆-informational?style=for-the-badge" />
@@ -61,7 +61,9 @@ I have proficiency in coding, building and shipping with traditional stacks and 
   </a>
 </p>
 
-> As a modular no-code statistical analysis platform, 360-Suite let users turbocharge research, boost productivity, reducce analysis time by ~80% without installing complex software, paying huge license fee, or writing a single line  of code. With 360-Suite, users can
+> I am building 360-Suite as a modular no-code statistical analysis platform that let researchers, students and data analysts turbocharge research, boost productivity, reducce analysis time by ~80% without installing complex software, paying huge license fee, or writing a single line  of code.
+> 
+> Within 360-Suite currently, user can :
 > - Generate custom dataset via DataSynthX🧬
 > - Automatically clean messy data via DataCleanX🧹
 > - Diagnose and Fix EFA/CFA issues via EFActor🔍
@@ -74,8 +76,9 @@ I have proficiency in coding, building and shipping with traditional stacks and 
   </a>
 </p>
 
+---
 <p align="center">
-  > Check Repo for more projects👇
+  👇Check Repo for more projects
 </p>
 
 <p align="center">
@@ -101,19 +104,32 @@ I have proficiency in coding, building and shipping with traditional stacks and 
 
 ---
 
-<p align="left">
-  <img src="https://img.shields.io/badge/TECHNICAL%20DOCS-📚-blueviolet?style=for-the-badge" />
+<p align="centre">
+  <img src="https://img.shields.io/badge/Blogs%20Docs-📚-blueviolet?style=for-the-badge" />
 </p>
-
-
-
-
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&width=650&height=50&lines=📚+Browse+my+Research+and+Technical+writing+works:">
 </p>
 
-📒[Techncal Docs](https://app.box.com/s/cz06kwa8m8dznlqi2tlah0ul5p7glx1c)
+
+<p align="center">
+<a href="https://abdulbuilds.blogspot.com/" target="_blank">
+  <img 
+    src="https://upload.wikimedia.org/wikipedia/commons/3/31/Blogger.svg"
+    alt="Blogger"
+    width="60">
+</a>
+</p>
+<p align="center">
+<a href="https://app.box.com/s/cz06kwa8m8dznlqi2tlah0ul5p7glx1c" target="_blank">
+  <img 
+    src="https://cdn.simpleicons.org/box/0061D5"
+    alt="Box"
+    width="60">
+</a>
+</p>
+
 
 
 ---
@@ -130,8 +146,8 @@ I can help/collaborate with you on:
 </p>
 
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/abdul-azeez-olohunjuwon-anafi-baa64a199/">
+<p align="center">
+  <a href="https://www.linkedin.com/in/anafiabdul">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="30" />
   </a>
   &nbsp;
