@@ -22,7 +22,7 @@ My Expertise and works revolve around:
 - 🚀 AI System Design and Development
 - 💰 SaaS Product Engineering
 - 📈 Market Research and Data Analytics
-- 📝 Academic and Technical Writing
+- 📝 Technical Writing
 - 🧩 Strategic and Business 
 </p>
 
@@ -66,7 +66,7 @@ I have proficiency in coding, building and shipping with traditional stacks and 
 
 <p align="center">
   <a href="https://bayantx360.github.io/Bayantx360/">
-    <img src="https://img.shields.io/badge/🌐%20👉%20VISIT-SITE🚀-gold?style=flat-square" />
+    <img src="https://img.shields.io/badge/🌐%20👉%20VISIT-SITE🚀-cyan?style=flat-square" />
   </a>
 </p>
 
