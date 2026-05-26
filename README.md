@@ -83,14 +83,14 @@ I have proficiency in coding, building and shipping with traditional stacks and 
 
 <p align="center">
   <a href="https://bayantx360-suite.streamlit.app/">
-    <img src="https://img.shields.io/badge/🌐%20Launch%20App-360Suite-success?style=flat-square" />
+    <img src="https://img.shields.io/badge/🌐%20Launch%20App-360--Suite-teal?style=flat-square" />
   </a>
 </p>
 
   > - BizTrack-OS: A modular data-driven system that enables SMEs manage inventory, track sales, issue invoice and monitor performance growth
 <p align="center">
   <a href="https://biztrack.streamlit.app/">
-    <img src="https://img.shields.io/badge/🌐%20Launch%20App-BizTrack--OS-success?style=flat-square" />
+    <img src="https://img.shields.io/badge/🌐%20Launch%20App-BizTrack--OS-orange?style=flat-square" />
   </a>
 </p>
 
