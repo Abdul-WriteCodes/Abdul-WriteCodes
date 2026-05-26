@@ -126,9 +126,7 @@ I have proficiency in coding, building and shipping with traditional stacks and 
   <img src="https://img.shields.io/badge/Blogs%20Docs-📚-blueviolet?style=for-the-badge" />
 </p>
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&width=650&height=50&lines=📚+Browse+my+Research+and+Technical+writing+works:">
-</p>
+📢Explore the Build Experience and Lessons I'm Documenting and Sharing Publicly
 
 
 <p align="center">
@@ -138,8 +136,10 @@ I have proficiency in coding, building and shipping with traditional stacks and 
     alt="Blogger"
     width="80">
 </a>
-</p>
-<p align="center">
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 <a href="https://app.box.com/s/cz06kwa8m8dznlqi2tlah0ul5p7glx1c" target="_blank">
   <img 
     src="https://cdn.simpleicons.org/box/0061D5"
@@ -177,7 +177,6 @@ I can help/collaborate with you on:
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="60" />
   </a>
   &nbsp;
-
   <a href="https://x.com/Abdul_git07" target="_blank">
   <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter/X" width="60" />
   </a>
