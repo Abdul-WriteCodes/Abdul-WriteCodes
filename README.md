@@ -136,7 +136,7 @@ I have proficiency in coding, building and shipping with traditional stacks and 
   <img 
     src="https://upload.wikimedia.org/wikipedia/commons/3/31/Blogger.svg"
     alt="Blogger"
-    width="200">
+    width="80">
 </a>
 </p>
 <p align="center">
@@ -144,7 +144,7 @@ I have proficiency in coding, building and shipping with traditional stacks and 
   <img 
     src="https://cdn.simpleicons.org/box/0061D5"
     alt="Box"
-    width="60">
+    width="80">
 </a>
 </p>
 
