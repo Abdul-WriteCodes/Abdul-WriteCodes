@@ -52,6 +52,13 @@ I have proficiency in coding, building and shipping with traditional stacks and 
   <img src="https://img.shields.io/badge/TOP%20PROJECTS-☆-informational?style=for-the-badge" />
 </p>
 
+
+<p align="center">
+  <img src="Assets/Bayantx360.jpg" alt="Logo" width="1000"/>
+</p>
+
+
+
 <p align="center">
 - 🌐 Bayantx360-Suite: A modular no-code advanced statistical analysis platform
 </p>
