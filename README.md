@@ -136,7 +136,7 @@ I have proficiency in coding, building and shipping with traditional stacks and 
   <img 
     src="https://upload.wikimedia.org/wikipedia/commons/3/31/Blogger.svg"
     alt="Blogger"
-    width="60">
+    width="200">
 </a>
 </p>
 <p align="center">
