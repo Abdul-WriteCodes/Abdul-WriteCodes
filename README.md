@@ -46,6 +46,9 @@ I have proficiency in coding, building and shipping with traditional stacks and 
   <img src="https://img.shields.io/badge/Mistral-AI-orange?style=for-the-badge" />
 </p>
 
+
+---
+
 <p align="center">🚀</p>
 
 <p align="center">
