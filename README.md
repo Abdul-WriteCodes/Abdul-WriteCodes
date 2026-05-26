@@ -52,7 +52,7 @@ I have proficiency in coding, building and shipping with traditional stacks and 
 <p align="center">🚀</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TOP%20PROJECTS-☆-informational?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TOP%20PROJECTS-☆-gold?style=for-the-badge" />
 </p>
 
 
@@ -101,7 +101,7 @@ I have proficiency in coding, building and shipping with traditional stacks and 
 
 <p align="center">
   <a href="https://github.com/Abdul-WriteCodes?tab=repositories">
-    <img src="https://img.shields.io/badge/🌐%20👉%20PROJECT-REPO🚀-gold?style=flat-square" />
+    <img src="https://img.shields.io/badge/🌐%20👉%20PROJECT-REPO🚀-gold?style=social" />
   </a>
 </p>
 
