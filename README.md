@@ -54,19 +54,13 @@ I have proficiency in coding, building and shipping with traditional stacks and 
 
 
 <p align="center">
-  <img src="Assets/Bayantx360.jpg" alt="Logo" width="150"/>
-</p>
-
-
-
-<p align="center">
 - 🌐 Bayantx360-Suite: A modular no-code advanced statistical analysis platform
 </p>
+
 <p align="center">
-  <a href="https://bayantx360-suite.streamlit.app/">
-     <img src="https://gh-card.dev/repos/Abdul-WriteCodes/Bayantx360-Suite.svg?theme=dark" width=250/>
-  </a>
+  <img src="Assets/Bayantx360.jpg" alt="Logo" width="180"/>
 </p>
+
 
 > I am building 360-Suite as a modular no-code statistical analysis platform that let researchers, students and data analysts turbocharge research, boost productivity, reducce analysis time by ~80% without installing complex software, paying huge license fee, or writing a single line  of code.
 > 
