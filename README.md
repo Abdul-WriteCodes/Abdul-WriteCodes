@@ -62,13 +62,13 @@ I have proficiency in coding, building and shipping with traditional stacks and 
 </p>
 
 
-> I am building and bootstrapping Bayantx360 to provides practical low-code and no-code AI-powered solutions and systems that help researchers, institutions, and SMEs automate workflows, analyze data, and run operations more efficient.
-> Bayantx360 currently has two main SaaS profucts
-> - The 360-Suite: A modular no-code statistical analysis platform that let researchers, students and data analysts accelerate research analysis, boost productivity, reduce analysis time by ~80% without installing complex software, paying huge license fee, or writing a single line  of code. Within 360-Suite currently, user can :
- > - Generate custom dataset via DataSynthX🧬
->  - Automatically clean messy data via DataCleanX🧹
-    > - Diagnose and Fix EFA/CFA issues via EFActor🔍
-    > - Run advanced panel regression model via PanelStatX📈
+> I am building and bootstrapping Bayantx360 to provides practical low-code and no-code AI-powered solutions and systems for researchers, institutions, and SMEs to automate workflows, analyze data, and run operations efficiently.
+> Bayantx360 currently has two main SaaS products
+  > - The 360-Suite: A modular no-code statistical analysis platform for rapid research and data analysis— boosting productivity and reduce analysis time by ~80%. Within 360-Suite currently, user can :
+>     -  > - Generate custom dataset via DataSynthX🧬
+>     -  > - Automatically clean messy data via DataCleanX🧹
+>     -  > - Diagnose and Fix EFA/CFA issues via EFActor🔍
+>     -  > - Run advanced panel regression model via PanelStatX📈
 
 
 <p align="center">
