@@ -66,7 +66,7 @@ I have proficiency in coding, building and shipping with traditional stacks and 
 
 <p align="center">
   <a href="https://bayantx360.github.io/Bayantx360/">
-    <img src="https://img.shields.io/badge/🌐%20👉%20VISIT-SITE🚀-cyan?style=flat-square" />
+    <img src="https://img.shields.io/badge/🌐%20👉%20VISIT-SITE🚀-cyan?style=social" />
   </a>
 </p>
 
@@ -96,12 +96,12 @@ I have proficiency in coding, building and shipping with traditional stacks and 
 
 ---
 <p align="center">
-  👇Check Repo for more projects
+  Check Repo for more projects👇
 </p>
 
 <p align="center">
   <a href="https://github.com/Abdul-WriteCodes?tab=repositories">
-    <img src="https://img.shields.io/badge/🌐%20👉%20PROJECT-REPO🚀-gold?style=social" />
+    <img src="https://img.shields.io/badge/▶️%20EXPLORE-REPO📟-gold?style=flat" />
   </a>
 </p>
 
