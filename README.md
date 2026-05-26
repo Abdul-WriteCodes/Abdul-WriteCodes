@@ -54,7 +54,7 @@ I have proficiency in coding, building and shipping with traditional stacks and 
 
 
 <p align="center">
-  <img src="Assets/Bayantx360.jpg" alt="Logo" width="300"/>
+  <img src="Assets/Bayantx360.jpg" alt="Logo" width="150"/>
 </p>
 
 
