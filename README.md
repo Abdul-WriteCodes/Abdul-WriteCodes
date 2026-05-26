@@ -65,7 +65,7 @@ I have proficiency in coding, building and shipping with traditional stacks and 
 > I am building and bootstrapping Bayantx360 to provides practical low-code and no-code AI-powered solutions and systems for researchers, institutions, and businesses to automate workflows, analyze data, and run operations efficiently.
 >
 > Bayantx360 currently has two main SaaS products: The 360-Suite & BizTrack-OS
-  > - The 360-Suite🚀: A modular no-code statistical analysis platform for rapid research and data analysis— boosting productivity and reduce analysis time by ~80%. Within 360-Suite currently, user can :
+  > - The 360-Suite: A modular no-code statistical analysis platform for rapid research and data analysis— boosting productivity and reduce analysis time by ~80%. Within 360-Suite currently, user can :
 >    > - Generate custom dataset via DataSynthX🧬
 >    > - Automatically clean messy data via DataCleanX🧹
 >    > - Diagnose and Fix EFA/CFA issues via EFActor🔍
@@ -78,7 +78,7 @@ I have proficiency in coding, building and shipping with traditional stacks and 
   </a>
 </p>
 
-  > - BizTrack-OS📦: A modular data-driven system that enables SMEs manage inventory, track sales, issue invoice and monitor performance growth
+  > - BizTrack-OS: A modular data-driven system that enables SMEs manage inventory, track sales, issue invoice and monitor performance growth
 <p align="center">
   <a href="https://biztrack.streamlit.app/">
     <img src="https://img.shields.io/badge/🌐%20Launch%20App-BizTrack--OS-success?style=flat-square" />
