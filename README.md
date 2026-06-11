@@ -23,7 +23,7 @@ My Expertise and works revolve around:
 - 💰 SaaS Product Engineering
 - 📈 Market Research and Data Analytics
 - 📝 Technical Writing
-- 🧩 Strategic and Business 
+- 🧩 Strategic and Business Consulting
 </p>
 
 
