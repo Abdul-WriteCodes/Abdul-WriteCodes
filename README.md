@@ -61,7 +61,7 @@ I have proficiency in coding, building and shipping with traditional stacks and 
 </p>
 
 <p align="center">
-  <img src="Assets/c0.png" alt="Logo" width="180"/>
+  <img src="Assets/Logoz3.png" alt="Logo" width="180"/>
 </p>
 
 <p align="center">
