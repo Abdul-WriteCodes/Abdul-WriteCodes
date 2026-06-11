@@ -64,16 +64,6 @@ I have proficiency in coding, building and shipping with traditional stacks and 
   <img src="Assets/Bayantx360.jpg" alt="Logo" width="180"/>
 </p>
 
-
-<p align="center">
-  <img src="Assets/Bayantx360.jpg"
-       alt="Logo"
-       width="180"
-       style="border-radius:50%;" />
-</p>
-
-
-
 <p align="center">
   <a href="https://bayantx360.github.io/Bayantx360/">
     <img src="https://img.shields.io/badge/🌐%20👉%20VISIT-SITE🚀-cyan?style=social" />
