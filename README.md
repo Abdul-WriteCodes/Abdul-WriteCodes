@@ -189,10 +189,11 @@ I can help/collaborate with you on:
   <img src="https://img.shields.io/badge/FUN%20-FACT🀄-blueviolet?style=for-the-badge" />
 </p>
 
-I play Shogi in my spare time.
+I play Shogi in my spare time 🀄.
 
 Current record against Level 4 CPU:
-🏆 55 wins — 38 losses
+- 55 wins🏆
+- 38 Lessons Learned from Loss🤸
 
 <p align="center">
   <img src="Assets/Shogi2.jpg" width="200">
