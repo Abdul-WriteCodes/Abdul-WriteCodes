@@ -191,11 +191,11 @@ I can help/collaborate with you on:
 
 I play Shogi in my spare time 🀄.
 
-Current record against Level 4 CPU:
-- 55 wins🏆
-- 38 Lessons Learned from Defeat🤸
-
 <p align="center">
   <img src="Assets/Shogi2.jpg" width="150">
 </p>
+
+Current record against Level 4 CPU:
+- 55 wins🏆
+- 38 Lessons Learned from Defeat🤸
 
