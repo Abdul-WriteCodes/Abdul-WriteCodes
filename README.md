@@ -185,7 +185,9 @@ I can help/collaborate with you on:
 </p>
 
 ---
-## Fun Fact 🀄
+<p align="centre">
+  <img src="https://img.shields.io/badge/Blogs%20FUN-FACT🀄-blueviolet?style=for-the-badge" />
+</p>
 
 I play Shogi in my spare time.
 
