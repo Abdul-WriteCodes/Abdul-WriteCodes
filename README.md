@@ -196,6 +196,6 @@ Current record against Level 4 CPU:
 - 38 Lessons Learned from Defeat🤸
 
 <p align="center">
-  <img src="Assets/Shogx.jpg" width="200">
+  <img src="Assets/Shogx.jpeg" width="200">
 </p>
 
