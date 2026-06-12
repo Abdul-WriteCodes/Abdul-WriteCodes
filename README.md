@@ -184,4 +184,15 @@ I can help/collaborate with you on:
 
 </p>
 
+---
+## Fun Fact 🀄
+
+I play Shogi in my spare time.
+
+Current record against Level 4 CPU:
+🏆 55 wins — 38 losses
+
+<p align="center">
+  <img src="assets/shogi-record.png" width="500">
+</p>
 
