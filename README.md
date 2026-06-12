@@ -193,6 +193,6 @@ Current record against Level 4 CPU:
 🏆 55 wins — 38 losses
 
 <p align="center">
-  <img src="Assets/Shogi2.jpg" width="500">
+  <img src="Assets/Shogi2.jpg" width="200">
 </p>
 
