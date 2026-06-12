@@ -186,7 +186,7 @@ I can help/collaborate with you on:
 
 ---
 <p align="centre">
-  <img src="https://img.shields.io/badge/Blogs%20FUN-FACT🀄-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FUN%20-FACT🀄-blueviolet?style=for-the-badge" />
 </p>
 
 I play Shogi in my spare time.
