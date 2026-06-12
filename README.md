@@ -193,7 +193,7 @@ I play Shogi in my spare time 🀄.
 
 Current record against Level 4 CPU:
 - 55 wins🏆
-- 38 Lessons Learned from Loss🤸
+- 38 Lessons Learned from Defeat🤸
 
 <p align="center">
   <img src="Assets/Shogi2.jpg" width="200">
