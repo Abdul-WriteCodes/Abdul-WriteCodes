@@ -71,7 +71,7 @@ I have proficiency in coding, building and shipping with traditional stacks and 
 </p>
 
 
-> I am building and bootstrapping Bayantx360 to provides practical low-code and no-code AI-powered solutions and systems for researchers, institutions, and businesses to automate workflows, analyze data, and run operations efficiently.
+> I am building and bootstrapping Bayantx360 to provides practical AI-powered and data driven solutions for researchers, institutions, and businesses saving the time, facilitating cost reduction and bringing efficiency.
 >
 > Bayantx360 currently has two main SaaS products: The 360-Suite & BizTrack-OS
   > - The 360-Suite: A modular no-code statistical analysis platform for rapid research and data analysis— boosting productivity and reduce analysis time by ~80%. Within 360-Suite currently, user can :
