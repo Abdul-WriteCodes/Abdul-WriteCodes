@@ -33,7 +33,7 @@ My Expertise and works revolve around:
   <img src="https://img.shields.io/badge/STACKS%20AND%20PROJECT-🚀-blueviolet?style=for-the-badge" />
 </p>
 
-I have proficiency in coding, building and shipping with traditional stacks and modern frameworks
+Stacks that I use
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,scikitlearn,streamlit,html,tailwind,pytorch,docker,tensorflow" />
 </p>
