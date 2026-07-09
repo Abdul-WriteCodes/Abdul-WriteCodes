@@ -64,7 +64,7 @@ Stacks that I use
 
 
 <p align="center">
-- 🌐 Bayantx360: Simplifying Advanced AI, Research & Data Analytics Solutions for Researchers, Enterprise and Businesses
+- 🌐 Bayantx360: Simplifying Advanced AI, Research & Data Analytics Solutions for Researchers, Organisations and Businesses
 </p>
 
 <p align="center">
