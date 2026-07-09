@@ -50,7 +50,7 @@ I have proficiency in coding, building and shipping with traditional stacks and 
 
 
 <p align="center">
-  <img src="Assets/Saaskit.png" alt="Logo" width="220"/>
+  <img src="Assets/Saaskit.png" alt="Logo" width="280"/>
 </p>
 
 
