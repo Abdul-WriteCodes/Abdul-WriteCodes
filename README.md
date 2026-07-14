@@ -48,12 +48,6 @@ Stacks that I use
 
 
 
-
-<p align="center">
-  <img src="Assets/Saaskit.png" alt="Logo" width="320"/>
-</p>
-
-
 ---
 
 <p align="center">🚀</p>
