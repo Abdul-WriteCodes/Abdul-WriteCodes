@@ -58,12 +58,13 @@ Stacks that I use
 
 
 <p align="center">
-- 🌐 Bayantx360: Simplifying Advanced AI, Research & Data Analytics Solutions for Researchers, Organisations and Businesses
+  <img src="Assets/Logoz3.png" alt="Logo" width="50"/>
 </p>
 
 <p align="center">
-  <img src="Assets/Logoz3.png" alt="Logo" width="50"/>
+- 🌐 Bayantx360: Simplifying Advanced AI, Research & Data Analytics Solutions for Researchers, Organisations and Businesses
 </p>
+
 
 <p align="center">
   <a href="https://bayantx360.github.io/Bayantx360/">
@@ -72,7 +73,7 @@ Stacks that I use
 </p>
 
 
-> I am building and bootstrapping Bayantx360 to provides practical AI-powered and data driven solutions for researchers, institutions, and businesses saving the time, facilitating cost reduction and bringing efficiency.
+> I'm bootstrapping Bayantx360 to provides practical AI-powered and data driven solutions for researchers, institutions, and businesses saving the time, facilitating cost reduction and bringing efficiency.
 >
 > Bayantx360 currently has two main SaaS products: StaX360 & BizTrack-OS
   > - The StaX360: A modular no-code statistical analysis platform for rapid research and data analysis— boosting productivity and reduce analysis time by ~80%. Within 360-Suite currently, user can :
