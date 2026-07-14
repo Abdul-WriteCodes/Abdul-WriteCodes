@@ -62,7 +62,7 @@ Stacks that I use
 </p>
 
 <p align="center">
-  <img src="Assets/Logoz3.png" alt="Logo" width="180"/>
+  <img src="Assets/Logoz3.png" alt="Logo" width="50"/>
 </p>
 
 <p align="center">
