@@ -36,7 +36,7 @@ My Expertise and works revolve around:
 
 Stacks that I use
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,scikitlearn,streamlit,html,tailwind,pytorch,typescript,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,scikitlearn,streamlit,html,tailwind,supabase,pytorch,typescript,tensorflow" />
 </p>
 
 <p align="center">
