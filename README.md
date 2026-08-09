@@ -121,7 +121,6 @@ Stacks that I use
   <img src="https://github-stats-extended.vercel.app/api?username=Abdul-WriteCodes&show_icons=true&theme=algolia" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-WriteCodes&theme=algolia" height="165"/>
 </p>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abdul-WriteCodes&theme=algolia" height="165"/>
 
 ---
 
