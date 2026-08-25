@@ -74,15 +74,7 @@ Stacks that I use
 </p>
 
 
-> I'm bootstrapping Bayantx360 to provides practical AI-powered and data driven solutions for researchers, institutions, and businesses saving the time, facilitating cost reduction and bringing efficiency.
->
-> Bayantx360 currently has two main SaaS products: StaX360 & BizTrack-OS
-  > - The StaX360: A modular no-code statistical analysis platform for rapid research and data analysis— boosting productivity and reduce analysis time by ~80%. Within 360-Suite currently, user can :
->    > - Generate custom dataset via DataSynthX🧬
->    > - Automatically clean messy data via DataCleanX🧹
->    > - Diagnose and Fix EFA/CFA issues via EFActor🔍
->    > - Run advanced panel regression model via PanelStatX📈
-
+> - The StaX360: A modular no-code statistical analysis platform for rapid research and data analysis— boosting productivity and reduce analysis time by ~80%. 
 
 <p align="center">
   <a href="https://stax360.streamlit.app/">
@@ -90,7 +82,7 @@ Stacks that I use
   </a>
 </p>
 
-  > - BizTrack-OS📒: A modular data-driven operating system that integrate with Whatsapp, helping SMEs manage inventory, track sales, issue invoice, track debtors, monitor product expiry date and performance growth
+> - BizTrack-OS📒: A modular data-driven operating system that integrate with Whatsapp, helping SMEs manage inventory, track sales, issue invoice, track debtors, monitor product expiry date and performance growth
 <p align="center">
   <a href="https://biztrack.streamlit.app/">
     <img src="https://img.shields.io/badge/🌐%20Launch%20App-BizTrack--OS-orange?style=flat-square" />
