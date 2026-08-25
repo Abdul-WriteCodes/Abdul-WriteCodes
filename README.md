@@ -57,13 +57,6 @@ Stacks that I use
   <img src="https://img.shields.io/badge/TOP%20PROJECTS-☆-gold?style=for-the-badge" />
 </p>
 
-
-<p align="center">
-  <img src="Assets/Logoz3.png" alt="Logo" width="50"/>
-</p>
-
-
-
 > - StaX360: A modular no-code statistical analysis platform for rapid research and data analysis— boosting productivity and reduce analysis time by ~80%. 
 
 <p align="center">
