@@ -59,7 +59,7 @@ Stacks that I use
 
 > - StaX360: A modular no-code statistical analysis platform for rapid research and data analysis— boosting productivity and reduce analysis time by ~80%. 
 
-<p align="center">
+<p align="left">
   <a href="https://stax360.streamlit.app/">
     <img src="https://img.shields.io/badge/🌐%20Launch%20App-360--Suite-teal?style=flat-square" />
   </a>
@@ -77,7 +77,7 @@ Stacks that I use
   Check Repo for more projects👇
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/Abdul-WriteCodes?tab=repositories">
     <img src="https://img.shields.io/badge/▶️%20EXPLORE-REPO📟-gold?style=flat" />
   </a>
