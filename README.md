@@ -66,7 +66,7 @@ Stacks that I use
 </p>
 
 > - BizTrack-OS📒: A modular data-driven operating system that integrate with Whatsapp, helping SMEs manage inventory, track sales, issue invoice, track debtors, monitor product expiry date and performance growth
-<p align="center">
+<p align="left">
   <a href="https://biztrack.streamlit.app/">
     <img src="https://img.shields.io/badge/🌐%20Launch%20App-BizTrack--OS-orange?style=flat-square" />
   </a>
@@ -77,7 +77,7 @@ Stacks that I use
   Check Repo for more projects👇
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/Abdul-WriteCodes?tab=repositories">
     <img src="https://img.shields.io/badge/▶️%20EXPLORE-REPO📟-gold?style=flat" />
   </a>
