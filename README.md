@@ -62,19 +62,9 @@ Stacks that I use
   <img src="Assets/Logoz3.png" alt="Logo" width="50"/>
 </p>
 
-<p align="center">
-- 🌐 Bayantx360: Simplifying Advanced AI, Research & Data Analytics Solutions for Researchers, Organisations and Businesses
-</p>
 
 
-<p align="center">
-  <a href="https://bayantx360.github.io/Bayantx360/">
-    <img src="https://img.shields.io/badge/🌐%20👉%20VISIT-SITE🚀-cyan?style=social" />
-  </a>
-</p>
-
-
-> - The StaX360: A modular no-code statistical analysis platform for rapid research and data analysis— boosting productivity and reduce analysis time by ~80%. 
+> - StaX360: A modular no-code statistical analysis platform for rapid research and data analysis— boosting productivity and reduce analysis time by ~80%. 
 
 <p align="center">
   <a href="https://stax360.streamlit.app/">
