@@ -59,7 +59,7 @@ Stacks that I use
 
 
 <p align="left">
-  <img src="https://img.shields.io/badge/StaX360-📈-dark?style=for-the-badge&labelColor=blue" />
+  <img src="https://img.shields.io/badge/StaX360-💰-grey?style=for-the-badge&labelColor=blue" />
 </p>
 
 > - 📈 StaX360: A modular no-code statistical analysis platform for rapid research and data analysis— boosting productivity and reduce analysis time by ~80%. 
@@ -73,7 +73,7 @@ Stacks that I use
 --
 
 <p align="left">
-  <img src="https://img.shields.io/badge/BizTrack--OS-📒-dark?style=for-the-badge&labelColor=blue" />
+  <img src="https://img.shields.io/badge/BizTrack--OS-💰-grey?style=for-the-badge&labelColor=blue" />
 </p>
 
 > - 📒 BizTrack-OS: A modular data-driven operating system that integrate with Whatsapp, helping SMEs manage inventory, track sales, issue invoice, track debtors, monitor product expiry date and performance growth
