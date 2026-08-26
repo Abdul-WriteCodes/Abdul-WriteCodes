@@ -59,7 +59,7 @@ Stacks that I use
 
 
 <p align="left">
-  <img src="https://img.shields.io/badge/StaX360-📈-teal?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/StaX360-📈-teal?style=for-the-badge&labelColor=red" />
 </p>
 
 > - 📈 StaX360: A modular no-code statistical analysis platform for rapid research and data analysis— boosting productivity and reduce analysis time by ~80%. 
