@@ -66,7 +66,7 @@ Stacks that I use
 
 <p align="left">
   <a href="https://stax360.streamlit.app/">
-    <img src="https://img.shields.io/badge/🌐%20Launch%20App-360--Suite-teal?style=flat-square" />
+    <img src="https://img.shields.io/badge/🌐%20Launch%20App-StaX360-teal?style=flat-square" />
   </a>
 </p>
 
@@ -79,7 +79,7 @@ Stacks that I use
 > - 📒 BizTrack-OS: A modular data-driven operating system that integrate with Whatsapp, helping SMEs manage inventory, track sales, issue invoice, track debtors, monitor product expiry date and performance growth
 <p align="left">
   <a href="https://biztrack.streamlit.app/">
-    <img src="https://img.shields.io/badge/🌐%20Launch%20App-BizTrack--OS-orange?style=flat-square" />
+    <img src="https://img.shields.io/badge/🌐%20Launch%20App-BizTrack--OS-teal?style=flat-square" />
   </a>
 </p>
 
