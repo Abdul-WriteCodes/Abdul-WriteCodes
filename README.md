@@ -104,9 +104,11 @@ Stacks that I use
 
 <p align="center">
   
-  <img src="https://github-stats-extended.vercel.app/api?username=Abdul-WriteCodes&show_icons=true&theme=algolia" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Abdul-WriteCodes&show_icons=true&theme=algolia&hide_rank=true" height="165"/>
   <img src="https://streak-stats.demolab.com/?user=Abdul-WriteCodes&theme=algolia" height="165"/>
 </p>
+
+
 
 ---
 
