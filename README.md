@@ -40,11 +40,11 @@ Stacks that I use
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude-AI-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Streamlit-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/GPT-OpenAI-black?style=for-the-badge&logo=openai" />
-  <img src="https://img.shields.io/badge/Gemini-Google-blue?style=for-the-badge&logo=google" />
+  <img src="https://img.shields.io/badge/Reflex-blue?style=for-the-badge&logo=google" />
   <img src="https://img.shields.io/badge/Llama-Meta-0467DF?style=for-the-badge&logo=meta" />
-  <img src="https://img.shields.io/badge/Mistral-AI-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Capacitor-orange?style=for-the-badge" />
 </p>
 
 
