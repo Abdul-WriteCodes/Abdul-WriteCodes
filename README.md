@@ -62,7 +62,7 @@ Stacks that I use
   <img src="https://img.shields.io/badge/Crea8it Studio-💰-grey?style=for-the-badge&labelColor=blue" />
 </p>
 
-> - 📈 Crea8it: A modular no-code statistical analysis platform for rapid research and data analysis— boosting productivity and reduce analysis time by ~80%. 
+> - 📟 Crea8it: a vertical SaaS / platform SaaS for product building, distribution, and tech-career development.
 
 <p align="left">
   <a href="https://crea8it.streamlit.app/">
