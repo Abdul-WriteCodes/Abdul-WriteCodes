@@ -59,6 +59,19 @@ Stacks that I use
 
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Crea8it Studio-💰-grey?style=for-the-badge&labelColor=blue" />
+</p>
+
+> - 📈 Crea8it: A modular no-code statistical analysis platform for rapid research and data analysis— boosting productivity and reduce analysis time by ~80%. 
+
+<p align="left">
+  <a href="https://crea8it.streamlit.app/">
+    <img src="https://img.shields.io/badge/🌐%20Launch%20App-StaX360-teal?style=flat-square" />
+  </a>
+</p>
+--
+
+<p align="left">
   <img src="https://img.shields.io/badge/StaX360-💰-grey?style=for-the-badge&labelColor=blue" />
 </p>
 
