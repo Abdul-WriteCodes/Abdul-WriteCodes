@@ -54,7 +54,7 @@ Stacks that I use
 <p align="center">🚀</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TOP%20PROJECTS-☆-gold?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Top%20SaaS%20Product-☆-gold?style=for-the-badge" />
 </p>
 
 
@@ -62,11 +62,12 @@ Stacks that I use
   <img src="https://img.shields.io/badge/Crea8it Studio-💰-grey?style=for-the-badge&labelColor=blue" />
 </p>
 
-> - 📟 Crea8it: a vertical SaaS / platform SaaS for product building, distribution, and tech-career development.
+> - 📟 Crea8it: a vertical EdTech SaaS for product building, distribution, and tech-career development.
+> - 💰Lifetime Revenue: N53.5k
 
 <p align="left">
   <a href="https://crea8it.streamlit.app/">
-    <img src="https://img.shields.io/badge/🌐%20Launch%20App-StaX360-teal?style=flat-square" />
+    <img src="https://img.shields.io/badge/🌐%20Launch%20App-Crea8it-teal?style=flat-square" />
   </a>
 </p>
 --
@@ -89,7 +90,7 @@ Stacks that I use
   <img src="https://img.shields.io/badge/BizTrack--OS-💰-grey?style=for-the-badge&labelColor=blue" />
 </p>
 
-> - 📒 BizTrack-OS: A modular data-driven operating system that integrate with Whatsapp, helping SMEs manage inventory, track sales, issue invoice, track debtors, monitor product expiry date and performance growth
+> - 📒 BizTrack-OS: A modular Smart Business App for SMEs in managing inventory, trackimg sales, generating invoice, tracking debtors, and monitoring business performance growth
 > - 💰 Lifetime Revenue: N9k
 <p align="left">
   <a href="https://biztrack.streamlit.app/">
