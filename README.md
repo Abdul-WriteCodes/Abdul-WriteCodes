@@ -54,7 +54,7 @@ Stacks that I use
 <p align="center">🚀</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Top%20SaaS%20Product-☆-gold?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Top%20SaaS%20Products-☆-gold?style=flat" />
 </p>
 
 
