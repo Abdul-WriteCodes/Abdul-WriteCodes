@@ -51,12 +51,12 @@ Stacks that I use
 
 ---
 
+
 <p align="center">🚀</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Top%20SaaS%20Products-☆-gold?style=flat" />
+  <img src="https://img.shields.io/badge/Top%20SaaS%20Product-☆-gold?style=flat" />
 </p>
-
 
 <p align="left">
   <img src="https://img.shields.io/badge/Crea8it Studio-💰-grey?style=for-the-badge&labelColor=blue" />
