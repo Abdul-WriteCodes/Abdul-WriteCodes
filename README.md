@@ -90,7 +90,7 @@ Stacks that I use
   <img src="https://img.shields.io/badge/BizTrack--OS-💰-grey?style=for-the-badge&labelColor=blue" />
 </p>
 
-> - 📒 BizTrack-OS: A modular Smart Business App for SMEs in managing inventory, trackimg sales, generating invoice, tracking debtors, and monitoring business performance growth
+> - 📒 BizTrack-OS: A modular Smart Business App for SMEs in managing inventory, trackimg sales, expenses, debtors, and monitoring business performance.
 > - 💰 Lifetime Revenue: N9k
 <p align="left">
   <a href="https://biztrack.streamlit.app/">
