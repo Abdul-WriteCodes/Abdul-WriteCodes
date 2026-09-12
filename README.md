@@ -66,7 +66,7 @@ Stacks that I use
 > - 💰Lifetime Revenue: N53.5k
 
 <p align="left">
-  <a href="https://crea8it.streamlit.app/">
+  <a href="https://crea8it.com/">
     <img src="https://img.shields.io/badge/🌐%20Launch%20App-Crea8it-teal?style=flat-square" />
   </a>
 </p>
