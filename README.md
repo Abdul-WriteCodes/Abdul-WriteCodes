@@ -63,7 +63,7 @@ Stacks that I use
 </p>
 
 > - 📟 Crea8it: a vertical EdTech SaaS for product building, distribution, and tech-career development.
-> - 💰Lifetime Revenue: N53.5k
+
 
 <p align="left">
   <a href="https://crea8it.com/">
@@ -91,7 +91,7 @@ Stacks that I use
 </p>
 
 > - 📒 BizTrack-OS: A modular Smart Business App for SMEs in managing inventory, trackimg sales, expenses, debtors, and monitoring business performance.
-> - 💰 Lifetime Revenue: N27k
+
 <p align="left">
   <a href="https://biztrack.streamlit.app/">
     <img src="https://img.shields.io/badge/🌐%20Launch%20App-BizTrack--OS-teal?style=flat-square" />
