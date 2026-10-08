@@ -62,7 +62,7 @@ Stacks that I use
   <img src="https://img.shields.io/badge/Crea8it Studio-💰-grey?style=for-the-badge&labelColor=blue" />
 </p>
 
-> - 📟 Crea8it: a vertical EdTech SaaS for product building, distribution, and tech-career development.
+> - 📟 Crea8it Studio: a vertical EdTech SaaS for product building, distribution, and tech-career development.
 
 
 <p align="left">
@@ -93,7 +93,7 @@ Stacks that I use
 > - 📒 BizTrack-OS: A modular Smart Business App for SMEs in managing inventory, trackimg sales, expenses, debtors, and monitoring business performance.
 
 <p align="left">
-  <a href="https://biztrack.streamlit.app/">
+  <a href="https://biztrack.8p8.dev/">
     <img src="https://img.shields.io/badge/🌐%20Launch%20App-BizTrack--OS-teal?style=flat-square" />
   </a>
 </p>
