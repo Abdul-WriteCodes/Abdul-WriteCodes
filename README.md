@@ -125,35 +125,6 @@ Stacks that I use
 
 
 
----
-
-<p align="centre">
-  <img src="https://img.shields.io/badge/Blogs%20Docs-📚-blueviolet?style=for-the-badge" />
-</p>
-
-📢Explore the Build Experience and Lessons I'm Documenting and Sharing Publicly
-
-
-<p align="center">
-<a href="https://abdulbuilds.blogspot.com/" target="_blank">
-  <img 
-    src="https://upload.wikimedia.org/wikipedia/commons/3/31/Blogger.svg"
-    alt="Blogger"
-    width="80">
-</a>
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-<a href="https://app.box.com/s/cz06kwa8m8dznlqi2tlah0ul5p7glx1c" target="_blank">
-  <img 
-    src="https://cdn.simpleicons.org/box/0061D5"
-    alt="Box"
-    width="80">
-</a>
-</p>
-
-
 
 ---
 
