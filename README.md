@@ -10,7 +10,7 @@
 ---
 
 
-
+<!---
 <p align="right">
   <img src="https://img.shields.io/badge/EXPERTISE-🧠-blueviolet?style=for-the-badge" />
 </p>
@@ -23,7 +23,7 @@ My Expertise and works revolve around:
 - 🧩 Strategic and Business Consulting
 </p>
 
-
+--->
 ---
 
 <p align="left">
