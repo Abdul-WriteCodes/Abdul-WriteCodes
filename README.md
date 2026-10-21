@@ -122,7 +122,7 @@ Stacks that I use
 
 
 ---
-
+<!---
 <p align="right">
   <img src="https://img.shields.io/badge/COLLABORATE%20WITH%20ME-🤝-blueviolet?style=for-the-badge" />
 </p>
