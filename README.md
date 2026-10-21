@@ -2,6 +2,7 @@
   <img src="Assets/x.jpg" alt="Logo" width="1000"/>
 </p>
 
+<!---
 <p align="left">
   <img src="https://img.shields.io/badge/ABOUT%20ME-☕️-blueviolet?style=for-the-badge" />
 </p>
@@ -10,7 +11,7 @@
 ---
 
 
-<!---
+
 <p align="right">
   <img src="https://img.shields.io/badge/EXPERTISE-🧠-blueviolet?style=for-the-badge" />
 </p>
