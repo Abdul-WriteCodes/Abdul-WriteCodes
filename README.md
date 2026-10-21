@@ -47,7 +47,7 @@ Stacks that I use
 
 ---
 
-
+<!---
 <p align="center">🚀</p>
 
 <p align="center">
@@ -105,7 +105,7 @@ Stacks that I use
   </a>
 </p>
 
-
+--->
 ---
 
 
